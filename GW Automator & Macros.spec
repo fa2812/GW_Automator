@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['GW Auto - GUI.py'],
+    ['main_gui.py'],
     pathex=[],
     binaries=[],
     datas=[
