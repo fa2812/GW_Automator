@@ -48,9 +48,9 @@ def publish():
     rev = "Rev" + rev_var.get()
     draw_report = drawing_var.get()
     if big_project.get() == 1:
-        locate_click(images_folder + "\\GW_zoomtofit.png")
+        rf.locate_click(images_folder + "\\GW_zoomtofit.png")
         for i in range(3):
-            locate_click(images_folder + "\\GW_zoomout.png")
+            rf.locate_click(images_folder + "\\GW_zoomout.png")
             time.sleep(0.5)
     full(False,draw_report)
 
