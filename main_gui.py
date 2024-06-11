@@ -8,7 +8,6 @@ import os
 import pyautogui as pygui
 import customtkinter as ctk
 
-
 ## Main Window ##
 root = ctk.CTk()
 root.geometry("560x200")
@@ -33,9 +32,7 @@ project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
 
 dirname = os.path.abspath(os.path.dirname(__file__))
-#outputs_folder = "C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\.GASWorkS\\.Outputs" 
 outputs_folder = dirname + "\\Outputs"
-#images_folder = "C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GASWorkS_Automator\\images" 
 images_folder = dirname + "\\images"
 types = ["Pipe", "Node", "Customer"]
 
@@ -183,7 +180,7 @@ def open_merge_auto():
     ma_window.resizable(width=False,height=False)
 
 def green():
-    # loops cursor movement and click on top left corner of screen
+    # loops cursor movement and clicks on top left corner of screen
     while True:
         pygui.moveTo(5,5,duration=0)
         pygui.moveTo(10,10,duration=1)
