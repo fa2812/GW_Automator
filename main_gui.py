@@ -2,7 +2,6 @@
 import time
 import subprocess
 import tkinter as tk
-import os
 
 # Extra modules
 import pyautogui as pygui
@@ -13,14 +12,11 @@ import report_functions as rf
 
 ## Main Window ##
 root = ctk.CTk()
-root.geometry("560x200")
+root.geometry("540x200")
 root.title("GASWorkS Automator & Folder Macros")
 root.resizable(width=False,height=False)
 
 ## Main Variables ##
-screensize = pygui.size()
-screen_cx = screensize[0]/2
-screen_cy = screensize[1]/2
 code = ""
 rev = ""
 draw_report = ""
@@ -34,11 +30,6 @@ project_1.set("Project 1: ")
 project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
 
-dirname = os.path.abspath(os.path.dirname(__file__))
-outputs_folder = dirname + "\\Outputs"
-images_folder = dirname + "\\images"
-types = ["Pipe", "Node", "Customer"]
-
 def publish():
     # base function for publishing reports
     global code
@@ -48,9 +39,9 @@ def publish():
     rev = "Rev" + rev_var.get()
     draw_report = drawing_var.get()
     if big_project.get() == 1:
-        rf.locate_click(images_folder + "\\GW_zoomtofit.png")
+        rf.locate_click(rf.images_folder + "\\GW_zoomtofit.png")
         for i in range(3):
-            rf.locate_click(images_folder + "\\GW_zoomout.png")
+            rf.locate_click(rf.images_folder + "\\GW_zoomout.png")
             time.sleep(0.5)
     full(False,draw_report)
 
@@ -66,7 +57,7 @@ def full(replace,draw):
 def open_outputs():
     # opens the .Outputs folder
     # assigned to the "Open Outputs" button
-    subprocess.Popen(r'explorer ' + outputs_folder)
+    subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
 def open_project_1():
     # opens the project folders on first set of 3 windows

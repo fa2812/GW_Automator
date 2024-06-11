@@ -1,8 +1,20 @@
 # Python modules
 import time
+import os
 
 # Extra modules
 import pyautogui as pygui
+
+
+## Main Variables ##
+screensize = pygui.size()
+screen_cx = screensize[0]/2
+screen_cy = screensize[1]/2
+
+dirname = os.path.abspath(os.path.dirname(__file__))
+outputs_folder = dirname + "\\Outputs"
+images_folder = dirname + "\\images"
+types = ["Pipe", "Node", "Customer"]
 
 ## Functions ##
 
