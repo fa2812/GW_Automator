@@ -189,7 +189,7 @@ def open_merge_auto():
 def open_help():
     # opens Help window
     help_window = ctk.CTkToplevel()
-    help_window.geometry("720x720")
+    help_window.geometry("500x250")
     help_window.title("Help Guide")
     help_window.resizable(width=False,height=False)
 
@@ -218,7 +218,8 @@ big_checkbox = ctk.CTkCheckBox(root, text = "Big Project (>500 nodes)",
 # row 2
 outputs_button = ctk.CTkButton(root, text="Open Outputs", command=open_outputs)
 run_button = ctk.CTkButton(root, text="Publish", command=publish)
-green_button = ctk.CTkButton(root, text="Green", command=green)
+green_button = ctk.CTkButton(root, text="Green", command=green,width=80)
+help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
 # row 3
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto)
 # row 4
@@ -234,15 +235,16 @@ project_button_show_2 = ctk.CTkButton(root, text="Show", command=show_project_2,
 # row 0
 code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-drawing_checkbox.grid(row=0,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
 # row 1
 rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-big_checkbox.grid(row=1,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+big_checkbox.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
 # row 2
 outputs_button.grid(row=2,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 green_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+help_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 #merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 # row 4
@@ -253,5 +255,7 @@ project_button_show_1.grid(row=4,column=2,padx=(0,0),pady=(10,0),sticky='sw')
 project_label_2.grid(row=5,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 project_button_2.grid(row=5,column=1,padx=(20,0),pady=(10,0),sticky='sw')
 project_button_show_2.grid(row=5,column=2,padx=(0,0),pady=(10,0),sticky='sw')
+
+root.eval('tk::PlaceWindow . center')
 
 root.mainloop()
