@@ -4,10 +4,6 @@ import os
 
 # Extra modules
 import pyautogui as pygui
-# modules required: pyscreeze, PIL
-
-# Variables from main
-# from main_gui import code, rev
 
 ## Main Variables ##
 screensize = pygui.size()
@@ -87,15 +83,15 @@ def summary(replace,code,rev):
     time.sleep(0.2)
     locate_click(images_folder + "\\GW_print_button_2.png")
     capture_change(screen_cx,screen_cy)
-    pygui.hotkey("alt","p") # prints report
+    pygui.hotkey("alt","p")     # prints report
     capture_change(screen_cx,screen_cy)
     pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
-    pygui.hotkey("alt","s") # saves report
+    pygui.hotkey("alt","s")     # saves report
     if replace == True:
         pygui.press("tab")
         pygui.press("enter")
-    time.sleep(1)             # waiting time for PDF to be fully published
-    pygui.hotkey("alt","c") # closes report window
+    time.sleep(1)               # waiting time for PDF to be fully published
+    pygui.hotkey("alt","c")     # closes report window
 
 def drawing(replace,code,rev):
     ## prints noded drawing
@@ -111,7 +107,6 @@ def drawing(replace,code,rev):
     pygui.hotkey("alt","c") # presses first "Continue"
     time.sleep(0.3)
     capture_change(screen_cx,screen_cy)
-    #progress(2)
     pygui.hotkey("alt","c") # presses second "Continue"
     pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - Noded Drawing.pdf")
     pygui.hotkey("alt","s") # saves report

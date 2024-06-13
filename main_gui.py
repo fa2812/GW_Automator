@@ -31,7 +31,8 @@ project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
 
 def publish():
-    # base function for publishing reports
+    # main function for publishing reports
+    # linked to the "Publish" button
     global code
     global rev
     global draw_report
@@ -46,6 +47,8 @@ def publish():
     full(False,draw_report)
 
 def full(replace,draw):
+    # function that calls report functions to publish all reports
+    # called in publish()
     for i in range(3):
         rf.data_report(i,replace,code,rev)
         time.sleep(0.2)
@@ -55,7 +58,7 @@ def full(replace,draw):
         rf.drawing(replace,code,rev)
 
 def open_outputs():
-    # opens the .Outputs folder
+    # opens the Outputs folder
     # assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
