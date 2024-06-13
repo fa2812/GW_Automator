@@ -186,6 +186,13 @@ def open_merge_auto():
     ma_window.title("Merge Automator")
     ma_window.resizable(width=False,height=False)
 
+def open_help():
+    # opens Help window
+    help_window = ctk.CTkToplevel()
+    help_window.geometry("720x720")
+    help_window.title("Help Guide")
+    help_window.resizable(width=False,height=False)
+
 def green():
     # loops cursor movement and click on top left corner of screen
     # assigned to the "Green" button
