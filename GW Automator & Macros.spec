@@ -7,7 +7,7 @@ a = Analysis(
     binaries=[],
     datas=[
 	('C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\images', 'images'),
-	('C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\Outputs', 'Outputs')
+	('C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\Outputs', 'outputs')
 	],
     hiddenimports=[],
     hookspath=[],

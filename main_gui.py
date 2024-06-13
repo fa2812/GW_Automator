@@ -47,12 +47,12 @@ def publish():
 
 def full(replace,draw):
     for i in range(3):
-        rf.data_report(i,replace)
+        rf.data_report(i,replace,code,rev)
         time.sleep(0.2)
-    rf.summary(replace)
+    rf.summary(replace,code,rev)
     time.sleep(0.2)
     if draw == 1:
-        rf.drawing(replace)
+        rf.drawing(replace,code,rev)
 
 def open_outputs():
     # opens the .Outputs folder
@@ -61,7 +61,6 @@ def open_outputs():
 
 def open_project_1():
     # opens the project folders on first set of 3 windows
-    code = code_var.get()
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
@@ -119,7 +118,6 @@ def show_project_1():
 
 def open_project_2():
     # opens the project folders on second set of 3 windows
-    code = code_var.get()
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:

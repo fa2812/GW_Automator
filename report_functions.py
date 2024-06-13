@@ -6,6 +6,9 @@ import os
 import pyautogui as pygui
 # modules required: pyscreeze, PIL
 
+# Variables from main
+# from main_gui import code, rev
+
 ## Main Variables ##
 screensize = pygui.size()
 screen_cx = screensize[0]/2
@@ -48,7 +51,7 @@ def locate_click(image):
             check = False
     pygui.click(print_location[0],print_location[1])
 
-def data_report(ver,replace):
+def data_report(ver,replace,code,rev):
     ## prints pipe/node/customer data report
     pygui.moveTo(154,50,duration=0.2)   # to GW window
     pygui.click()
@@ -74,7 +77,7 @@ def data_report(ver,replace):
     capture_change(screen_cx,screen_cy) # checks centre pixel change
     pygui.hotkey("alt","c") # closes report window
 
-def summary(replace):
+def summary(replace,code,rev):
     ## prints system summary report
     pygui.moveTo(154,50,duration=0.2)   # to GW window
     pygui.click()
@@ -94,7 +97,7 @@ def summary(replace):
     time.sleep(1)             # waiting time for PDF to be fully published
     pygui.hotkey("alt","c") # closes report window
 
-def drawing(replace):
+def drawing(replace,code,rev):
     ## prints noded drawing
     locate_click(images_folder + "\\GW_button_side.png")
     locate_click(images_folder + "\\GW_print_button.png")
