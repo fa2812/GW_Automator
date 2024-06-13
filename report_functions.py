@@ -4,7 +4,7 @@ import os
 
 # Extra modules
 import pyautogui as pygui
-
+# modules required: pyscreeze, PIL
 
 ## Main Variables ##
 screensize = pygui.size()
