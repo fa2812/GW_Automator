@@ -1,7 +1,6 @@
 # Python modules
 import time
 import subprocess
-import tkinter
 
 # Extra modules
 import pyautogui as pygui
