@@ -195,8 +195,14 @@ def open_help():
 
 def note_fe_windows():
     # opens warning dialog for before open_fe_windows()
+    main_x = root.winfo_x()
+    main_y = root.winfo_y()
+    top_w = 250
+    top_h = 100
     fe_note_window = ctk.CTkToplevel()
-    fe_note_window.geometry("250x100")
+    x = main_x + root.winfo_width()//2 - top_w//2
+    y = main_y + root.winfo_height()//2 - top_h//2
+    fe_note_window.geometry(f"+{x}+{y}")
     fe_note_window.title("NOTE")
     fe_note_window.resizable(width=False,height=False)
     note_fe_label = ctk.CTkLabel(fe_note_window, text="TEST NOTE")
@@ -233,8 +239,6 @@ rev_entry.insert(0,"0")
 big_checkbox = ctk.CTkCheckBox(root, text = "Big Project (>500 nodes)",
                                    variable=big_project, onvalue=1, offvalue=0)
 # row 2
-fe_windows_button = ctk.CTkButton(root, text="FE (8x)", command=note_fe_windows,width=60)
-outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=60)
 run_button = ctk.CTkButton(root, text="Publish", command=publish)
 green_button = ctk.CTkButton(root, text="Green", command=green,width=80)
 help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
@@ -244,6 +248,8 @@ merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_au
 project_label_1 = ctk.CTkLabel(root, textvariable=project_1)
 project_button_1 = ctk.CTkButton(root, text="Open", command=open_project_1,width=60)
 project_button_show_1 = ctk.CTkButton(root, text="Show", command=show_project_1,width=60)
+fe_windows_button = ctk.CTkButton(root, text="FE (8x)", command=note_fe_windows,width=80)
+outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
 # row 5
 project_label_2 = ctk.CTkLabel(root, textvariable=project_2)
 project_button_2 = ctk.CTkButton(root, text="Open", command=open_project_2,width=60)
@@ -257,29 +263,29 @@ project_button_show_2 = ctk.CTkButton(root, text="Show", command=show_project_2,
 
 ## Main Window
 # row 0
-code_label.grid(row=0,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
-code_entry.grid(row=0,column=2,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-drawing_checkbox.grid(row=0,column=4,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
+code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
+code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
+drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
 # row 1
-rev_label.grid(row=1,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
-rev_entry.grid(row=1,column=2,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-big_checkbox.grid(row=1,column=4,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
+rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
+rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
+big_checkbox.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
 # row 2
-fe_windows_button.grid(row=2,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-outputs_button.grid(row=2,column=1,padx=(16,0),pady=(10,0),sticky='sw')
-run_button.grid(row=2,column=2,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
-green_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
-help_button.grid(row=2,column=5,padx=(0,0),pady=(10,0),sticky='sw')
+run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
+green_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+help_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 #merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 # row 4
-project_label_1.grid(row=4,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
-project_button_1.grid(row=4,column=2,padx=(20,0),pady=(10,0),sticky='sw')
-project_button_show_1.grid(row=4,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+project_label_1.grid(row=4,column=0,padx=(10,0),pady=(10,0),sticky='sw')
+project_button_1.grid(row=4,column=1,padx=(20,0),pady=(10,0),sticky='sw')
+project_button_show_1.grid(row=4,column=2,padx=(0,0),pady=(10,0),sticky='sw')
+fe_windows_button.grid(row=4,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+outputs_button.grid(row=4,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 5
-project_label_2.grid(row=5,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
-project_button_2.grid(row=5,column=2,padx=(20,0),pady=(10,0),sticky='sw')
-project_button_show_2.grid(row=5,column=3,padx=(0,0),pady=(10,0),sticky='sw')
+project_label_2.grid(row=5,column=0,padx=(10,0),pady=(10,0),sticky='sw')
+project_button_2.grid(row=5,column=1,padx=(20,0),pady=(10,0),sticky='sw')
+project_button_show_2.grid(row=5,column=2,padx=(0,0),pady=(10,0),sticky='sw')
 
 root.eval('tk::PlaceWindow . center')
 
