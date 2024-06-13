@@ -1,23 +1,21 @@
 # Python modules
 import time
 import subprocess
-import tkinter as tk
-import os
 
 # Extra modules
 import pyautogui as pygui
 import customtkinter as ctk
 
+# Dependent files
+import report_functions as rf
+
 ## Main Window ##
 root = ctk.CTk()
-root.geometry("560x200")
+root.geometry("540x200")
 root.title("GASWorkS Automator & Folder Macros")
 root.resizable(width=False,height=False)
 
 ## Main Variables ##
-screensize = pygui.size()
-screen_cx = screensize[0]/2
-screen_cy = screensize[1]/2
 code = ""
 rev = ""
 draw_report = ""
@@ -31,13 +29,9 @@ project_1.set("Project 1: ")
 project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
 
-dirname = os.path.abspath(os.path.dirname(__file__))
-outputs_folder = dirname + "\\Outputs"
-images_folder = dirname + "\\images"
-types = ["Pipe", "Node", "Customer"]
-
 def publish():
-    # base function for publishing reports
+    # main function for publishing reports
+    # assigned to the "Publish" button
     global code
     global rev
     global draw_report
@@ -45,20 +39,31 @@ def publish():
     rev = "Rev" + rev_var.get()
     draw_report = drawing_var.get()
     if big_project.get() == 1:
-        locate_click(images_folder + "\\GW_zoomtofit.png")
+        rf.locate_click(rf.images_folder + "\\GW_zoomtofit.png")
         for i in range(3):
-            locate_click(images_folder + "\\GW_zoomout.png")
+            rf.locate_click(rf.images_folder + "\\GW_zoomout.png")
             time.sleep(0.5)
     full(False,draw_report)
 
+def full(replace,draw):
+    # function that calls report functions to publish all reports
+    # called in publish()
+    for i in range(3):
+        rf.data_report(i,replace,code,rev)
+        time.sleep(0.2)
+    rf.summary(replace,code,rev)
+    time.sleep(0.2)
+    if draw == 1:
+        rf.drawing(replace,code,rev)
+
 def open_outputs():
-    # opens the .Outputs folder
+    # opens the Outputs folder
     # assigned to the "Open Outputs" button
-    subprocess.Popen(r'explorer ' + outputs_folder)
+    subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
 def open_project_1():
     # opens the project folders on first set of 3 windows
-    code = code_var.get()
+    # assigned to the "Open" button for Project 1
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
@@ -103,6 +108,7 @@ def open_project_1():
 
 def show_project_1():
     # shows the project folders on first set of 3 windows
+    # assigned to the "Show" button for Project 1
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
         pygui.keyDown("win")
@@ -116,7 +122,7 @@ def show_project_1():
 
 def open_project_2():
     # opens the project folders on second set of 3 windows
-    code = code_var.get()
+    # assigned to the "Open" button for Project 2
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
@@ -161,6 +167,7 @@ def open_project_2():
 
 def show_project_2():
     # shows the project folders on second set of 3 windows
+    # assigned to the "Show" button for Project 2
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
         pygui.keyDown("win")
@@ -173,14 +180,15 @@ def show_project_2():
         window_number += 1
 
 def open_merge_auto():
-    # opens Merge Automator window
+    # opens Merge Automator window (n/a)
     ma_window = ctk.CTkToplevel()
     ma_window.geometry("560x170")
     ma_window.title("Merge Automator")
     ma_window.resizable(width=False,height=False)
 
 def green():
-    # loops cursor movement and clicks on top left corner of screen
+    # loops cursor movement and click on top left corner of screen
+    # assigned to the "Green" button
     while True:
         pygui.moveTo(5,5,duration=0)
         pygui.moveTo(10,10,duration=1)
@@ -238,114 +246,5 @@ project_button_show_1.grid(row=4,column=2,padx=(0,0),pady=(10,0),sticky='sw')
 project_label_2.grid(row=5,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 project_button_2.grid(row=5,column=1,padx=(20,0),pady=(10,0),sticky='sw')
 project_button_show_2.grid(row=5,column=2,padx=(0,0),pady=(10,0),sticky='sw')
-
-## Functions ##
-
-# Background Tracing Based on CAD (legacy)
-    # was placed here, RIP
-
-def progress(dur):
-    # moves cursor from left to right end of screen to show wait time (legacy)
-    pygui.moveTo(0,45,duration=0)
-    pygui.moveTo(1915,45,duration=dur)
-
-def capture_change(x,y):
-    # checks if the cololur of a pixel at x,y has changed, then returns
-    check = True
-    while check:
-        im1 = pygui.screenshot()
-        im1_pixel = im1.getpixel((x,y))
-        time.sleep(1)
-        im2 = pygui.screenshot()
-        im2_pixel = im2.getpixel((x,y))
-        if not(im1_pixel == im2_pixel):
-            check = False
-    return
-
-def locate_click(image):
-    ## locate and click based on given image, in while loop
-    check = True
-    while check:
-        print_location = pygui.locateCenterOnScreen(image) # delay 1-2 sec
-        if not(print_location == None):
-            check = False
-    pygui.click(print_location[0],print_location[1])
-
-def data_report(ver,replace):
-    ## prints pipe/node/customer data report
-    pygui.moveTo(154,50,duration=0.2)   # to GW window
-    pygui.click()
-    pygui.hotkey("alt","r")             # Report tab
-    pygui.press(types[ver][0])
-    time.sleep(0.2)
-    locate_click(images_folder + "\\GW_print_button.png")
-    check = True
-    while check:
-        im = pygui.screenshot()
-        im_pixel = im.getpixel((screen_cx,screen_cy))
-        if im_pixel == (240, 240, 240):
-            check = False
-    time.sleep(0.2)
-    pygui.hotkey("alt","p") # prints report
-    capture_change(screen_cx,screen_cy)
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
-    pygui.hotkey("alt","s") # saves report
-    if replace == True:
-        pygui.press("y")
-    time.sleep(0.5)
-    pygui.press("y")
-    capture_change(screen_cx,screen_cy) # checks centre pixel change
-    pygui.hotkey("alt","c") # closes report window
-
-def summary(replace):
-    ## prints system summary report
-    pygui.moveTo(154,50,duration=0.2)   # to GW window
-    pygui.click()
-    pygui.hotkey("alt","r")             # Report tab
-    pygui.press("m")
-    pygui.hotkey("alt","c")
-    time.sleep(0.2)
-    locate_click(images_folder + "\\GW_print_button_2.png")
-    capture_change(screen_cx,screen_cy)
-    pygui.hotkey("alt","p") # prints report
-    capture_change(screen_cx,screen_cy)
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
-    pygui.hotkey("alt","s") # saves report
-    if replace == True:
-        pygui.press("tab")
-        pygui.press("enter")
-    time.sleep(1)             # waiting time for PDF to be fully published
-    pygui.hotkey("alt","c") # closes report window
-
-def drawing(replace):
-    ## prints noded drawing
-    locate_click(images_folder + "\\GW_button_side.png")
-    locate_click(images_folder + "\\GW_print_button.png")
-    pygui.press("enter")
-    time.sleep(0.5)
-    # note: saved view/window should be preselected at this stage
-    pygui.hotkey("alt","t") # navigates to Style pane
-    pygui.hotkey("alt","p") # plots drawing
-    capture_change(screen_cx,screen_cy)
-    # note: title block values should be filled in at this stage
-    pygui.hotkey("alt","c") # presses first "Continue"
-    time.sleep(0.3)
-    capture_change(screen_cx,screen_cy)
-    #progress(2)
-    pygui.hotkey("alt","c") # presses second "Continue"
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - Noded Drawing.pdf")
-    pygui.hotkey("alt","s") # saves report
-    if replace == True:
-        pygui.press("tab")
-        pygui.press("enter")
-
-def full(replace,draw):
-    for i in range(3):
-        data_report(i,replace)
-        time.sleep(0.2)
-    summary(replace)
-    time.sleep(0.2)
-    if draw == 1:
-        drawing(replace)
 
 root.mainloop()
