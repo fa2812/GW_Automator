@@ -32,7 +32,7 @@ project_2.set("Project 2: ")
 
 def publish():
     # main function for publishing reports
-    # linked to the "Publish" button
+    # assigned to the "Publish" button
     global code
     global rev
     global draw_report
@@ -64,6 +64,7 @@ def open_outputs():
 
 def open_project_1():
     # opens the project folders on first set of 3 windows
+    # assigned to the "Open" button for Project 1
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
@@ -108,6 +109,7 @@ def open_project_1():
 
 def show_project_1():
     # shows the project folders on first set of 3 windows
+    # assigned to the "Show" button for Project 1
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
         pygui.keyDown("win")
@@ -121,6 +123,7 @@ def show_project_1():
 
 def open_project_2():
     # opens the project folders on second set of 3 windows
+    # assigned to the "Open" button for Project 2
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
@@ -165,6 +168,7 @@ def open_project_2():
 
 def show_project_2():
     # shows the project folders on second set of 3 windows
+    # assigned to the "Show" button for Project 2
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
         pygui.keyDown("win")
@@ -177,7 +181,7 @@ def show_project_2():
         window_number += 1
 
 def open_merge_auto():
-    # opens Merge Automator window
+    # opens Merge Automator window (n/a)
     ma_window = ctk.CTkToplevel()
     ma_window.geometry("560x170")
     ma_window.title("Merge Automator")
@@ -185,6 +189,7 @@ def open_merge_auto():
 
 def green():
     # loops cursor movement and click on top left corner of screen
+    # assigned to the "Green" button
     while True:
         pygui.moveTo(5,5,duration=0)
         pygui.moveTo(10,10,duration=1)
