@@ -197,23 +197,30 @@ def note_fe_windows():
     # opens warning dialog for before open_fe_windows()
     main_x = root.winfo_x()
     main_y = root.winfo_y()
-    top_w = 250
-    top_h = 100
     fe_note_window = ctk.CTkToplevel()
-    x = main_x + root.winfo_width()//2 - top_w//2
-    y = main_y + root.winfo_height()//2 - top_h//2
-    fe_note_window.geometry(f"+{x}+{y}")
-    fe_note_window.title("NOTE")
+    #fe_note_window.wait_visibility()
+    #note_x = main_x + root.winfo_width()//2 - fe_note_window.winfo_width()//2
+    #note_y = main_y + root.winfo_height()//2 - fe_note_window.winfo_height()//2
+    #fe_note_window.geometry(f"+{note_x}+{note_y}")
+    fe_note_window.geometry(f"+{main_x+80}+{main_y+40}")
+    fe_note_window.title("Create File Explorer Windows...")
     fe_note_window.resizable(width=False,height=False)
-    note_fe_label = ctk.CTkLabel(fe_note_window, text="TEST NOTE")
-    note_fe_label.grid(row=0,column=0,padx=(0,0),pady=(10,0))
-    note_fe_button = ctk.CTkButton(fe_note_window, text="Confirm", command=open_fe_windows)
-    note_fe_button.grid(row=1,column=0,padx=(0,0),pady=(10,0))
+    note_fe_text = "Are you sure you want to create (8x) new File Explorer windows?"
+    note_fe_label = ctk.CTkLabel(fe_note_window, text=note_fe_text)
+    note_fe_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
 
-def open_fe_windows():
-    # opens 8x File Explorer windows
-    for i in range(8):
-        subprocess.Popen(r'explorer ')
+    def open_fe_windows():
+        # opens 8x File Explorer windows
+        for i in range(4):
+            subprocess.Popen(r'explorer ')
+        fe_note_window.destroy()
+
+    note_fe_button = ctk.CTkButton(fe_note_window, text="Confirm", command=open_fe_windows)
+    note_fe_button.grid(row=1,column=0,padx=(0,0),pady=(10,20))
+    fe_note_window.grab_set()
+    fe_note_window.focus()
+    #fe_note_window.attributes("-topmost", True)
+    #fe_note_window.attributes("-topmost", False)
 
 def green():
     # loops cursor movement and click on top left corner of screen
