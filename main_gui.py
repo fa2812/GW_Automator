@@ -198,10 +198,6 @@ def note_fe_windows():
     main_x = root.winfo_x()
     main_y = root.winfo_y()
     fe_note_window = ctk.CTkToplevel()
-    #fe_note_window.wait_visibility()
-    #note_x = main_x + root.winfo_width()//2 - fe_note_window.winfo_width()//2
-    #note_y = main_y + root.winfo_height()//2 - fe_note_window.winfo_height()//2
-    #fe_note_window.geometry(f"+{note_x}+{note_y}")
     fe_note_window.geometry(f"+{main_x+80}+{main_y+40}")
     fe_note_window.title("Create File Explorer Windows...")
     fe_note_window.resizable(width=False,height=False)
@@ -211,7 +207,7 @@ def note_fe_windows():
 
     def open_fe_windows():
         # opens 8x File Explorer windows
-        for i in range(4):
+        for i in range(8):
             subprocess.Popen(r'explorer ')
         fe_note_window.destroy()
 
@@ -219,8 +215,6 @@ def note_fe_windows():
     note_fe_button.grid(row=1,column=0,padx=(0,0),pady=(10,20))
     fe_note_window.grab_set()
     fe_note_window.focus()
-    #fe_note_window.attributes("-topmost", True)
-    #fe_note_window.attributes("-topmost", False)
 
 def green():
     # loops cursor movement and click on top left corner of screen
