@@ -234,7 +234,7 @@ code_entry.insert(0,"UKP")
 drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing (Saved View)",
                                    variable=drawing_var, onvalue=1, offvalue=0)
 # row 1
-rev_label = ctk.CTkLabel(root, text="Revision Number")
+rev_label = ctk.CTkLabel(root, text="Revision Number             ")
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"0")
 big_checkbox = ctk.CTkCheckBox(root, text = "Big Project (>500 nodes)",
