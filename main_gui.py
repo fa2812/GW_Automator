@@ -249,6 +249,7 @@ merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_au
 project_label_1 = ctk.CTkLabel(root, textvariable=project_1)
 project_button_1 = ctk.CTkButton(root, text="Open", command=open_project_1,width=60)
 project_button_show_1 = ctk.CTkButton(root, text="Show", command=show_project_1,width=60)
+tools_label = ctk.CTkLabel(root, text="  Useful Tools:")
 green_button = ctk.CTkButton(root, text="Green", command=green,width=80)
 # row 5
 project_label_2 = ctk.CTkLabel(root, textvariable=project_2)
@@ -277,6 +278,7 @@ help_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 project_label_1.grid(row=4,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 project_button_1.grid(row=4,column=1,padx=(20,0),pady=(10,0),sticky='sw')
 project_button_show_1.grid(row=4,column=2,padx=(0,0),pady=(10,0),sticky='sw')
+tools_label.grid(row=4,column=3,rowspan=2,padx=(0,0),pady=(10,0),sticky='w')
 green_button.grid(row=4,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 5
 project_label_2.grid(row=5,column=0,padx=(10,0),pady=(10,0),sticky='sw')
