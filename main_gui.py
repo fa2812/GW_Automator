@@ -210,8 +210,8 @@ big_checkbox = ctk.CTkCheckBox(root, text = "Big Project (>500 nodes)",
                                    variable=big_project, onvalue=1, offvalue=0)
 # row 2
 outputs_button = ctk.CTkButton(root, text="Open Outputs", command=open_outputs)
-run_button = ctk.CTkButton(root, text="Publish", command=publish)
-green_button = ctk.CTkButton(root, text="Green", command=green)
+run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
+green_button = ctk.CTkButton(root, text="Green", command=green, fg_color="#1c9b18", hover_color="#186f17")
 # row 3
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto)
 # row 4
