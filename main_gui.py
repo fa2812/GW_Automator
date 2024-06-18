@@ -256,10 +256,6 @@ project_label_2 = ctk.CTkLabel(root, textvariable=project_2)
 project_button_2 = ctk.CTkButton(root, text="Open", command=open_project_2,width=60)
 project_button_show_2 = ctk.CTkButton(root, text="Show", command=show_project_2,width=60)
 
-## Help Window
-
-## Note Windows 
-
 ## Grid Placements ##
 
 ## Main Window
