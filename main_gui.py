@@ -240,7 +240,7 @@ rev_entry.insert(0,"0")
 big_checkbox = ctk.CTkCheckBox(root, text = "Big Project (>500 nodes)",
                                    variable=big_project, onvalue=1, offvalue=0)
 # row 2
-run_button = ctk.CTkButton(root, text="Publish", command=publish)
+run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
 help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
 # row 3
@@ -250,7 +250,7 @@ project_label_1 = ctk.CTkLabel(root, textvariable=project_1)
 project_button_1 = ctk.CTkButton(root, text="Open", command=open_project_1,width=60)
 project_button_show_1 = ctk.CTkButton(root, text="Show", command=show_project_1,width=60)
 tools_label = ctk.CTkLabel(root, text="  Useful Tools:")
-green_button = ctk.CTkButton(root, text="Green", command=green,width=80)
+green_button = ctk.CTkButton(root, text="Green", command=green,width=80, fg_color="#1c9b18", hover_color="#186f17")
 # row 5
 project_label_2 = ctk.CTkLabel(root, textvariable=project_2)
 project_button_2 = ctk.CTkButton(root, text="Open", command=open_project_2,width=60)
