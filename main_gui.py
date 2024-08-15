@@ -79,9 +79,11 @@ def open_project_1():
         if window_number == 2:
             # Window 2: Drawings folder
             pygui.write("\\5, Design\\Drawings")
+            # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
         if window_number == 3:
             # Window 3: Gas Design folder
             pygui.write("\\5, Design\\Gas Design")
+            # for new projects: pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
         pygui.press("enter")
         window_number += 1
     if project_path[26:29] == "UKP":
