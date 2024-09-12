@@ -54,6 +54,8 @@ def data_report(ver,replace,code,rev):
     pygui.hotkey("alt","r")             # Report tab
     pygui.press(types[ver][0])
     time.sleep(0.2)
+    if ver == 2:
+        time.sleep(0.8) # extra wait time for Customer report (for large projects)
     locate_click(images_folder + "\\GW_print_button.png")
     check = True
     while check:
