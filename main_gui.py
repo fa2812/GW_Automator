@@ -23,7 +23,7 @@ code_var = ctk.StringVar()  # project code
 rev_var = ctk.StringVar()   # GASWorkS file revision
 replace_var = ctk.IntVar()  # overwrite existing documents if == 1
 drawing_var = ctk.IntVar()  # prints noded drawing if == 1
-big_project = ctk.IntVar()  
+new_project = ctk.IntVar()  # new project folder 
 project_1 = ctk.StringVar()
 project_1.set("Project 1: ")    
 project_2 = ctk.StringVar()
@@ -38,11 +38,6 @@ def publish():
     code = code_var.get()
     rev = "Rev" + rev_var.get()
     draw_report = drawing_var.get()
-    if big_project.get() == 1:
-        rf.locate_click(rf.images_folder + "\\GW_zoomtofit.png")
-        for i in range(3):
-            rf.locate_click(rf.images_folder + "\\GW_zoomout.png")
-            time.sleep(0.5)
     full(False,draw_report)
 
 def full(replace,draw):
@@ -78,11 +73,17 @@ def open_project_1():
         pygui.hotkey("ctrl","v")
         if window_number == 2:
             # Window 2: Drawings folder
-            pygui.write("\\5, Design\\Drawings")
+            if new_project.get() == 1:
+                pygui.write("\\3. Design\\2. Gas\\1. Drawings")
+            else:
+                pygui.write("\\5, Design\\Drawings")
             # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
         if window_number == 3:
             # Window 3: Gas Design folder
-            pygui.write("\\5, Design\\Gas Design")
+            if new_project.get() == 1:
+                pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
+            else:
+                pygui.write("\\5, Design\\Gas Design")
             # for new projects: pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
         pygui.press("enter")
         window_number += 1
@@ -239,8 +240,8 @@ drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing (Saved View)",
 rev_label = ctk.CTkLabel(root, text="Revision Number             ")
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"0")
-big_checkbox = ctk.CTkCheckBox(root, text = "Big Project (>500 nodes)",
-                                   variable=big_project, onvalue=1, offvalue=0)
+new_checkbox = ctk.CTkCheckBox(root, text = "New Project Folder Format",
+                                   variable=new_project, onvalue=1, offvalue=0)
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
@@ -269,7 +270,7 @@ drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky=
 # row 1
 rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-big_checkbox.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
+new_checkbox.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
 # row 2
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 outputs_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
