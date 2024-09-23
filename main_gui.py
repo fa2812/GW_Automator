@@ -134,22 +134,6 @@ def show_project(project_number):
         pygui.keyUp("win")
         window_number += 1
 
-def open_project_1():
-    # assigned to the "Open" button for Project 1
-    open_project(1)
-
-def show_project_1():
-    # assigned to the "Show" button for Project 1
-    show_project(1)
-
-def open_project_2():
-    # assigned to the "Open" button for Project 2
-    open_project(2)
-
-def show_project_2():
-    # assigned to the "Show" button for Project 2
-    show_project(2)
-
 def open_merge_auto():
     # opens Merge Automator window (n/a)
     ma_window = ctk.CTkToplevel()
@@ -218,14 +202,14 @@ help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
 project_label_1 = ctk.CTkLabel(root, textvariable=project_1)
-project_button_1 = ctk.CTkButton(root, text="Open", command=open_project_1,width=60)
-project_button_show_1 = ctk.CTkButton(root, text="Show", command=show_project_1,width=60)
+project_button_1 = ctk.CTkButton(root, text="Open", command= lambda: open_project(1),width=60)
+project_button_show_1 = ctk.CTkButton(root, text="Show", command= lambda: show_project(1),width=60)
 tools_label = ctk.CTkLabel(root, text="  Useful Tools:")
 green_button = ctk.CTkButton(root, text="Green", command=green,width=80, fg_color="#1c9b18", hover_color="#186f17")
 # row 5
 project_label_2 = ctk.CTkLabel(root, textvariable=project_2)
-project_button_2 = ctk.CTkButton(root, text="Open", command=open_project_2,width=60)
-project_button_show_2 = ctk.CTkButton(root, text="Show", command=show_project_2,width=60)
+project_button_2 = ctk.CTkButton(root, text="Open", command= lambda: open_project(2),width=60)
+project_button_show_2 = ctk.CTkButton(root, text="Show", command= lambda: show_project(2),width=60)
 fe_windows_button = ctk.CTkButton(root, text="FE (8x)", command=note_fe_windows,width=80)
 
 ## Grid Placements ##
