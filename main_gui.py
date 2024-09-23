@@ -56,14 +56,16 @@ def open_outputs():
     # assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
-def open_project_1():
-    # opens the project folders on first set of 3 windows
-    # assigned to the "Open" button for Project 1
+def open_project(project_number):
+    # opens the project folders on first set (Project 1) or second set (Project 2) of 3 windows
     project_path = root.clipboard_get()
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
         pygui.keyDown("win")
-        pygui.write("2")
+        if project_number == 1:
+            pygui.write("2")
+        elif project_number == 2:
+            pygui.write("22222")
         if window_number > 1:
             pygui.write("2")
         if window_number > 2:
@@ -94,7 +96,10 @@ def open_project_1():
             project_code += i
             if i == " ":
                 break
-        project_1.set("Project 1: " + project_code)
+        if project_number == 1:
+            project_1.set("Project 1: " + project_code)
+        elif project_number == 2:
+            project_2.set("Project 2: " + project_code)
     elif project_path[12:15] == "EDB":
         project_name = project_path[25:]
         project_code = ""
@@ -107,80 +112,43 @@ def open_project_1():
                     project_code += x
                     if x == " ":
                         break
-        project_1.set("Project 1: " + project_code)
+        if project_number == 1:
+            project_1.set("Project 1: " + project_code)
+        elif project_number == 2:
+            project_2.set("Project 2: " + project_code)
+
+def show_project(project_number):
+    # shows the project folders on first set (Project 1) or second set (Project 2) of 3 windows 
+    # assigned to the "Show" button
+    window_number = 1 # Window 1: main project folder
+    while window_number < 4:
+        pygui.keyDown("win")
+        if project_number == 1:
+            pygui.write("2")
+        elif project_number == 2:
+            pygui.write("22222")
+        if window_number > 1:
+            pygui.write("2")
+        if window_number > 2:
+            pygui.write("2")
+        pygui.keyUp("win")
+        window_number += 1
+
+def open_project_1():
+    # assigned to the "Open" button for Project 1
+    open_project(1)
 
 def show_project_1():
-    # shows the project folders on first set of 3 windows
     # assigned to the "Show" button for Project 1
-    window_number = 1 # Window 1: main project folder
-    while window_number < 4:
-        pygui.keyDown("win")
-        pygui.write("2")
-        if window_number > 1:
-            pygui.write("2")
-        if window_number > 2:
-            pygui.write("2")
-        pygui.keyUp("win")
-        window_number += 1
+    show_project(1)
 
 def open_project_2():
-    # opens the project folders on second set of 3 windows
     # assigned to the "Open" button for Project 2
-    project_path = root.clipboard_get()
-    window_number = 1 # Window 1: main project folder
-    while window_number < 4:
-        pygui.keyDown("win")
-        pygui.write("22222")
-        if window_number > 1:
-            pygui.write("2")
-        if window_number > 2:
-            pygui.write("2")
-        pygui.keyUp("win")
-        pygui.hotkey("ctrl","l")
-        pygui.hotkey("ctrl","v")
-        if window_number == 2:
-            # Window 2: Drawings folder
-            pygui.write("\\5, Design\\Drawings")
-        if window_number == 3:
-            # Window 3: Gas Design folder
-            pygui.write("\\5, Design\\Gas Design")
-        pygui.press("enter")
-        window_number += 1
-    if project_path[26:29] == "UKP":
-        project_name = project_path[26:]
-        project_code = ""
-        for i in project_name:
-            project_code += i
-            if i == " ":
-                break
-        project_2.set("Project 2: " + project_code)
-    elif project_path[12:15] == "EDB":
-        project_name = project_path[25:]
-        project_code = ""
-        count = 0
-        for i in project_name:
-            count += 1
-            if i == "\\":
-                project_name = project_name[count:]
-                for x in project_name:
-                    project_code += x
-                    if x == " ":
-                        break
-        project_2.set("Project 2: " + project_code)
+    open_project(2)
 
 def show_project_2():
-    # shows the project folders on second set of 3 windows
     # assigned to the "Show" button for Project 2
-    window_number = 1 # Window 1: main project folder
-    while window_number < 4:
-        pygui.keyDown("win")
-        pygui.write("22222")
-        if window_number > 1:
-            pygui.write("2") # previously written as pygui.press("2")
-        if window_number > 2:
-            pygui.write("2")
-        pygui.keyUp("win")
-        window_number += 1
+    show_project(2)
 
 def open_merge_auto():
     # opens Merge Automator window (n/a)
@@ -240,14 +208,14 @@ drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing (Saved View)",
 rev_label = ctk.CTkLabel(root, text="Revision Number             ")
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"0")
-new_checkbox = ctk.CTkCheckBox(root, text = "New Project Folder Format",
+new_checkbox = ctk.CTkCheckBox(root, text = "New Folder Format",
                                    variable=new_project, onvalue=1, offvalue=0)
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
 help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
-# row 3
-merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto)
+# row 3 (wip)
+merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
 project_label_1 = ctk.CTkLabel(root, textvariable=project_1)
 project_button_1 = ctk.CTkButton(root, text="Open", command=open_project_1,width=60)
