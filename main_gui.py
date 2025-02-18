@@ -56,9 +56,77 @@ def open_outputs():
     # assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
+def project_folder_format(project_code):
+    # Checks if opened project has already been registered
+    # Returns True if project folder is new format, False if it is old format
+    new_format_list = open("references\\Projects List (New Format).txt", "r") 
+    old_format_list = open("references\\Projects List (Old Format).txt", "r") 
+    for i in new_format_list:
+        if i == project_code:   
+            return True
+    for i in old_format_list:
+        if i == project_code:
+            return False
+    if new_project.get() == 1:
+        # append to new format list
+        return True
+    else:
+        # append to old format list
+        return False
+
+def project_tabs():
+    project_path = root.clipboard_get()
+    project_name = project_path.split("\\")
+    if project_name[2] == "Live Projects":
+        project_code = project_name[3].split()[0]
+    elif project_name[2] == "EDB Projects":
+        project_code = project_name[4].split()[0]
+    subprocess.Popen(r'explorer ')
+    time.sleep(2)
+    for i in range(3):
+        pygui.hotkey("ctrl","t")
+        time.sleep(0.5)
+    tab_number = 1
+    while tab_number < 5:
+        pygui.hotkey("ctrl",str(tab_number))
+        time.sleep(1)
+        pygui.press("tab")
+        time.sleep(1)
+        pygui.hotkey("ctrl","l")
+        pygui.hotkey("ctrl","v")
+        if tab_number == 2: # Window 2: Drawings folder
+            if project_folder_format(project_code):
+                pygui.write("\\3. Design\\2. Gas\\1. Drawings")
+            else:
+                pygui.write("\\5, Design\\Drawings")
+            # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
+        if tab_number == 3:
+            # Window 3: Gas Design folder
+            if project_folder_format(project_code):
+                pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
+            else:
+                pygui.write("\\5, Design\\Gas Design")
+            # for new projects: pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
+        if tab_number == 4:
+            pygui.hotkey("ctrl","a")
+            pygui.write("C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\.GASWorkS")
+        pygui.press("enter")
+        pygui.press("esc")
+        time.sleep(1.5)
+        tab_number += 1
+
 def open_project(project_number):
     # opens the project folders on first set (Project 1) or second set (Project 2) of 3 windows
     project_path = root.clipboard_get()
+    project_name = project_path.split("\\")
+    if project_name[2] == "Live Projects":
+        project_code = project_name[3].split()[0]
+    elif project_name[2] == "EDB Projects":
+        project_code = project_name[4].split()[0]
+    if project_number == 1:
+        project_1.set("Project 1: " + project_code)
+    elif project_number == 2:
+        project_2.set("Project 2: " + project_code)
     window_number = 1 # Window 1: main project folder
     while window_number < 4:
         pygui.keyDown("win")
@@ -73,49 +141,21 @@ def open_project(project_number):
         pygui.keyUp("win")
         pygui.hotkey("ctrl","l")
         pygui.hotkey("ctrl","v")
-        if window_number == 2:
-            # Window 2: Drawings folder
-            if new_project.get() == 1:
+        if window_number == 2: # Window 2: Drawings folder
+            if project_folder_format(project_code):
                 pygui.write("\\3. Design\\2. Gas\\1. Drawings")
             else:
                 pygui.write("\\5, Design\\Drawings")
             # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
         if window_number == 3:
             # Window 3: Gas Design folder
-            if new_project.get() == 1:
+            if project_folder_format(project_code):
                 pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
             else:
                 pygui.write("\\5, Design\\Gas Design")
             # for new projects: pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
         pygui.press("enter")
         window_number += 1
-    if project_path[26:29] == "UKP":
-        project_name = project_path[26:]
-        project_code = ""
-        for i in project_name:
-            project_code += i
-            if i == " ":
-                break
-        if project_number == 1:
-            project_1.set("Project 1: " + project_code)
-        elif project_number == 2:
-            project_2.set("Project 2: " + project_code)
-    elif project_path[12:15] == "EDB":
-        project_name = project_path[25:]
-        project_code = ""
-        count = 0
-        for i in project_name:
-            count += 1
-            if i == "\\":
-                project_name = project_name[count:]
-                for x in project_name:
-                    project_code += x
-                    if x == " ":
-                        break
-        if project_number == 1:
-            project_1.set("Project 1: " + project_code)
-        elif project_number == 2:
-            project_2.set("Project 2: " + project_code)
 
 def show_project(project_number):
     # shows the project folders on first set (Project 1) or second set (Project 2) of 3 windows 
@@ -156,7 +196,7 @@ def note_fe_windows():
     fe_note_window.geometry(f"+{main_x+80}+{main_y+40}")
     fe_note_window.title("Create File Explorer Windows...")
     fe_note_window.resizable(width=False,height=False)
-    note_fe_text = "Are you sure you want to create (8x) new File Explorer windows?"
+    note_fe_text = "Are you sure you want to create (8) new File Explorer windows?"
     note_fe_label = ctk.CTkLabel(fe_note_window, text=note_fe_text)
     note_fe_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
 
@@ -197,7 +237,8 @@ new_checkbox = ctk.CTkCheckBox(root, text = "New Folder Format",
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
-help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
+#help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
+project_folder_button = ctk.CTkButton(root, text="Project Folder", command=project_tabs,width=80)
 # row 3 (wip)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
@@ -226,7 +267,7 @@ new_checkbox.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw'
 # row 2
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 outputs_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
-help_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
+project_folder_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 #merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 # row 4
