@@ -55,6 +55,7 @@ def open_outputs():
     # opens the Outputs folder
     # assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
+    print(rf.outputs_folder)
 
 def project_folder_format(project_code):
     # Checks if opened project has already been registered
@@ -77,11 +78,14 @@ def project_folder_format(project_code):
 def project_tabs():
     project_path = root.clipboard_get()
     project_name = project_path.split("\\")
-    if project_name[2] == "Live Projects":
-        project_code = project_name[3].split()[0]
-    elif project_name[2] == "EDB Projects":
-        project_code = project_name[4].split()[0]
-    subprocess.Popen(r'explorer ')
+    if len(project_name) > 1:
+        if project_name[2] == "Live Projects":
+            project_code = project_name[3].split()[0]
+        elif project_name[2] == "EDB Projects":
+            project_code = project_name[4].split()[0]
+        subprocess.Popen(r'explorer ' + project_path)
+    else:
+        return
     time.sleep(2)
     for i in range(3):
         pygui.hotkey("ctrl","t")
@@ -89,9 +93,9 @@ def project_tabs():
     tab_number = 1
     while tab_number < 5:
         pygui.hotkey("ctrl",str(tab_number))
-        time.sleep(1)
+        time.sleep(0.5)
         pygui.press("tab")
-        time.sleep(1)
+        time.sleep(0.5)
         pygui.hotkey("ctrl","l")
         pygui.hotkey("ctrl","v")
         if tab_number == 2: # Window 2: Drawings folder
@@ -112,7 +116,7 @@ def project_tabs():
             pygui.write("C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\.GASWorkS")
         pygui.press("enter")
         pygui.press("esc")
-        time.sleep(1.5)
+        time.sleep(2)
         tab_number += 1
 
 def open_project(project_number):
@@ -238,7 +242,7 @@ new_checkbox = ctk.CTkCheckBox(root, text = "New Folder Format",
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
 #help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
-project_folder_button = ctk.CTkButton(root, text="Project Folder", command=project_tabs,width=80)
+project_tabs_button = ctk.CTkButton(root, text="Project Tabs", command=project_tabs,width=80)
 # row 3 (wip)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
@@ -267,7 +271,7 @@ new_checkbox.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw'
 # row 2
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 outputs_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
-project_folder_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
+project_tabs_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 #merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 # row 4
