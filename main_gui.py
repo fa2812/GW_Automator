@@ -83,7 +83,7 @@ def project_tabs():
             project_code = project_name[3].split()[0]
         elif project_name[2] == "EDB Projects":
             project_code = project_name[4].split()[0]
-        subprocess.Popen(r'explorer ' + project_path)
+        subprocess.Popen(r'explorer ')
     else:
         return
     time.sleep(2)
@@ -111,9 +111,6 @@ def project_tabs():
             else:
                 pygui.write("\\5, Design\\Gas Design")
             # for new projects: pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
-        if tab_number == 4:
-            pygui.hotkey("ctrl","a")
-            pygui.write("C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\.GASWorkS")
         pygui.press("enter")
         pygui.press("esc")
         time.sleep(2)
