@@ -31,7 +31,6 @@ def capture_change(x,y):
     while check:
         im1 = pygui.screenshot()
         im1_pixel = im1.getpixel((x,y))
-        time.sleep(1)
         im2 = pygui.screenshot()
         im2_pixel = im2.getpixel((x,y))
         if not(im1_pixel == im2_pixel):
@@ -53,7 +52,7 @@ def data_report(ver,replace,code,rev):
     pygui.click()
     pygui.hotkey("alt","r")             # Report tab
     pygui.press(types[ver][0])
-    time.sleep(0.2)
+    time.sleep(0.75)    # wait time for report window to come up
     if ver == 2:
         time.sleep(0.8) # extra wait time for Customer report (for large projects)
     locate_click(images_folder + "\\GW_print_button.png")
@@ -61,17 +60,19 @@ def data_report(ver,replace,code,rev):
     while check:
         im = pygui.screenshot()
         im_pixel = im.getpixel((screen_cx,screen_cy))
+        time.sleep(0.2)
         if im_pixel == (240, 240, 240):
             check = False
     time.sleep(0.2)
     pygui.hotkey("alt","p") # prints report
+    time.sleep(0.75)    # wait time for file explorer window to come up
     capture_change(screen_cx,screen_cy)
     pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
     pygui.hotkey("alt","s") # saves report
     if replace == True:
         pygui.press("y")
-    time.sleep(0.5)
-    pygui.press("y")
+    time.sleep(1.5)     # wait time for file explorer window to close
+    pygui.press("y")    # redundancy for "Replace file" selection
     capture_change(screen_cx,screen_cy) # checks centre pixel change
     pygui.hotkey("alt","c") # closes report window
 
