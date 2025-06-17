@@ -55,7 +55,6 @@ def open_outputs():
     # opens the Outputs folder
     # assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
-    print(rf.outputs_folder)
 
 def project_folder_format(project_code):
     if new_project.get() == 1:
@@ -92,7 +91,7 @@ def note_folder_format(project_code,folder_format):
 def project_tabs():
     project_path = root.clipboard_get()
     project_name = project_path.split("\\")
-    if len(project_name) > 1:
+    if len(project_name) > 1 and (project_name[-1] != ""):
         if project_name[2] == "Live Projects":
             project_code = project_name[3].split()[0]
         elif project_name[2] == "EDB Projects":
@@ -115,6 +114,8 @@ def project_tabs():
         if tab_number == 2: # Window 2: Drawings folder
             if project_folder_format(project_code):
                 pygui.write("\\3. Design\\2. Gas\\1. Drawings")
+            elif project_code[0:3] == "UKP" and (int(project_code[3:] <= 4617)):
+                pygui.write("\\6, Drawings")
             else:
                 pygui.write("\\5, Design\\Drawings")
             # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
