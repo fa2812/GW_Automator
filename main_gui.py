@@ -1,6 +1,7 @@
 # Python modules
 import time
 import subprocess
+import os
 
 # Extra modules
 import pyautogui as pygui
@@ -28,6 +29,8 @@ project_1 = ctk.StringVar()
 project_1.set("Project 1: ")    
 project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
+live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
+#edb_projects_dir = os.listdir("S:\\Projects\\EDB Project")
 
 def publish():
     # main function for publishing reports
@@ -56,78 +59,40 @@ def open_outputs():
     # assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
-def project_folder_format(project_code):
-    if new_project.get() == 1:
-        # append to new format list
-        #new_format_list.write(project_code + f"\n")
-        return True
-    else:
-        # append to old format list
-        #old_format_list.write(project_code + f"\n")
-        return False
-
-def note_folder_format(project_code,folder_format):
-    # opens warning dialog for overwriting folder format classification
-    main_x = root.winfo_x()
-    main_y = root.winfo_y()
-    overwrite_ff = ctk.CTkToplevel()
-    overwrite_ff.geometry(f"+{main_x+80}+{main_y+40}")
-    overwrite_ff.title("Overwrite existing folder format...")
-    overwrite_ff.resizable(width=False,height=False)
-    overwrite_ff_text = "The project " + project_code + " has been logged as having a " + folder_format + " folder format. \n Would you like to overwrite it to "
-    overwrite_ff_label = ctk.CTkLabel(overwrite_ff, text=overwrite_ff_text)
-    overwrite_ff_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
-    
-    def overwrite_format():
-        overwrite_ff.destroy()
-        return True
-    
-    overwrite_ff_button = ctk.CTkButton(overwrite_ff, text="Confirm", command=overwrite_format)
-    overwrite_ff_button.grid(row=1,column=0,padx=(0,0),pady=(10,20))
-    overwrite_ff.grab_set()
-    overwrite_ff.focus()
-    # check if window is closed, then return False if true
+def project_folder_paths(project_code):
+    if project_code[0:3] == "UKP":
+        for i in live_projects_dir:
+            if i.split( )[0] == project_code:
+                path_project = "S:\\Projects\\Live Projects\\" + i
+    project_dir = os.listdir(path_project)
+    for i in project_dir:
+        if i == "5, Design":
+            path_drawings = path_project + "\\5, Design\\Drawings"
+            path_packs = path_project + "\\5, Design\\Gas Design"
+        if i == "6, Drawings":
+            path_drawings = path_project + "\\6, Drawings"
+        if i == "3. Design":
+            path_drawings = path_project + "\\3. Design\\2. Gas\\1. Drawings"
+            path_packs = path_project + "\\3. Design\\2. Gas\\2. Gas Design"
+    return path_project, path_drawings, path_packs
 
 def project_tabs():
-    project_path = root.clipboard_get()
-    project_name = project_path.split("\\")
-    if len(project_name) > 1 and (project_name[-1] != ""):
-        if project_name[2] == "Live Projects":
-            project_code = project_name[3].split()[0]
-        elif project_name[2] == "EDB Projects":
-            project_code = project_name[4].split()[0]
-        subprocess.Popen(r'explorer ')
-    else:
-        return
+    code = code_var.get()
+    path_project, path_drawings, path_packs = project_folder_paths(code)
+    subprocess.Popen(r'explorer ')
     time.sleep(2)
     for i in range(2):
         pygui.hotkey("ctrl","t")
         time.sleep(0.5)
+    time.sleep(0.5)
     tab_number = 1
-    while tab_number < 4:
+    for i in [path_project, path_drawings, path_packs]:
         pygui.hotkey("ctrl",str(tab_number))
-        time.sleep(0.5)
-        pygui.press("tab")
-        time.sleep(0.5)
         pygui.hotkey("ctrl","l")
-        pygui.hotkey("ctrl","v")
-        if tab_number == 2: # Window 2: Drawings folder
-            if project_folder_format(project_code):
-                pygui.write("\\3. Design\\2. Gas\\1. Drawings")
-            elif project_code[0:3] == "UKP" and (int(project_code[3:] <= 4617)):
-                pygui.write("\\6, Drawings")
-            else:
-                pygui.write("\\5, Design\\Drawings")
-            # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
-        if tab_number == 3:
-            # Window 3: Gas Design folder
-            if project_folder_format(project_code):
-                pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
-            else:
-                pygui.write("\\5, Design\\Gas Design")
+        pygui.write(i)
         pygui.press("enter")
         pygui.press("esc")
-        time.sleep(2)
+        time.sleep(1.5)
         tab_number += 1
 
 def open_merge_auto():
