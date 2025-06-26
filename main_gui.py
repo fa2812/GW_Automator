@@ -29,12 +29,12 @@ project_1 = ctk.StringVar()
 project_1.set("Project 1: ")    
 project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
-live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
-#edb_projects_dir = os.listdir("S:\\Projects\\EDB Project")
+live_projects_dir = []
+edb_projects_dir = []
 
 def publish():
-    # main function for publishing reports
-    # assigned to the "Publish" button
+    # Main function for publishing reports
+    # Assigned to the "Publish" button
     global code
     global rev
     global draw_report
@@ -44,8 +44,8 @@ def publish():
     full(False,draw_report)
 
 def full(replace,draw):
-    # function that calls report functions to publish all reports
-    # called in publish()
+    # Function that calls report functions to publish all reports
+    # Called in publish()
     for i in range(3):
         rf.data_report(i,replace,code,rev)
         time.sleep(0.2)
@@ -55,11 +55,23 @@ def full(replace,draw):
         rf.drawing(replace,code,rev)
 
 def open_outputs():
-    # opens the Outputs folder
-    # assigned to the "Open Outputs" button
+    # Opens the Outputs folder
+    # Assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
+def read_project_dir():
+    # Reads the Live Project directory in the S: drive
+    # Assigned to the "Read Project Directories" button
+    global live_projects_dir
+    live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
+    #edb_projects_dir = os.listdir("S:\\Projects\\EDB Project")
+    if len(live_projects_dir) > 0:
+        read_dir_button.configure(text="Refresh Project Directory")
+        project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
+
 def project_folder_paths(project_code):
+    # Function that returns the 3 project folder paths based on project code
+    # Called in project_tabs()
     if project_code[0:3] == "UKP":
         for i in live_projects_dir:
             if i.split( )[0] == project_code:
@@ -77,6 +89,8 @@ def project_folder_paths(project_code):
     return path_project, path_drawings, path_packs
 
 def project_tabs():
+    # Function to open a project folder, the drawings folder, and the gas design folder in tabs within one File Explorer window
+    # Assigned to the "Open Project in Tabs" button
     code = code_var.get()
     path_project, path_drawings, path_packs = project_folder_paths(code)
     subprocess.Popen(r'explorer ')
@@ -96,21 +110,21 @@ def project_tabs():
         tab_number += 1
 
 def open_merge_auto():
-    # opens Merge Automator window (n/a)
+    # Opens Merge Automator window (n/a)
     ma_window = ctk.CTkToplevel()
     ma_window.geometry("560x170")
     ma_window.title("Merge Automator")
     ma_window.resizable(width=False,height=False)
 
 def open_help():
-    # opens Help window
+    # Opens Help window
     help_window = ctk.CTkToplevel()
     help_window.geometry("500x250")
     help_window.title("Help Guide")
     help_window.resizable(width=False,height=False)
 
 def note_fe_windows():
-    # opens warning dialog for before open_fe_windows()
+    # Opens warning dialog for before open_fe_windows()
     main_x = root.winfo_x()
     main_y = root.winfo_y()
     fe_note_window = ctk.CTkToplevel()
@@ -122,7 +136,7 @@ def note_fe_windows():
     note_fe_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
 
     def open_fe_windows():
-        # opens 8x File Explorer windows
+        # Opens 8x File Explorer windows
         for i in range(8):
             subprocess.Popen(r'explorer ')
         fe_note_window.destroy()
@@ -133,8 +147,8 @@ def note_fe_windows():
     fe_note_window.focus()
 
 def green():
-    # loops cursor movement and click on top left corner of screen
-    # assigned to the "Green" button
+    # Loops cursor movement and click on top left corner of screen
+    # Assigned to the "Green" button
     while True:
         pygui.moveTo(5,5,duration=0)
         pygui.moveTo(10,10,duration=1)
@@ -155,15 +169,16 @@ rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"0")
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
-outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
-green_button = ctk.CTkButton(root, text="Green", command=green,width=80, fg_color="#1c9b18", hover_color="#186f17")
+outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
+green_button = ctk.CTkButton(root, text="Green", command=green, width=80, fg_color="#1c9b18", hover_color="#186f17")
 #help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
 # row 3 (wip)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
 new_checkbox = ctk.CTkCheckBox(root, text = "New Folder Format",
                                    variable=new_project, onvalue=1, offvalue=0)
-project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", command=project_tabs)
+project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", fg_color="#949a9f", state="disable")
+read_dir_button = ctk.CTkButton(root, text="Read Project Directory", width=177, command=read_project_dir)
 
 ## Grid Placements ##
 
@@ -171,7 +186,7 @@ project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", command=p
 # row 0
 code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
+drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 # row 1
 rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
@@ -184,6 +199,7 @@ green_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 4
 new_checkbox.grid(row=4,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
 project_tabs_button.grid(row=4,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
+read_dir_button.grid(row=4,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 
 root.eval('tk::PlaceWindow . center')
 
