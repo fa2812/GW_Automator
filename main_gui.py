@@ -1,4 +1,4 @@
-version = "v0.1.1"
+version = "v0.1.2"
 # Python modules
 import time
 import subprocess
@@ -75,7 +75,7 @@ def project_folder_paths(project_code):
     # Called in project_tabs()
     if project_code[0:3] == "UKP":
         for i in live_projects_dir:
-            if i.split( )[0] == project_code:
+            if i.split( )[0] == project_code and len(i.split(".")) < 2:
                 path_project = "S:\\Projects\\Live Projects\\" + i
     project_dir = os.listdir(path_project)
     for i in project_dir:
