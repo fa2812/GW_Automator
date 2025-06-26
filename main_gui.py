@@ -1,3 +1,4 @@
+version = "v0.1.0"
 # Python modules
 import time
 import subprocess
@@ -13,7 +14,7 @@ import report_functions as rf
 ## Main Window ##
 root = ctk.CTk()
 root.geometry("540x170")
-root.title("GASWorkS Automator & Folder Macros")
+root.title("GASWorkS Automator & Folder Macros (" + version + ")")
 root.resizable(width=False,height=False)
 
 ## Main Variables ##
@@ -26,7 +27,7 @@ replace_var = ctk.IntVar()  # overwrite existing documents if == 1
 drawing_var = ctk.IntVar()  # prints noded drawing if == 1
 new_project = ctk.IntVar()  # new project folder 
 project_1 = ctk.StringVar()
-project_1.set("Project 1: ")    
+project_1.set("Project 1: ")
 project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
 live_projects_dir = []
