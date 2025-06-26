@@ -1,4 +1,4 @@
-version = "v0.1.2"
+version = "v0.1.3"
 # Python modules
 import time
 import subprocess
@@ -40,7 +40,7 @@ def publish():
     global rev
     global draw_report
     code = code_var.get()
-    rev = "Rev" + rev_var.get()
+    rev = rev_var.get()
     draw_report = drawing_var.get()
     full(False,draw_report)
 
@@ -144,7 +144,7 @@ drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing (Saved View)",
 # row 1
 rev_label = ctk.CTkLabel(root, text="Revision Number             ")
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
-rev_entry.insert(0,"0")
+rev_entry.insert(0,"Rev0")
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
