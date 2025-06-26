@@ -1,4 +1,4 @@
-version = "v0.1.0"
+version = "v0.1.1"
 # Python modules
 import time
 import subprocess
@@ -118,34 +118,11 @@ def open_merge_auto():
     ma_window.resizable(width=False,height=False)
 
 def open_help():
-    # Opens Help window
+    # Opens Help window (n/a)
     help_window = ctk.CTkToplevel()
     help_window.geometry("500x250")
     help_window.title("Help Guide")
     help_window.resizable(width=False,height=False)
-
-def note_fe_windows():
-    # Opens warning dialog for before open_fe_windows()
-    main_x = root.winfo_x()
-    main_y = root.winfo_y()
-    fe_note_window = ctk.CTkToplevel()
-    fe_note_window.geometry(f"+{main_x+80}+{main_y+40}")
-    fe_note_window.title("Create File Explorer Windows...")
-    fe_note_window.resizable(width=False,height=False)
-    note_fe_text = "Are you sure you want to create (8) new File Explorer windows?"
-    note_fe_label = ctk.CTkLabel(fe_note_window, text=note_fe_text)
-    note_fe_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
-
-    def open_fe_windows():
-        # Opens 8x File Explorer windows
-        for i in range(8):
-            subprocess.Popen(r'explorer ')
-        fe_note_window.destroy()
-
-    note_fe_button = ctk.CTkButton(fe_note_window, text="Confirm", command=open_fe_windows)
-    note_fe_button.grid(row=1,column=0,padx=(0,0),pady=(10,20))
-    fe_note_window.grab_set()
-    fe_note_window.focus()
 
 def green():
     # Loops cursor movement and click on top left corner of screen
