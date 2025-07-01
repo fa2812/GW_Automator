@@ -1,4 +1,4 @@
-version = "v0.1.4"
+version = "v0.1.5"
 # Python modules
 import time
 import subprocess
@@ -131,49 +131,42 @@ def green():
         pygui.moveTo(10,10,duration=1)
         pygui.click()
 
-## Widgets ##
+## Widgets & Grid Placements ##
 
 ## Main Window
 # row 0
 code_label = ctk.CTkLabel(root, text="Project Code")
+code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 code_entry = ctk.CTkEntry(root, textvariable=code_var)
 code_entry.insert(0,"UKP")
-drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing (Saved View)",
-                                   variable=drawing_var, onvalue=1, offvalue=0)
+code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
+project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, fg_color="#949a9f", state="disable")
+project_tabs_button.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 # row 1
-rev_label = ctk.CTkLabel(root, text="Revision Number             ")
+rev_label = ctk.CTkLabel(root, text="Revision Number     ")
+rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"Rev0")
+rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
+read_dir_button = ctk.CTkButton(root, text="Read Project Directory", width=170, command=read_project_dir)
+read_dir_button.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 # row 2
+options_label = ctk.CTkLabel(root, text="Publish Options:")
+options_label.grid(row=2,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
+run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
+outputs_button.grid(row=2,column=3,padx=(0,5),pady=(10,0),sticky='sw')
 green_button = ctk.CTkButton(root, text="Green", command=green, width=80, fg_color="#1c9b18", hover_color="#186f17")
+green_button.grid(row=2,column=4,padx=(5,0),pady=(10,0),sticky='sw')
 #help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
+#merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
-project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", fg_color="#949a9f", state="disable")
-read_dir_button = ctk.CTkButton(root, text="Read Project Directory", width=177, command=read_project_dir)
-
-## Grid Placements ##
-
-## Main Window
-# row 0
-code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
-# row 1
-rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-# row 2
-run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
-outputs_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
-green_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
-# row 3 (wip)
-#merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-# row 4
-project_tabs_button.grid(row=4,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
-read_dir_button.grid(row=4,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
+drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing",
+                                   variable=drawing_var, onvalue=1, offvalue=0)
+drawing_checkbox.grid(row=4,column=0,padx=(10,0),pady=(10,0),sticky='w')
 
 root.eval('tk::PlaceWindow . center')
 
