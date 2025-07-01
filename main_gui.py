@@ -1,4 +1,4 @@
-version = "v0.1.3"
+version = "v0.1.4"
 # Python modules
 import time
 import subprocess
@@ -24,8 +24,7 @@ draw_report = ""
 code_var = ctk.StringVar()  # project code
 rev_var = ctk.StringVar()   # GASWorkS file revision
 replace_var = ctk.IntVar()  # overwrite existing documents if == 1
-drawing_var = ctk.IntVar()  # prints noded drawing if == 1
-new_project = ctk.IntVar()  # new project folder 
+drawing_var = ctk.IntVar()  # prints noded drawing if == 1 
 project_1 = ctk.StringVar()
 project_1.set("Project 1: ")
 project_2 = ctk.StringVar()
@@ -153,8 +152,6 @@ green_button = ctk.CTkButton(root, text="Green", command=green, width=80, fg_col
 # row 3 (wip)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
-new_checkbox = ctk.CTkCheckBox(root, text = "New Folder Format",
-                                   variable=new_project, onvalue=1, offvalue=0)
 project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", fg_color="#949a9f", state="disable")
 read_dir_button = ctk.CTkButton(root, text="Read Project Directory", width=177, command=read_project_dir)
 
@@ -175,7 +172,6 @@ green_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 #merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 # row 4
-new_checkbox.grid(row=4,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
 project_tabs_button.grid(row=4,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 read_dir_button.grid(row=4,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 
