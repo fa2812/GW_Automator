@@ -67,7 +67,7 @@ def data_report(ver,replace,code,rev):
     pygui.hotkey("alt","p") # prints report
     time.sleep(0.75)    # wait time for file explorer window to come up
     capture_change(screen_cx,screen_cy)
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
+    pygui.write(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
     pygui.hotkey("alt","s") # saves report
     if replace == True:
         pygui.press("y")
@@ -88,12 +88,13 @@ def summary(replace,code,rev):
     capture_change(screen_cx,screen_cy)
     pygui.hotkey("alt","p")     # prints report
     capture_change(screen_cx,screen_cy)
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
+    pygui.write(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
     pygui.hotkey("alt","s")     # saves report
     if replace == True:
         pygui.press("tab")
         pygui.press("enter")
-    time.sleep(1)               # waiting time for PDF to be fully published
+    time.sleep(1.5)
+    pygui.hotkey("alt","c")     # redundant for closing report window
     pygui.hotkey("alt","c")     # closes report window
 
 def drawing(replace,code,rev):
@@ -111,7 +112,7 @@ def drawing(replace,code,rev):
     time.sleep(0.3)
     capture_change(screen_cx,screen_cy)
     pygui.hotkey("alt","c") # presses second "Continue"
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - Noded Drawing.pdf")
+    pygui.write(outputs_folder + "\\" + code + " - " + rev + " - Noded Drawing.pdf")
     pygui.hotkey("alt","s") # saves report
     if replace == True:
         pygui.press("tab")

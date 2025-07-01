@@ -1,4 +1,4 @@
-version = "v0.1.6"
+version = "v0.1.7"
 # Python modules
 import time
 import subprocess
@@ -14,7 +14,7 @@ import report_functions as rf
 
 ## Main Window ##
 root = ctk.CTk()
-root.geometry("540x170")
+root.geometry("490x160")
 root.title("GASWorkS Automator & Folder Macros (" + version + ")")
 root.resizable(width=False,height=False)
 
@@ -40,11 +40,12 @@ def publish():
     global rev
     global draw_report
     code = code_var.get()
-    if code.split("-") > 1:
+    if len(code.split("-")) > 1:
         # If project code has a variation number, split it
         code = code.split("-")[0]
     rev = rev_var.get()
     draw_report = drawing_var.get()
+    tk.messagebox.showinfo(title="Publishing Reports...", message="Ensure that GASWorkS is open on the Main Display!\nPress OK to continue publishing reports for " + code + "...")
     full(False,draw_report)
 
 def full(replace,draw):
