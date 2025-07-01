@@ -1,13 +1,13 @@
-version = "v0.1.8"
+version = "v0.1.9"
 # Python modules
 import time
 import subprocess
 import os
+import tkinter as tk
 
 # Extra modules
 import pyautogui as pygui
 import customtkinter as ctk
-import tkinter as tk
 
 # Dependent files
 import report_functions as rf
