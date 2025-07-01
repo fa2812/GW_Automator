@@ -1,4 +1,4 @@
-version = "v0.1.5"
+version = "v0.1.6"
 # Python modules
 import time
 import subprocess
@@ -7,6 +7,7 @@ import os
 # Extra modules
 import pyautogui as pygui
 import customtkinter as ctk
+import tkinter as tk
 
 # Dependent files
 import report_functions as rf
@@ -39,6 +40,9 @@ def publish():
     global rev
     global draw_report
     code = code_var.get()
+    if code.split("-") > 1:
+        # If project code has a variation number, split it
+        code = code.split("-")[0]
     rev = rev_var.get()
     draw_report = drawing_var.get()
     full(False,draw_report)
@@ -73,9 +77,20 @@ def project_folder_paths(project_code):
     # Function that returns the 3 project folder paths based on project code
     # Called in project_tabs()
     if project_code[0:3] == "UKP":
+        if len(project_code.split("-")) > 1:
+            variation_no = project_code.split("-")[1]
+            project_code = project_code.split("-")[0]
         for i in live_projects_dir:
             if i.split( )[0] == project_code and len(i.split(".")) < 2:
                 path_project = "S:\\Projects\\Live Projects\\" + i
+        if not ("path_project" in locals()):
+            # If project code does not match any folder in Live Projects, show error message
+            tk.messagebox.showerror(title="Error", message="Project does not exist. Please enter a valid UKP project code.")
+            return
+    elif project_code[0:3] != "UKP":
+        # If project code does not start with "UKP", show error message
+        tk.messagebox.showerror(title="Error", message="Invalid Project Code. Please enter a valid UKP project code.")
+        return
     project_dir = os.listdir(path_project)
     for i in project_dir:
         if i == "5, Design":
@@ -86,6 +101,17 @@ def project_folder_paths(project_code):
         if i == "3. Design":
             path_drawings = path_project + "\\3. Design\\2. Gas\\1. Drawings"
             path_packs = path_project + "\\3. Design\\2. Gas\\2. Gas Design"
+    if "variation_no" in locals():
+        print("Variation No: " + variation_no)
+        path_packs_og = path_packs
+        gas_design_folder = os.listdir(path_packs)
+        for j in gas_design_folder:
+            if j.split(" ")[0] == variation_no:
+                print("Variation Gas Design Folder: " + j)
+                path_packs = path_packs + "\\" + j
+        if path_packs == path_packs_og:
+            # If variation pack does not exist, show warning message
+            tk.messagebox.showwarning(title="Variation Not Found", message=variation_no + " Pack does not exist. Opening Gas Design folder instead...")
     return path_project, path_drawings, path_packs
 
 def project_tabs():
