@@ -70,9 +70,9 @@ def data_report(ver,replace,code,rev):
     pygui.write(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
     pygui.hotkey("alt","s") # saves report
     if replace == True:
-        pygui.press("y")
-    time.sleep(1.5)     # wait time for file explorer window to close
-    pygui.press("y")    # redundancy for "Replace file" selection
+        time.sleep(0.5)         # wait time for replace file message box to come up
+        pygui.hotkey("alt","y") # presses "Yes" to replace file
+    time.sleep(1.5)         # wait time for file explorer window to close
     capture_change(screen_cx,screen_cy) # checks centre pixel change
     pygui.hotkey("alt","c") # closes report window
 
@@ -91,10 +91,10 @@ def summary(replace,code,rev):
     pygui.write(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
     pygui.hotkey("alt","s")     # saves report
     if replace == True:
-        pygui.press("tab")
-        pygui.press("enter")
-    time.sleep(1.5)
-    pygui.hotkey("alt","c")     # redundant for closing report window
+        time.sleep(0.5)         # wait time for replace file message box to come up
+        pygui.hotkey("alt","y") # presses "Yes" to replace file
+    time.sleep(1.5)             # wait time for file explorer window to close
+    pygui.hotkey("alt","c")     # redundancy for closing report window
     pygui.hotkey("alt","c")     # closes report window
 
 def drawing(replace,code,rev):

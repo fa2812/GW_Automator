@@ -33,6 +33,21 @@ project_2.set("Project 2: ")
 live_projects_dir = []
 edb_projects_dir = []
 
+def existing_files_check():
+    # Checks if the Outputs folder already has report files with the same name
+    # Returns True if files exist, False if not
+    global code
+    global rev
+    existing_files = os.listdir(rf.outputs_folder)
+    for file in existing_files:
+        if file == code + " - " + rev + " - Pipe Data Report.pdf" or \
+           file == code + " - " + rev + " - Node Data Report.pdf" or \
+           file == code + " - " + rev + " - Customer Data Report.pdf" or \
+           file == code + " - " + rev + " - Summary Report.pdf" or \
+           (drawing_var.get() == 1 and file == code + " - " + rev + " - Noded Drawing.pdf"):
+            return True
+    return False
+
 def publish():
     # Main function for publishing reports
     # Assigned to the "Publish" button
@@ -45,8 +60,12 @@ def publish():
         code = code.split("-")[0]
     rev = rev_var.get()
     draw_report = drawing_var.get()
+    if existing_files_check() == True:
+        # If files with the report files already exist, change replace variable to True
+        tk.messagebox.showwarning(title="Existing Reports Found", message="Existing reports for " + code + " - " + rev + " found in Outputs folder.\nPress OK to overwrite existing reports...")
+        replace_files = True
     tk.messagebox.showinfo(title="Publishing Reports...", message="Ensure that GASWorkS is open on the Main Display!\nPress OK to continue publishing reports for " + code + "...")
-    full(False,draw_report)
+    full(replace_files,draw_report)
 
 def full(replace,draw):
     # Function that calls report functions to publish all reports
