@@ -1,4 +1,4 @@
-version = "v0.1.7"
+version = "v0.1.8"
 # Python modules
 import time
 import subprocess
@@ -178,8 +178,6 @@ rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
 read_dir_button = ctk.CTkButton(root, text="Read Project Directory", width=170, command=read_project_dir)
 read_dir_button.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 # row 2
-options_label = ctk.CTkLabel(root, text="Publish Options:")
-options_label.grid(row=2,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
 outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
@@ -191,9 +189,11 @@ green_button.grid(row=2,column=4,padx=(5,0),pady=(10,0),sticky='sw')
 # row 3 (wip)
 merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
 # row 4
+options_label = ctk.CTkLabel(root, text="Publish Options:")
+options_label.grid(row=4,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing",
                                    variable=drawing_var, onvalue=1, offvalue=0)
-drawing_checkbox.grid(row=4,column=0,padx=(10,0),pady=(10,0),sticky='w')
+drawing_checkbox.grid(row=4,column=1,padx=(20,0),pady=(10,0),sticky='w')
 
 root.eval('tk::PlaceWindow . center')
 
