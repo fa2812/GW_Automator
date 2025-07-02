@@ -1,4 +1,4 @@
-version = "v0.1.9"
+version = "v0.1.10"
 # Python modules
 import time
 import subprocess
@@ -58,6 +58,9 @@ def publish():
     if len(code.split("-")) > 1:
         # If project code has a variation number, split it
         code = code.split("-")[0]
+    elif code[0:3] == "PAR" and len(code.split("-")) > 1:
+        # If project code starts with "PAR", split it to get the project code
+        code = code.split("-")[1]
     rev = rev_var.get()
     draw_report = drawing_var.get()
     if existing_files_check() == True:
@@ -87,47 +90,68 @@ def read_project_dir():
     # Reads the Live Project directory in the S: drive
     # Assigned to the "Read Project Directories" button
     global live_projects_dir
+    global edb_projects_dir
     live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
-    #edb_projects_dir = os.listdir("S:\\Projects\\EDB Project")
+    edb_projects_dir = os.listdir("S:\\Projects\\EDB Projects")
     if len(live_projects_dir) > 0:
-        read_dir_button.configure(text="Refresh Project Directory")
+        read_dir_button.configure(text="Refresh Project Directories")
         project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
 
 def project_folder_paths(project_code):
     # Function that returns the 3 project folder paths based on project code
     # Called in project_tabs()
     if project_code[0:3] == "UKP":
+        # If project code starts with "UKP", set path to Live Projects
+        # UKP project code should be in the format "UKPxxxx-Vxx"
         if len(project_code.split("-")) > 1:
             variation_no = project_code.split("-")[1]
             project_code = project_code.split("-")[0]
         for i in live_projects_dir:
             if i.split( )[0] == project_code and len(i.split(".")) < 2:
                 path_project = "S:\\Projects\\Live Projects\\" + i
+                project_dir = os.listdir(path_project)
+                break
         if not ("path_project" in locals()):
             # If project code does not match any folder in Live Projects, show error message
             tk.messagebox.showerror(title="Error", message="Project does not exist. Please enter a valid UKP project code.")
-            return
-    elif project_code[0:3] != "UKP":
-        # If project code does not start with "UKP", show error message
-        tk.messagebox.showerror(title="Error", message="Invalid Project Code. Please enter a valid UKP project code.")
-        return
-    project_dir = os.listdir(path_project)
-    for i in project_dir:
-        if i == "5, Design":
-            path_drawings = path_project + "\\5, Design\\Drawings"
-            path_packs = path_project + "\\5, Design\\Gas Design"
-        if i == "6, Drawings":
-            path_drawings = path_project + "\\6, Drawings"
-        if i == "3. Design":
-            path_drawings = path_project + "\\3. Design\\2. Gas\\1. Drawings"
-            path_packs = path_project + "\\3. Design\\2. Gas\\2. Gas Design"
+            return None, None, None
+    elif project_code[0:3] == "PAR" and project_code.split("-")[1][0] == "E":
+        # If project code contains a "PAR" number and an "E" project code, set path accordingly
+        # EDB project code should be in the format "PARxxxx-Exxxx-Vxx"
+        if len(project_code.split("-")) > 2:
+            variation_no = project_code.split("-")[2]
+        parent_code = project_code.split("-")[0]
+        project_code = project_code.split("-")[1]
+        for i in edb_projects_dir:
+            if i.split( )[0] == parent_code and len(i.split(".")) < 2:
+                parent_dir = os.listdir("S:\\Projects\\EDB Projects\\" + i)
+                for j in parent_dir:
+                    if j.split( )[0] == project_code and len(j.split(".")) < 2:
+                        path_project = "S:\\Projects\\EDB Projects\\" + i + "\\" + j
+                        project_dir = os.listdir(path_project)
+                        if "5, Design" in project_dir or "6, Drawings" in project_dir or "3. Design" in project_dir:
+                            break
+    else:
+        # If project code does not start with "UKP" or "PAR" followed by "E" project code, show error message
+        tk.messagebox.showerror(title="Error", message="Invalid Project Code. Please enter a valid UKP or EDB (PARxxxx-Exxxx) project code.")
+        return None, None, None
+    if "5, Design" in project_dir:
+        # If project directory contains "5, Design", set paths accordingly
+        path_drawings = path_project + "\\5, Design\\Drawings"
+        path_packs = path_project + "\\5, Design\\Gas Design"
+    if "6, Drawings" in project_dir:
+        # If project directory contains "6, Drawings", set paths accordingly
+        path_drawings = path_project + "\\6, Drawings"
+    if "3. Design" in project_dir:
+        # If project directory contains "3. Design", set paths accordingly
+        path_drawings = path_project + "\\3. Design\\2. Gas\\1. Drawings"
+        path_packs = path_project + "\\3. Design\\2. Gas\\2. Gas Design"
     if "variation_no" in locals():
-        print("Variation No: " + variation_no)
+        # If variation number exists, check for the specific Variation Pack in the Gas Design folder
         path_packs_og = path_packs
         gas_design_folder = os.listdir(path_packs)
         for j in gas_design_folder:
             if j.split(" ")[0] == variation_no:
-                print("Variation Gas Design Folder: " + j)
                 path_packs = path_packs + "\\" + j
         if path_packs == path_packs_og:
             # If variation pack does not exist, show warning message
@@ -139,6 +163,9 @@ def project_tabs():
     # Assigned to the "Open Project in Tabs" button
     code = code_var.get()
     path_project, path_drawings, path_packs = project_folder_paths(code)
+    if None in (path_project, path_drawings, path_packs):
+        # If project folder paths are not valid, return
+        return
     subprocess.Popen(r'explorer ')
     time.sleep(2)
     for i in range(2):
@@ -194,7 +221,7 @@ rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"Rev0")
 rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-read_dir_button = ctk.CTkButton(root, text="Read Project Directory", width=170, command=read_project_dir)
+read_dir_button = ctk.CTkButton(root, text="Read Project Directories", width=170, command=read_project_dir)
 read_dir_button.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
