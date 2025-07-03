@@ -1,4 +1,4 @@
-version = "v0.1.10"
+version = "v0.1.11"
 # Python modules
 import time
 import subprocess
@@ -14,7 +14,7 @@ import report_functions as rf
 
 ## Main Window ##
 root = ctk.CTk()
-root.geometry("490x160")
+root.geometry("575x160")
 root.title("GASWorkS Automator & Folder Macros (" + version + ")")
 root.resizable(width=False,height=False)
 
@@ -94,7 +94,7 @@ def read_project_dir():
     live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
     edb_projects_dir = os.listdir("S:\\Projects\\EDB Projects")
     if len(live_projects_dir) > 0:
-        read_dir_button.configure(text="Refresh Project Directories")
+        read_dir_button.configure(text="Refresh")
         project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
 
 def project_folder_paths(project_code):
@@ -182,12 +182,34 @@ def project_tabs():
         time.sleep(1.5)
         tab_number += 1
 
-def open_merge_auto():
-    # Opens Merge Automator window (n/a)
-    ma_window = ctk.CTkToplevel()
-    ma_window.geometry("560x170")
-    ma_window.title("Merge Automator")
-    ma_window.resizable(width=False,height=False)
+def project_gw_folder():
+    # Opens the local GGASWorkS folder for the project
+    # Assigned to the "Open Project GW Folder" button
+    code = code_var.get()
+    gw_folder_path = "C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS"
+    if len(code.split("-")) > 1:
+        # If project code has a variation number, split it
+        code = code.split("-")[0]
+    elif code[0:3] == "PAR" and len(code.split("-")) > 1:
+        # If project code starts with "PAR", split it to get the project code
+        code = code.split("-")[1]
+    for i in os.listdir(gw_folder_path):
+        if i.split( )[0] == code and len(i.split(".")) < 2:
+            # If project code matches a folder in the local GASWorkS folder, open it
+            gw_folder = gw_folder_path + "\\" + i + "\\"
+            print(gw_folder)
+            subprocess.Popen(r'explorer ' + gw_folder)
+            time.sleep(2)
+            return
+    # If project code does not match any folder in the local GASWorkS folder, show error message
+    tk.messagebox.showerror(title="Error", message="Project does not exist in local GASWorkS folder. Please enter a valid project code.")
+
+def settings_window():
+    # Opens Settings window
+    settings_window = ctk.CTkToplevel()
+    settings_window.geometry("500x250")
+    settings_window.title("Settings")
+    settings_window.resizable(width=False,height=False)
 
 def open_help():
     # Opens Help window (n/a)
@@ -214,32 +236,34 @@ code_entry = ctk.CTkEntry(root, textvariable=code_var)
 code_entry.insert(0,"UKP")
 code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
 project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, fg_color="#949a9f", state="disable")
-project_tabs_button.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
+project_tabs_button.grid(row=0,column=3,columnspan=2,padx=(0,10),pady=(10,0),sticky='w')
+read_dir_button = ctk.CTkButton(root, text="Refresh", width=80, command=read_project_dir)
+read_dir_button.grid(row=0,column=5,padx=(0,0),pady=(10,0),sticky='w')
 # row 1
-rev_label = ctk.CTkLabel(root, text="Revision Number     ")
+rev_label = ctk.CTkLabel(root, text="Revision Number   ")
 rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
 rev_entry.insert(0,"Rev0")
 rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-read_dir_button = ctk.CTkButton(root, text="Read Project Directories", width=170, command=read_project_dir)
-read_dir_button.grid(row=1,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='w')
+gw_folder_button = ctk.CTkButton(root, text="Open Project GW Folder", width=170, command=project_gw_folder)
+gw_folder_button.grid(row=1,column=3,columnspan=2,padx=(0,10),pady=(10,0),sticky='w')
+outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
+outputs_button.grid(row=1,column=5,padx=(0,0),pady=(10,0),sticky='sw')
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
-outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
-outputs_button.grid(row=2,column=3,padx=(0,5),pady=(10,0),sticky='sw')
+settings_button = ctk.CTkButton(root, text="Settings", width=80, command=settings_window)
+settings_button.grid(row=2,column=3,padx=(0,5),pady=(10,0),sticky='sw')
+help_button = ctk.CTkButton(root, text="Help", command=open_help, width=80)
+help_button.grid(row=2,column=4,padx=(5,10),pady=(10,0),sticky='sw')
 green_button = ctk.CTkButton(root, text="Green", command=green, width=80, fg_color="#1c9b18", hover_color="#186f17")
-green_button.grid(row=2,column=4,padx=(5,0),pady=(10,0),sticky='sw')
-#help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
-#merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-# row 3 (wip)
-merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
-# row 4
+green_button.grid(row=2,column=5,padx=(0,0),pady=(10,0),sticky='sw')
+# # row 3
 options_label = ctk.CTkLabel(root, text="Publish Options:")
-options_label.grid(row=4,column=0,padx=(10,0),pady=(10,0),sticky='sw')
+options_label.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing",
                                    variable=drawing_var, onvalue=1, offvalue=0)
-drawing_checkbox.grid(row=4,column=1,padx=(20,0),pady=(10,0),sticky='w')
+drawing_checkbox.grid(row=3,column=1,padx=(20,0),pady=(10,0),sticky='w')
 
 root.eval('tk::PlaceWindow . center')
 
