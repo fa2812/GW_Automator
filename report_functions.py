@@ -26,7 +26,7 @@ def progress(dur):
     pygui.moveTo(1915,45,duration=dur)
 
 def capture_change(x,y):
-    # checks if the cololur of a pixel at x,y has changed, then returns
+    # Checks if the cololur of a pixel at x,y has changed, then returns
     check = True
     while check:
         im1 = pygui.screenshot()
@@ -38,7 +38,7 @@ def capture_change(x,y):
     return
 
 def locate_click(image):
-    ## locate and click based on given image, in while loop
+    ## Locate and click based on given image
     check = True
     while check:
         print_location = pygui.locateCenterOnScreen(image) # delay 1-2 sec
@@ -47,7 +47,7 @@ def locate_click(image):
     pygui.click(print_location[0],print_location[1])
 
 def data_report(ver,replace,code,rev):
-    ## prints pipe/node/customer data report
+    ## Prints pipe/node/customer data report
     pygui.moveTo(154,50,duration=0.2)   # to GW window
     pygui.click()
     pygui.hotkey("alt","r")             # Report tab
@@ -77,7 +77,7 @@ def data_report(ver,replace,code,rev):
     pygui.hotkey("alt","c") # closes report window
 
 def summary(replace,code,rev):
-    ## prints system summary report
+    ## Prints system summary report
     pygui.moveTo(154,50,duration=0.2)   # to GW window
     pygui.click()
     pygui.hotkey("alt","r")             # Report tab
@@ -98,7 +98,7 @@ def summary(replace,code,rev):
     pygui.hotkey("alt","c")     # closes report window
 
 def drawing(replace,code,rev):
-    ## prints noded drawing
+    ## Prints noded drawing
     locate_click(images_folder + "\\GW_button_side.png")
     locate_click(images_folder + "\\GW_print_button.png")
     pygui.press("enter")

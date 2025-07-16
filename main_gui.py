@@ -1,4 +1,4 @@
-version = "v0.1.11"
+version = "v0.1.12"
 # Python modules
 import time
 import subprocess
@@ -155,7 +155,7 @@ def project_folder_paths(project_code):
                 path_packs = path_packs + "\\" + j
         if path_packs == path_packs_og:
             # If variation pack does not exist, show warning message
-            tk.messagebox.showwarning(title="Variation Not Found", message=variation_no + " Pack does not exist. Opening Gas Design folder instead...")
+            tk.messagebox.showwarning(title="Variation Not Found", message=variation_no + " Pack not found. Opening Gas Design folder instead...")
     return path_project, path_drawings, path_packs
 
 def project_tabs():
@@ -183,7 +183,7 @@ def project_tabs():
         tab_number += 1
 
 def project_gw_folder():
-    # Opens the local GGASWorkS folder for the project
+    # Opens the local GASWorkS folder for the project
     # Assigned to the "Open Project GW Folder" button
     code = code_var.get()
     gw_folder_path = "C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS"
