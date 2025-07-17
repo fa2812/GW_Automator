@@ -1,4 +1,4 @@
-version = "v0.1.12"
+version = "v0.1.13"
 # Python modules
 import time
 import subprocess
@@ -67,6 +67,9 @@ def publish():
         # If files with the report files already exist, change replace variable to True
         tk.messagebox.showwarning(title="Existing Reports Found", message="Existing reports for " + code + " - " + rev + " found in Outputs folder.\nPress OK to overwrite existing reports...")
         replace_files = True
+    else:
+        # If no existing files found, change replace variable to False
+        replace_files = False
     tk.messagebox.showinfo(title="Publishing Reports...", message="Ensure that GASWorkS is open on the Main Display!\nPress OK to continue publishing reports for " + code + "...")
     full(replace_files,draw_report)
 
