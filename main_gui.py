@@ -94,8 +94,10 @@ def read_project_dir():
     # Assigned to the "Read Project Directories" button
     global live_projects_dir
     global edb_projects_dir
+    global local_gw_dir
     live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
     edb_projects_dir = os.listdir("S:\\Projects\\EDB Projects")
+    local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
     if len(live_projects_dir) > 0:
         read_dir_button.configure(text="Refresh")
         project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
@@ -117,7 +119,7 @@ def project_folder_paths(project_code):
         if not ("path_project" in locals()):
             # If project code does not match any folder in Live Projects, show error message
             tk.messagebox.showerror(title="Error", message="Project does not exist. Please enter a valid UKP project code.")
-            return None, None, None
+            return None, None, None, None
     elif project_code[0:3] == "PAR" and project_code.split("-")[1][0] == "E":
         # If project code contains a "PAR" number and an "E" project code, set path accordingly
         # EDB project code should be in the format "PARxxxx-Exxxx-Vxx"
@@ -137,7 +139,14 @@ def project_folder_paths(project_code):
     else:
         # If project code does not start with "UKP" or "PAR" followed by "E" project code, show error message
         tk.messagebox.showerror(title="Error", message="Invalid Project Code. Please enter a valid UKP or EDB (PARxxxx-Exxxx) project code.")
-        return None, None, None
+        return None, None, None, None
+    for i in local_gw_dir:
+            if i.split( )[0] == project_code and len(i.split(".")) < 2:
+                path_gw = "C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS\\" + i
+                print(path_gw)
+                break
+            else:
+                path_gw = None
     if "5, Design" in project_dir:
         # If project directory contains "5, Design", set paths accordingly
         path_drawings = path_project + "\\5, Design\\Drawings"
@@ -159,24 +168,31 @@ def project_folder_paths(project_code):
         if path_packs == path_packs_og:
             # If variation pack does not exist, show warning message
             tk.messagebox.showwarning(title="Variation Not Found", message=variation_no + " Pack not found. Opening Gas Design folder instead...")
-    return path_project, path_drawings, path_packs
+    return path_project, path_drawings, path_packs, path_gw
 
 def project_tabs():
     # Function to open a project folder, the drawings folder, and the gas design folder in tabs within one File Explorer window
     # Assigned to the "Open Project in Tabs" button
     code = code_var.get()
-    path_project, path_drawings, path_packs = project_folder_paths(code)
+    path_project, path_drawings, path_packs, path_gw = project_folder_paths(code)
+    print(path_gw)
     if None in (path_project, path_drawings, path_packs):
         # If project folder paths are not valid, return
         return
     subprocess.Popen(r'explorer ')
     time.sleep(2)
-    for i in range(2):
-        pygui.hotkey("ctrl","t")
+    if path_gw == None:
+        number_of_tabs = 2
+        path_list = [path_project, path_drawings, path_packs]
+    else:
+        number_of_tabs = 3
+        path_list = [path_project, path_drawings, path_packs, path_gw]
+    for i in range(number_of_tabs):
+        pygui.hotkey("ctrl","t") # opens new tab
         time.sleep(0.5)
-    time.sleep(0.5)
+    time.sleep(1.5)
     tab_number = 1
-    for i in [path_project, path_drawings, path_packs]:
+    for i in path_list:
         pygui.hotkey("ctrl",str(tab_number))
         pygui.hotkey("ctrl","l")
         pygui.write(i)
