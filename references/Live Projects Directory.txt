@@ -1,0 +1,6197 @@
+.Projects
+02 Gas Consumption Estimators
+10267.docx
+241031 - UKP10748 Little Brays - ALS Samples PO179075.pdf
+acad.err
+acadlt.err
+App
+Asset Adoption Agreement Schedules - ESP Electricity
+AuditUKP12295
+BPM Forms
+CCT CVR costing tool 11.04.2024.xlsm
+CHESTER STREET.zip
+Copy of CCT CVR costing tool 01.07.2025.xlsm
+Copy of CCT CVR costing tool 13.03.2025.xlsm
+Copy of Copy of Copy of OPS-E-012A ENCAR Blank - 23 09 25 (002).xlsm
+Copy of OPS-E-012A ENCAR Rev20240417.xlsm
+Copy of OPS-E-012A%20ENCAR%20Rev20240417%20-%20UKP9603%20E1039.xlsm
+Dale MU
+E011577.zip
+E099999 - Fallow Close.zip
+E099999 - Melksham Road South.zip
+Emails
+FM 100 - Internal CVR request - Rev 1.4.docx
+FM 100 - Internal CVR request - Rev 1.5.docx
+FOR CAD
+Income Offset
+Last Mile - Gas As Laids
+Live Projects - Shortcut.lnk
+LV94632.pdf
+MyLive Projects
+New folder (2)
+New folder (3)
+OPS-E-012A ENCAR Rev20240417.xlsm
+OPS-E-012A_20ENCAR_2020250821_20UKP13016_20ASSET064708.xlsm
+Overtime Request Form.docx
+Page 6 from New Document.pdf
+Picture1.jpg
+plot.log
+Profit and Loss
+PS37076.pdf
+PS41257.pdf
+PV Projects
+RE EXTERNAL FAT635 - UKP6339 - Hartland Village - Phase 3 - Self-Approved REVISED Design Submission.msg
+RE UKP8449 Redlands Farm - Bellway Phase 1.msg
+RE URGENT - LV Ops request for ESPE020851 - UKP5930 Carterton - E1173 booked for 05092025.msg
+SimPRO Template
+SimPRO Template - Copy
+SSEN Project Ref_ FAL998 - 12-15 High Street_ Winchester_ Hampshire_ SO23 9LA.msg
+Superseded
+thumbnail_IMG_6102.jpg
+Thumbs.db
+UKP - SF6 - Schneider
+UKP 3386 - Wembley, Wates
+UKP1000 - Coral Springs
+UKP10000 - Bartholomew Street, Newbury
+UKP10007 - 1 Waterside Place, Chesterfield
+UKP1001 - Caxton Gibet
+UKP10014 - Exeter South West Free School
+UKP10019 - Walstead Park, West Sussex
+UKP10021 - 127 Great Suffolk Street
+UKP10022 - Phase 5B, Branston Leas, Burton on Trent
+UKP10023 - GP Surgery, Locking Parklands
+UKP10024 - Woodyard Cottage, Bekhampstead
+UKP10025 - Ringwell Avenue, Exeter
+UKP10026 - White Post Farm
+UKP10028 - Cumberland House, Kingston
+UKP10032 - Rhoose, Vale of Glamorgan
+UKP10034 - Landon Walks, Poplar High Street
+UKP10036 - Bagshot Manor, Surrey
+UKP10037 - Parcel X, Mindenhurst Development
+UKP10038 - Phase 3, Holmer House Farm Hereford
+UKP10039 - Tower Station, London
+UKP1004 - Grange Road
+UKP10045 - Kind and Co, Clapham
+UKP10049 - Whiteway, Letchworth Garden City
+UKP10051 - Waterbeach Phase 1
+UKP10053 - 196-198 High Street, Bromley
+UKP1006 - Kingsway Extra Centre
+UKP10060 - Winterbrook, Wallingford
+UKP10068 - Park Street, Cambridge
+UKP10069 - Park Street, Cambridge TBS
+UKP10085 - Oteley Road, Shrewsbury
+UKP10089 - Barnaby Mead, Gillingham
+UKP10090 - Durnford Drove, Langton Matravers
+UKP10091 - Donnington Wood, Telford
+UKP10111 - Homebase, Goodmayes
+UKP10116 - Queens Drive Swindon
+UKP10117 - 37 Russell Hill Road
+UKP10121 - Sharpness Warehouse
+UKP10127 - Centre Severn, Gloucester
+UKP10129 - Tolgus Farm, Redruth
+UKP1013 - Grand Union Centre
+UKP10132 - Pantheon Park, Wolverhampton
+UKP10135 - Broadland Gate - Plots 2A + 2B
+UKP10136 - Broadland Gate - Plots 5A + 5B
+UKP10141 - 291 Hills Road, Cambridge
+UKP10146 - Portland Road, London
+UKP10150 - Ivy House Lane P2, Hastings
+UKP10157 - Wembley Yellow Car Park TBS
+UKP10158 - Broadland Gate - Plot 8
+UKP10161 - Parcel H16&H19, Land West of Stonehouse
+UKP10165 - Tewkesbury Road, Twigworth
+UKP10166 - Imperial Street Phase 2
+UKP10169 - Bodmin Phase 2
+UKP1017 - Park Road Industrial Estate
+UKP10174 - West Herts. College, Kings Langley
+UKP1018 - Oakley Road
+UKP10185 - Salisbury Road, Blandford
+UKP10186 - Burton Lane, Waltham Cross
+UKP10189 - Parcel H2, Cam
+UKP10190 - Phase 2, Clay Cross, Derbyshire
+UKP10193 - Pocklington House, Northwood
+UKP1020 - York Road
+UKP10202 - Adanac Business Park
+UKP10203 - Titherbarn, Redhayes 2B, Exeter
+UKP10203 - Titherbarn, Redhayes 2B, Exeter - Shortcut.lnk
+UKP10212 - Former Afrex House, Wembley
+UKP10214 - Mellish Street, Isle of Dogs
+UKP1022 - ltringham Depot Re-Development
+UKP10221 - Hempton Road, Deddington
+UKP1023 - Prees Heath
+UKP10231 - Sydenham Hill Estate
+UKP10232 - Wembley NE02
+UKP1024 - Lawrence Road
+UKP10243 - Ashley Gardens Phase 2, Tottenham
+UKP10244 - Arding and Hobbs, Clapham Common
+UKP10256 - Petersham Hotel, Richmond
+UKP1026 - Stanford Road
+UKP10263 - Wembley North East 11kV Infrastructure
+UKP10265 - Parcel R8, North Wellingborough
+UKP10267 - Parcel R1+R2, North Wellingborough
+UKP10268 - Parcel R5+R6, North Wellingborough
+UKP10268 - Parcel R5+R6, North Wellingborough - Shortcut.lnk
+UKP1027 - Ashmount School
+UKP10272 - Croxley View
+UKP10279 - Broadland Gate - Police Station
+UKP1028 - Holcombe Road
+UKP10280 - Orb Drive, Newport
+UKP10281 - Bay View Road, Northam
+UKP10282 - Great Portland Street TBS
+UKP10285 - 79 High Street, Meldreth
+UKP10289 - Silverstone Park - Network Decoupling
+UKP10290 - Bayswater Road.zip
+UKP10290 - Kensington Palace Gardens
+UKP10291 - Great Oldbury Primary Academy
+UKP10292 - Hornsea, Norwich
+UKP10295 - Middlegate, Kirton
+UKP10296 - 98-102 Burnt Oak Broadway TBS
+UKP10297 - Land off Thurfthorne Avenue, Coleford
+UKP10299 - Parcel R4, North Wellingborough
+UKP1030 - R&A Engineering
+UKP10300 - Broadland Gate - Plots 1, 11 & Farm
+UKP10302 - North Trade Road Care Home
+UKP10304 - Tilehurst Lane, Site B
+UKP10310 - Ugly Brown Building, Camden
+UKP10313 - 98-102 Burnt Oak Broadway
+UKP10314 - Frances Street, Woolwich
+UKP10315 - Land South West Of Binhamy
+UKP10319 - St Pancras Commercial Centre TBS
+UKP10323 - Creekside, Deptford
+UKP10327 - Wembley NE03
+UKP10339 - 200-262 Hydethorpe Road
+UKP10343 - Kingfield, Birmingham
+UKP10352 - Patmos Lodge, Elliot Road
+UKP10353 - Turkey Hall Lane, Suffolk
+UKP10353 - Turkey Hall Lane, Suffolk - Shortcut.lnk
+UKP10354 - Riverside Garages
+UKP10359 - River Farm, Latham Road
+UKP1036 - Blackwell Lane 2
+UKP10361 - Harrow View Blocks D1-D6
+UKP10362 - Bridgehill Close, Wembley
+UKP1037 - Kingsland Road
+UKP10375 - Unit B, Akeman Park
+UKP10378 - Ridgeview Lodge, St Albans
+UKP1038 - Forstal Road
+UKP10380 - Copymore, Bedford
+UKP10382 - Shirburn Road, Watlington
+UKP10393 - Redsun Project, North Road, Ellesmere Port
+UKP10401 - Twynyrodyn, Merthyr Tydfil
+UKP10402 - RWA Art Gallery
+UKP10406 -Sulis Down - Phase 1, Bath
+UKP1041 - Wellington Road
+UKP10410 - Merton Road, Ambrosden
+UKP10411 - Crowborough Phase 3a
+UKP10415 - Land off Damson Way
+UKP10417 - 1 Burlington Lane, Chiswick
+UKP1042 - Baker Street
+UKP10425 - Broadland Gate - NTR
+UKP10432 - Spruce Hills Road, Walthamstow
+UKP10434 - Biscuit Factory, Bermondsey
+UKP1044 - Shalmsford Street
+UKP10441 - Langarth Farm, Primary
+UKP10443 - Manor Place Terrace & Braganza Street, Southwark
+UKP10449 - Kellard House, Woolmer Green
+UKP1045 - Union Street
+UKP10455 - Adanac Business Park
+UKP10459 - The Croft, Horley
+UKP10461 - St Teath, Bodmin
+UKP10462 - Rea Lane, Hempsted, Gloucestershire
+UKP10463 - Morton Phase 2, Bourne Rd, Lincolnshire
+UKP10464 - Vineyards, Old London Road, Washington
+UKP10466 - Land at Aspenden Bridge P2
+UKP1047 - Globe Way, Bukley
+UKP10470 - 1-5 Priors, Bishop Strotford
+UKP10471 - Bricketts, London Road, Newport
+UKP10473 - Thornhill School, Houghton Regis
+UKP10481 - Hartland Drive, Edgeware
+UKP10482 - Twigworth Local Centre
+UKP10490 - Former Kodak, Block G&H
+UKP10491 - Sunningdale Park, Ascot
+UKP10494 - 27-37 - High Street, Swanley
+UKP10496 - Panther House, London
+UKP10498 - Bramall Close, London
+UKP10499 - Malmesbury Terrace
+UKP10508 - Warfield Phases 8-10
+UKP1051 - Fordmill Road, London
+UKP10519 - Aldgate Place P2 TBS
+UKP1052 - Mendip Road
+UKP10524 - The Bridge Café, Charfield
+UKP10527 - Worcester Road, Pershore
+UKP10529 - Glenvale Park, Wellingborough
+UKP1053 - Wells Cathedral School
+UKP10530 - Sainsbury's, Ludlow
+UKP10533 - Vistec House
+UKP10534 - Silverstone Park, Phase 3
+UKP10536 - Heritage Phase 3
+UKP1054 - Grand Union Centre 2
+UKP10545 - Minet School
+UKP10548 - Roman Rise
+UKP1055 - St Marys School
+UKP1056 - Old Moat Way
+UKP10568 - The Full Pitcher, Ledbury
+UKP1057 - Bisley Road
+UKP10574 - Yeo Street, London
+UKP10577 - Church Grove, Lewisham
+UKP10579 - One Town Centre, Hatfield
+UKP1058 - Carnegie Road
+UKP10583 - Joseph Wilson Ind. Est. Whitstable
+UKP10586 - Clipstone Road East, Mansfield
+UKP10586 - Clipstone Road East, Mansfield - Shortcut (2).lnk
+UKP10586 - Clipstone Road East, Mansfield - Shortcut (3).lnk
+UKP10586 - Clipstone Road East, Mansfield - Shortcut (4).lnk
+UKP10586 - Clipstone Road East, Mansfield - Shortcut (5).lnk
+UKP10586 - Clipstone Road East, Mansfield - Shortcut.lnk
+UKP10587 - Brunel University
+UKP10589 - Broadland Gate - Lidl Supply
+UKP1059 - Barratt Court
+UKP10591 - Iceland Wharf
+UKP10593 - 2 Rivers Primary School, Bristol
+UKP10595 - 81 Higher Drive, Purley
+UKP1060 - Sun Street
+UKP10605 - Bacton Business Park
+UKP10606 - Javelin Way Diversions
+UKP1061 - Lime Road
+UKP10611 - Palmerston Court, Battersea
+UKP10614 - Bardon Hill, Coalville
+UKP10619 - The Wharf, Box, Wiltshire
+UKP1062 - New Dover Road
+UKP10627 - Kingsbridge Crescent, Southall
+UKP1063 - Brookwood Farm
+UKP10633 - Bluebell Road, Eaton
+UKP10636 - Shire Hill Farm, Saffron Walden
+UKP1064 - Tidworth
+UKP10642 - Phase 4 Bretch Hill
+UKP10647 - Regency House, Basildon
+UKP10650 - Turner Rise, Colchester
+UKP10655 - The Leas Pavilion, Folkestone
+UKP1066 - Embassy Gardens P1
+UKP10661 - Hunters Moon Phase 4 & 5
+UKP10661P6 - Hunters Moon, Phase 6
+UKP10664 - Len House, Maidstone
+UKP10669 - Farringdon, Phase 2
+UKP1067 - Taylor Court
+UKP10670 - Beauchamps Drive, Midsomer Norton
+UKP10670HN - Beauchamps Drive - Ambient Heat Network
+UKP10673 - King Georges Gate, Tolworth TBS
+UKP1068 - Within Grove
+UKP10681 - Fenwick Place
+UKP10681 - Fenwick Place - Shortcut.lnk
+UKP10683 - Brentford Waterside, Block D
+UKP10686 - Shackleton Road TBS
+UKP1069 - Bath Road
+UKP10692 - Bonds Lane, Biggleswade
+UKP10698 - SEMH School, Bury St. Edmunds
+UKP1070 - Herts University - Connection
+UKP10704 - Buryfield, Huntingdon
+UKP1071 - Creed Road
+UKP10714 - Old Cheese Factory, Harby
+UKP10718 - Link Logistics Park, Ellesmere Port
+UKP1072 - Recreation Road
+UKP10723 -  Westbury Leigh, Wiltshire
+UKP10724 - Land West of Marley Lane, Chalgrove
+UKP1073 - White Hart Court
+UKP10736 -Tangier Lane - Phase 1
+UKP10743 - Meridian Water
+UKP10743 - Meridian Water - Shortcut.lnk
+UKP10747 - 2 Bensham Lane, Croydon
+UKP10748 - Little Brays, Harlow
+UKP1076 - DS Smith Packaging
+UKP10761 - Broadland Gate, McDonalds Supply
+UKP1077 - St Martins Convent
+UKP10772 - Sneinton Market, Nottingham
+UKP10777 -  Evesham Close TBS
+UKP10778 - Veterinary Hospital, West Longbridge
+UKP1078 - Nestle
+UKP10782 - Gowerton, Swansea
+UKP10784 - Adanac Buisness Park, Phase 2
+UKP10785 - Adanac Business Park, AP6
+UKP10786 - Brook Street, Nottingham
+UKP10788 - Former Thames Hospice, Hatch Lane
+UKP1079 - Stalham Road
+UKP10791 - Molesey Football Club, Surrey
+UKP10792 - West Quay, Poole
+UKP10793 - Cornwall Road, Waterloo
+UKP10796 - 89-101 New Road, Rainham
+UKP10798 - Wellingborough - Parcel R7
+UKP1080 - Newbury Hatchwood Farm
+UKP10800 - Water Lane Flitwick
+UKP10807 - Land at Metcalfe Way, Haddenham
+UKP10810 - Farnham House, Farnham
+UKP10813 - P&H House, Hove
+UKP10815 - 79 Avenue Road
+UKP10817 - The Wellington Hotel
+UKP1082 - Snap Farm
+UKP10823 - Stowmarket Fire & Police Station
+UKP10824 - Perham Way, St Albans
+UKP10825 - Evesham Baptist Church
+UKP10833 - Gateway Guildford
+UKP10837 -Towcester South - 2FE New Primary School
+UKP10839 - Clevedon House, Swindon
+UKP1085 - Caroline Lodge
+UKP10851 - Parsonage Way, Unit A
+UKP10856 - Devonshire Gardens, Cambridge
+UKP1086 - North Orbital Road 2
+UKP10868 - East Leake, Primary School
+UKP1087 - Broad Street
+UKP10872 - Paddock Wood - Phase 2
+UKP10873 - Braunton, Devon
+UKP10879 - 124 Queens Road, Walthamstow
+UKP1088 - Abercarn, Caerphilly
+UKP10882 - Kingston Park, Peterborough
+UKP10883 - Dark Lane, Cheshunt
+UKP1089 - Tungsten Park, Hinckley
+UKP10891 - Land at Trevemper, Newquay
+UKP1090 - Rossendale Hospital
+UKP10900 - 3 Bredgar Road, Kent
+UKP10908 - Levington Lane, Bucklesham
+UKP1091 - South Road
+UKP10912 - Former Lord Hill Hotel, Shrewsbury
+UKP10913 - Godmanchester, Bearscroft
+UKP10914 - Cardinal Park, Godmanchester
+UKP1092 - Blacksmith Close
+UKP10920 - Albion Street, London
+UKP10923 - Waterloo & Queen Street TBS
+UKP10929 - The Cavendish, Winchester
+UKP10932 - Lea Bridge Gas Works, Leyton
+UKP10936 - Silverstone K6-1 LPG Switchover
+UKP10947 - Racksmere, Ballinger Road
+UKP1095 - Church Road
+UKP10954 - Ironbridge Power Station - Development
+UKP1096 - Stanford Road
+UKP10961 - Seven Stiles & Ladyhill Day Centre
+UKP10966 - Craven Park Mikvah
+UKP10974 - Wembley NE02 TBS
+UKP10977 - 141 Welham Road, Tooting
+UKP1098 - Silvermere Road
+UKP10982 - Phase 4, Folly Farm
+UKP10986 - Tewin Road, Welwyn
+UKP1099 - Somerset Farm Generation
+UKP10991 - The Mount, Frome
+UKP10994 - Liverpool Street Arcade
+UKP10995 - Dudbrook Care Home
+UKP1100 - Daux Road
+UKP11003 -London Road, Bolney
+UKP11004 - Locking Parklands Secondary School
+UKP11013 - Ladbroke Hall, London
+UKP11014 - The Gate House, Kingston Upon Thames
+UKP11015 - Poppy Way, Norwich
+UKP1102 - Great Alne
+UKP11024 - 685-695 Old Kent Road
+UKP11025 - Baring Road, Grove Park
+UKP11027 - 48-56 Ebury Bridge Road
+UKP1103 - Beulah Hill
+UKP11037 - Ivy Lane, Headington
+UKP1104 - Little Walden Road
+UKP11040 - Plot C, Broadway Green
+UKP11049 - Minster Cliffs, Isle of Sheppy
+UKP1105 - Keats Avenue
+UKP11056 - Filton Airfield - Main Infrastructure
+UKP1106 - St Georges Road
+UKP11071 - Hendrefoilan, Phase 2
+UKP11072 - Kingston Maurward College
+UKP11072 - Kingston Maurward College - Shortcut.lnk
+UKP11075 - Barbara Speake, East Acton Lane
+UKP11076 - Warish Hall Farm, Essex
+UKP1108 - Roundswell Barnstaple
+UKP11083 - Hercules Way, Leavesden
+UKP11085 - St. John Street, London
+UKP11086 - Arcadia Avenue, Finchley
+UKP1109 - Alexander Lodge
+UKP11092 - Units 1&2 - Gas, Link Logistics Park
+UKP11093 - Shootersway, Berkhamstead
+UKP11095 - Land at Winkleigh, Devon
+UKP11097 - Foundary Lane, Bristol
+UKP11098 - Owlstone Croft, Cambridge
+UKP1110 - Burnham House
+UKP11102 - Tottenham Hale Ferry Island
+UKP11104 - Scarborough Avenue, Stevenage
+UKP11107 - Fountain Lofts, Birmingham
+UKP11109 - Renforth Street, Southwark
+UKP1111 - Kingsgate House
+UKP11112 - Cripps Avenue, Peacehaven
+UKP11113 - Railway Square, Chelmsford
+UKP11114 - Unit 1 - Private HV, Link Logistics Park
+UKP11115 - Phase 2, Weldale Street, Reading
+UKP11117 - Barry Waterfront, Primary School
+UKP11118 - Thanet Way, Faversham
+UKP11119 - Dancing Lane, Wincanton
+UKP1112 - Grange Walk
+UKP11123 - 41-45 Acre Lane, Brixton
+UKP11125 - Eddington, Cambridge
+UKP11130 - Land off A3124, North Tawton
+UKP11133 - East Kettering, Parcel R22
+UKP11134 - East Kettering, Parcel R24
+UKP11135 - East Kettering, Parcel R25
+UKP11137 - Sunninghill Gas Works, Bridge Road
+UKP11144 - Clarendon Road, Watford TBS
+UKP11147 - Victory Place, Ashford
+UKP11148 - Gallions Quarter, Phase 3B TBS
+UKP11149 - Voith Turbo, Croydon
+UKP1115 - Brandon Road
+UKP11150 - Shawmer Farm, Stotfold
+UKP11153 - Woodridings Court, London
+UKP11154 - Unit 1 Collett Way, Southall
+UKP11158 - Gas Diversion, Royal Norwich Golf Club
+UKP1116 - C-t-S Primary School
+UKP11162 - Purbeck Road, Lytchett Matravers
+UKP11165 - Shrivenham Road, Highworth, Swindon
+UKP11167 - Semington Road, Melksham
+UKP11170 - Deptford Wharf Plot 6
+UKP11173 - Broadland Gate - Plot 2C - Greggs
+UKP11179 - Swaker's Yard, Borehamwood
+UKP1118 - Harbury Phase 2
+UKP11182 - Leckwith Road, Penarth
+UKP11186 - Knights Walk, London Phase 2
+UKP11189 - The Elms, Thame
+UKP1119 - Holt Road
+UKP11206 - Shady Lane, Birmingham
+UKP1121 - The  Limes
+UKP11210 - Towcester Parcel H15
+UKP11211 - Cornwall Road, Waterloo TBS
+UKP11214 - New Road Triangle, Feltham
+UKP11217 - Orchard Close, Bedfordshire
+UKP11218 - Didsbury Centre Phase 2
+UKP1122 - Brook Street, Colchester
+UKP11220 - Fleets Corner, Poole
+UKP11223 - Oakley Grove Phase 3, Leamington Spa
+UKP11228- Home Farm, Dane End
+UKP11229 - Ilderton Road, London
+UKP1123 - Roebuck Close
+UKP11236 - Phases 3-6, Mosshayne
+UKP11236 - Phases 3-6, Mosshayne - Shortcut (2).lnk
+UKP11236 - Phases 3-6, Mosshayne - Shortcut.lnk
+UKP1124 - Bradley Road
+UKP1125 - Harry Stoke Road
+UKP11251 - Parcel R21B - East Kettering
+UKP11252 - St James Church, Piccadilly
+UKP11253 - Cefn Yr Hendy, Miskin
+UKP11254 - Silverstone Park, Unit 1500A Upgrade
+UKP11254TX - Silverstone Park, 1500kVA Tx
+UKP11256 - Melbourne Avenue, Ramsgate
+UKP11259 - The Everglades, Hounslow
+UKP1126 - BMHT Georges Park
+UKP11261 - Beales Lane, Weybridge
+UKP11264 - Exmouth Junction
+UKP1127 - South Molton
+UKP11273 - Barton Park, Phase 2, 4A & 4B
+UKP11276 - Rose Gardens, Feltham
+UKP11277 - Hartington, Staveley
+UKP11284 - Land North West of Fiddington
+UKP11285 - Adderwell Road, Frome
+UKP11286 - Beacon Hill, Townhill Campus
+UKP11287 - Sherwood Avenue, Mansfield
+UKP11291 - Sports Pavilion, Earls Barton
+UKP11296 - Farringdon Primary School
+UKP11298 - 5 Kingsland Road, London
+UKP11300 - Junction 24, M5 Bridgewater
+UKP11304 - Centre Court, Hall Green, Birmingham
+UKP11306 - Gallions Quarter, Phase 3B
+UKP1131 - Hoose Court
+UKP11315 - Old Bristol Road, East Brent
+UKP11320 - Care Home, Swan Park
+UKP11323 - Meridian Water Phase 2
+UKP11327 - St Swithins Close, Bicker, Boston
+UKP11329 - Phase 2E, 2F Pentrebane
+UKP1133 - Rathfinny Estate
+UKP11330 - Doniford Road, Watchet
+UKP11330 - Doniford Road, Watchet - Shortcut.lnk
+UKP11333 - Samlet Road, Swansea
+UKP11335 - Powick Pavilion
+UKP1134 - Moreton Park
+UKP11346 - Broadland Gate - Plots 3 & 4
+UKP1135 - Moorlands Primary School
+UKP11356 - Brampton Park House - Parcel G
+UKP1136 - Wordsworth Primary School
+UKP11360 - Welland Park Academy, Market Harborough
+UKP11365 - Bridgehill Close Gas
+UKP1137 - Bannister Primary School
+UKP11371 - Norfolk Plaza Hotel, London
+UKP11379 - Coldharbour Road, Gravesham
+UKP11385 - Primrose Holt, Balmoral Way - Phase 2
+UKP11389 - Donoghue Business Park, Claremont Road
+UKP11392 - Wimberley Mill, Stroud
+UKP11395 - Dunn Close, Stevenage
+UKP11399- Jonathan Street, Lambeth
+UKP1140 - Elizabeth House, Cheam
+UKP11400 - Orsett Street, Lambeth
+UKP11408 - Netherway Road, St. Albans
+UKP11409 - Wellingborough, Parcel R10a
+UKP1141 - Great Western Business Park
+UKP11415 - Great Stall East, Swindon
+UKP1142 - Haverhill Research Park
+UKP11426 - Care Home, Godmanchester, Bearscroft
+UKP11428 - Hornsea, Norwich - Diversions
+UKP1143 - Bewdley Lane, Evesham
+UKP1144 - Silver Street, Bristol
+UKP11447IQ - Bicester Motion, IQ Zone
+UKP11447IQ.pdf
+UKP11447N1 - Bicester Motion, 2.8MVA POC
+UKP1146 - Northbrooke College Site
+UKP11464 - Kingston School SEN
+UKP1147 - Moleynes Mead
+UKP11470 - Northwick Park, Harrow
+UKP11473 - 23-55 North Street, Romford
+UKP11478 - Niphon Works, Wolverhampton
+UKP1148 - Spa Road, Bermondsey
+UKP11481 - Mills Road, Sharnbrook
+UKP11485 - Alconbury School, Stukeley
+UKP11497 - Box Road Cam, Phase 2
+UKP1150 - Chapman Close
+UKP11503 - Holmer House Farm
+UKP11507 - Brentwood Student Accommodation
+UKP11508 - Bream RFC, Lydney
+UKP11509 - 126-132 - Pampisford Road, Purley
+UKP1151 - Staunton Lane
+UKP11510 - Brentford Waterside Phase 2
+UKP11518 - Land West of Stonehouse H17,18 + 20
+UKP11519 - Exeter Road, Topsham
+UKP1152 - Westlegate
+UKP11521 - Evans Halshaw Workshop, Chesterfield
+UKP11527 - Burnt Mills, Basildon
+UKP1153 - Barnardos - Residential
+UKP11536 - Bishops Stortford Blocks C-E
+UKP1154 - Hancock Road
+UKP11540 - 1-7 Harley Street, London
+UKP11549 - Abbey Mill, Bishop Waltham
+UKP11551 - Foxbury Farm
+UKP11558 - Ridgeway Farm, Swindon
+UKP11559 - Former Wyvale, Shiplake
+UKP11560 - Buildings A-C, Adanac Park
+UKP11574 - Primco AD Trinity, Ellesmere Port
+UKP11575 - Horsham Road, Cranleigh
+UKP11576 - Wick First, Hackney Wick
+UKP11578 - Oak Tree School, Berkshire
+UKP11587 - Maldon Road Water
+UKP11588 - School Lane - Phase 2, Exhall
+UKP11589 - Plot 2 Victoria Road
+UKP1159 - Little Marlow Road
+UKP11590 - Fosters Sports Ground
+UKP11592 - Tottenham Hale Ferry Island TBS
+UKP11596 - Carehome - Crownfields, Odiham
+UKP1160 - One St. Peters Square
+UKP11601 - Salisbury Estate
+UKP11602 - Ilderton Road Temporary Works
+UKP11607 - Reading Golf Club
+UKP1161 - Fourth Avenue
+UKP11613 - Chewells Lane, Haddenham
+UKP11621 - Dearne Valley Way, Barnsley
+UKP11628 - Adanac Business Park, Yew Tree Farm
+UKP1163 - Middleton West
+UKP11634 - Norton Farm, Cribbs Causeway
+UKP11635 - Prospect House, Bromley
+UKP11636 - Manor Lane, Maidenhead
+UKP1164 - Channons Hill Retail Park
+UKP11640 - Alperton Bus Depot
+UKP11643 - Vinyl Square, Old Vinyl Factory
+UKP11647 - Land at Church Farm, Church Street
+UKP11648 - Burlington Road TBS
+UKP1165 - Hassall Road
+UKP11652 - Barlby Road, North Kensington
+UKP11654 - Littleport Phase 5
+UKP11656 - Longrock, Penzance
+UKP11656 - Longrock, Penzance - Shortcut.lnk
+UKP11657 - Telford Station Quarter, Telford
+UKP1166 - Hameldown Road
+UKP11663 - Plot 1 Victoria Road, Ashford
+UKP11668 - Montford Place, London
+UKP1167 - Marten Road, Folkestone
+UKP11672 - Grey House School, Mount Pleasant
+UKP11678 - Gascoygne Estate, Welwyn Garden City
+UKP1168 - Castle View Campus
+UKP11684 - Hopcott Road, Minehead
+UKP11684P2 - Phase 2, Hopcott Road, Minehead
+UKP11688 - Plot E4 Stroudwater 13 Business Park
+UKP11689 - Carvers Lane, Attleborough
+UKP1169 - Spring Gardens
+UKP11692 - Thistleboon
+UKP11696 - Newton Lane East, Wigston
+UKP1170 - Clay Lake, Spalding
+UKP11700 - The Embassy, Waltham Cross
+UKP11705 - Centenery Quay, Phase 6
+UKP11707 - Hallwood Forest Development
+UKP11709 - Former Olchfa School Site
+UKP1171 - Burton Road
+UKP11712 - Fifth Way, Wembley
+UKP1172 - Spring Gardens, Alresford
+UKP11723 - Graphite Square, London
+UKP11726 - 42-44 Brighton Road, Crawley
+UKP11727 - UCB, Legge Lane, Birmingham
+UKP11731NC - Otterpool, Kent - Non-Contestable
+UKP11736 - Happy Days Nursery, North Yate
+UKP11739 - ERADE Development
+UKP1174 - Rectory Road
+UKP11748 - Cubis, Bruton Phase 2
+UKP11748 - Cubis, Bruton Phase 2 - Shortcut (2).lnk
+UKP11748 - Cubis, Bruton Phase 2 - Shortcut.lnk
+UKP1175 - Osborne House
+UKP11750 - Brentford FC, Training Facility
+UKP11756 - Land off Orton Road, Warton
+UKP11757- Elmsleigh Road, Staines
+UKP1176 - Morewood Close
+UKP1177 - Fremington
+UKP11772 - Church Manorway, Erith
+UKP11776 - Pathways School, Dagenham
+UKP11779 - Hazel Green
+UKP1178 - Edward Street
+UKP11780 - Langley Park, Chippenham, Wiltshire
+UKP11785 - Newtown Road, Henley-On-Thame
+UKP11787 - Charters, Guildford
+UKP1179 - Middleton Cheney
+UKP11791 - Lionel Street, Birmingham
+UKP11794 - Palace Wood Primary School, Maidstone
+UKP11799 - Liddell Road, West Hampstead
+UKP11801 - West Acre Park, Isle of Wight
+UKP11803 - St Martin Primary School, BA2 2UN
+UKP1181 - Rodborough Fort
+UKP11813 - Parcel R21A, East Kettering
+UKP11816 - Kingsland Pool, LU5 5PX
+UKP11819 - Shipman Youth Centre
+UKP1182 - Old Kent Road
+UKP11828 - Silverstone Park, Phase 4, BT Ducting
+UKP1183 - Greenwich UTC
+UKP11834 - Albert Bartlett Westwick, Worstead
+UKP11835 - Land Rear of Plough & Fleece
+UKP11836 - Sand Martins Golf Club
+UKP11837 - Towcester - Parcel H9
+UKP11838 - Towcester - Parcel H12
+UKP11839 - Towcester - Parcel H14
+UKP1184 - Northway Lane
+UKP11841 - Plot 2, 3, Murray Grove, Alton
+UKP11843 - Plot 263, 15 Barnard Field, Amesbury
+UKP11846 - Silverstone Park, Phase 4, Diversions
+UKP11847 - Sir William Ramsay, High Wycombe
+UKP11854 - 126 Foxley Lane & 1 Woodcote Drive
+UKP11857 - Trendlewood Way, Nailsea
+UKP1186 - Baltic Triangle
+UKP11862 - Welcross Farm Care Home, Horsham
+UKP11864 - Boscarnek, St Erth
+UKP11868 - Phase 2 Swans Landing
+UKP11869 - Montgomery Wharf, Brentford
+UKP1187 - Delta Park
+UKP11870 - Perivale Bus Garage
+UKP11873 - Thanet Way, Whitstable, Kent
+UKP11875 - The Old Brickworks, Mill Lane, Coalville
+UKP11882 - 107 West Hendon Broadway
+UKP11893 - Chillington, Kingsbridge, TQ7 2HY
+UKP11893 - Chillington, Kingsbridge, TQ7 2HY - Shortcut (2).lnk
+UKP11893 - Chillington, Kingsbridge, TQ7 2HY - Shortcut.lnk
+UKP1190 - 101 Lockhurst Lane
+UKP11901 - 2 Yelverton Road, SW11 3SL
+UKP11902 - Harlequins Rugby Club, TW2 7SX
+UKP11906 - Quarry Walk, Dunstable
+UKP11909 - Filton Airfield - 11kV Cables
+UKP1191 - Chichester College
+UKP11910 - The Old Soapworks, Bristol
+UKP11911 - Elsea Park, Phase 10B
+UKP11919 - York Way Estate, Islington
+UKP1192 - New Road, Rainham
+UKP11920 - Residential - Crownfields, Odiham
+UKP11922 - 444 Newmarket Road, Cambridge
+UKP1193 - Stoke Bishops Student Halls
+UKP11935 - Whittlesey - Phase 4
+UKP11937 - Gatcombe Farm, Off West Hay Rd, Wrington, Somerset
+UKP11937 - Gatcombe Farm, Off West Hay Rd, Wrington, Somerset - Shortcut.lnk
+UKP11938 - Langdon Road, Bradworthy
+UKP11939 - NE01 - Wembley Park
+UKP1194 - Martineau Centre
+UKP11941 - Esperance Hospital, Eastbourne
+UKP11945 - 56 The Bishops Avenue
+UKP11946 - Vale House, Roebuck Close
+UKP11948 - 23-26 Warstone Lane
+UKP11954 - Southborough Lane, Bromley
+UKP11956 - 136 High Street, Sevenoaks
+UKP11961 - The Chocolate Factory, 5 Clarendon Road
+UKP11962 - Horley Neighbourhood Centre Development
+UKP11969 – Unit B, Parsonage Way
+UKP1197 - Crews Hole Road
+UKP11970 - Westheath Avenue, Bodmin
+UKP11971 - Land at Hill Head, Penryn
+UKP11972 - Dagenham Green
+UKP1198 - Winkfield
+UKP11982 - Kensington Forum
+UKP11985 - Oakley House, Oakley Road, Luton
+UKP11987 - High Cross St, Nottingham
+UKP11989 - Filton Airfield, Phase 2
+UKP1199 - Paul Street
+UKP11991 - Land off Coxhill Road, Kent
+UKP11998 - 25-33 Parkhouse Street, Southwark
+UKP1200 - Thundersley
+UKP12009 - Wellingborough - Parcel R10B
+UKP1201 - New England Quarter
+UKP12013 - New House Farm
+UKP12013 - New House Farm - Shortcut.lnk
+UKP1202 - Waterlooville
+UKP12025 - Ashleworth, Gloucestershire
+UKP12036 - Wellingborough, Parcel R9
+UKP12044 - The Ryder Site, Barlow Way South
+UKP12047 - 190-194 St Ann's Hill, Wandsworth
+UKP1205 - Harmood Street
+UKP12050 - 29 Rickmansworth Road, Watford
+UKP12051 - Tayfen Road, Bury St Edmunds
+UKP12051 - Tayfen Road, Bury St Edmunds.lnk
+UKP12053 - The Sloop, 5 Commercial Road, Poole
+UKP12053TB - The Sloop, 5 Commercial Road, Poole - TBS
+UKP1206 - Beechcroft Close
+UKP12065 - Land East Of Treloweth Lane, St Erth
+UKP12067 - Northwick Park TBS
+UKP12069 - Whitminster Grove End Farm - Indus Units
+UKP1207 - Dunwoody Way Phase 2 - Block A
+UKP12072 - Buckmore Farm, Petersfield
+UKP12072 - Buckmore Farm, Petersfield - Shortcut.lnk
+UKP12074 - Barkingside Yard, Ilford
+UKP12076 - Thamesview House, Felix Road
+UKP12078 - Wellingborough, Phase 1, Local Centre
+UKP12083 - Rushden Gateway
+UKP12087 - Crossways Business Park, Kent
+UKP12089 - Newtown Road, Hove
+UKP1209 - Delta Lakes
+UKP12090 - North East Cardiff
+UKP12091 -  Guildford Crescent Cardiff Power Supply
+UKP12091TS - Guildford Crescent Cardiff - TBS
+UKP12092 - Graphite Square TBS
+UKP12093 - Gascoigne East Phase 3
+UKP1210 - Wash Lane
+UKP12106 - Former Sweet Pea Bowls Club, Granville
+UKP12107 - Rokeby School, George Road
+UKP12108 - Pullman House, Rochester
+UKP1211 - Billington Road - Area 15C
+UKP12112 - 587 Kingston Road, London
+UKP12113 - 50 London Road, Brentford
+UKP12116 - Angel Way, Romford
+UKP1212 - Fort Gilkicker
+UKP12126 - 922-930 Purley Way
+UKP12128 - Broadland Gate - JLR
+UKP1213 - Cheltenham Road, Evesham
+UKP12131 - Blocks A-D, Cape Road
+UKP12138 - Sunset Waltham Cross Studios
+UKP12139 - Liberty care, Orphanage Road, Erdington
+UKP1214 - Wolsey Way
+UKP12146 - Hawkspare, Dartford
+UKP1215 - Long Lane
+UKP12150 - Paintworks, Bath Road
+UKP12151 - Wheeldon Way, Derbyshire
+UKP12152 - Waterbeach Phase 1 East
+UKP12160 - Clearaway Recycling Centre, Basildon
+UKP12162 - Grange meadow Phase 2, Hugglescote
+UKP12162HN - Grange Meadow Phase 2, Hugglescote - HN
+UKP12167 - Burlington Park, Foxton
+UKP1217 - Mansfield Road
+UKP12170 - Alperton Bus Depot G&W
+UKP12172 - Parcel H13 & H14B, Land West of Stonehouse
+UKP12173 - 3 School Road, Acton
+UKP12177 - Lily Cross, Godshill
+UKP12183 - Bay Chambers, Bute West Street
+UKP12185 - Courtlands Riding Stables, Stevenage
+UKP1219 - Ergon House & 9 Mill Bank
+UKP12194 - Westhorpe Gardens P2
+UKP12199 - 1 Wantz Road, Dagenham
+UKP1220 - Clifton Hatch Harlow
+UKP12206 - Imperial Street, Phase 3
+UKP12208 - Crewe Station, Nantwich Road
+UKP12209 - Broadland Gate, Plot 5A
+UKP1221 - East Somerset Way
+UKP12211 - 1 Pear Tree Street, London
+UKP12213 - Littlemore House, Oxford
+UKP12218 - Sayers Common, Hassocks
+UKP1222 - Abell House
+UKP12223 - America Street, Southwark
+UKP1223 - Cleland House
+UKP12230 - Howard Street, Great Yarmouth
+UKP12232 - Land off Tumbling Fields Lane, Tiverton
+UKP1224 - Essex Wharf
+UKP12241 - Exchange Plaza, Uxbridge Road
+UKP12242 - Land at Crowell Road, Chinnor
+UKP12243 - Bleadon Quarry, Bleadon
+UKP12246 - The Meadows, Borehamwood
+UKP12259 - Highbury Quadrant, London
+UKP1226 - Hove Exchange Phase 1
+UKP12260 - BoweriesWarwick, Barnham Road-VM-Store01
+UKP12267 - Unit 7, Handley Page Way
+UKP12268 - Mais House, Sydenham Hill
+UKP1227 - Hove Exchange Phase 2
+UKP12272 - Felindre Meadows, Bridgend
+UKP12276 - Mead Park Sandford
+UKP12278 - Land of Elizabeth Way, A361, Trowbridge
+UKP12279 - Vindis Site, Low Rd
+UKP1228 - Hill Barton Road
+UKP12280 - Chalk Lane, Narborough
+UKP12281 - Park Lane, Mews Hotel
+UKP12282 - Phase 2, Land at New Inn Lane, Hanford
+UKP12287 - Hempsted, Gloucester
+UKP12288 - Land West of Buckleigh Road, Westward Ho
+UKP12289 - Haydrock House, Barry
+UKP1229 - Richmond House
+UKP12291 - Park Lane, Mews Residential
+UKP12292 - Folly Gate, Land off A392, Okehampton
+UKP12295 - Friends School
+UKP12297 - Berry Hill, South Mansfield
+UKP12299 - Barnet House, 1255 High Road
+UKP1230 - Old Nutricia Site
+UKP12302 - Ferndale Street, London
+UKP12304 - Site off Grange Road, Netley Abbey
+UKP12305 - Continental Approach
+UKP12306 - Coventry Road, Lutterworth
+UKP12307 - Care Unit, North Yate
+UKP12311 - Tynte Road, Bridgewater
+UKP12313 - Silwood Street, SE16 2SX
+UKP12315 - Land off A30, Penzance
+UKP12315 - Land off A30, Penzance - Shortcut.lnk
+UKP12319 - Cuba Street, Marsh Wall
+UKP1232 - Bicester Community Hospital Developmrnt
+UKP12327 - Hearnden Court, Wellingborough
+UKP1233 - Jersey Way
+UKP12338 - Altira Park, Herne Bay
+UKP12344 - Ross House, Windmill Road
+UKP12348 - Sloane Street, Birmingham
+UKP1235 - Kirby Road
+UKP12355 - Rockingham Speedway, Mitchell Road
+UKP12359 - 1 Cavendish Square
+UKP12361 - 95 Victoria Road,  London
+UKP12364 - Tilbury FC
+UKP12370 - Norbury, Binfield
+UKP12376 - Burlington Road Sales TBS
+UKP1238 - Stockmoor Village
+UKP12381 - Salisbury hospital
+UKP12382 - Botanic Place, Cambridge
+UKP12384 - Land off Fore Street, North Molton
+UKP12386 - Former Pontymister Petrol Station
+UKP1239 - Trinity Street
+UKP1240 - Thurston Road, Lewisham
+UKP12402 - Norwich Road, Thetford
+UKP12403 - Ravenscourt Park Hospital
+UKP12405 - Laity Road, Troon
+UKP12405 - Laity Road, Troon - Shortcut.lnk
+UKP12408 - Altira Park, Herne Bay
+UKP12408 - Altira Park, Herne Bay - Shortcut.lnk
+UKP1241 - Honey Hill Paston Ridings
+UKP12410 - South Thamesmead Phase 2
+UKP12418 - Watergate School Site
+UKP12419 - Dagenham Green TBS
+UKP1242 - Bicester Eco Town
+UKP12420 - Suffolk Avenue, Westgate-On-Sea
+UKP12425 - Friends School Water
+UKP12426 - Community Facility, West of Stonehouse
+UKP1243 - Hardingstone, Northamptonshire
+UKP12436 - Cherry Tree Farm
+UKP12439 - Adanac Business Park, Drive Through
+UKP12444 - Boot & Slipper EVC, Amersham
+UKP12446 - Market Quarter, Rugby
+UKP12449 - Yew Tree Farm, Phase 2, Care Home
+UKP1245 - Great Suffolk Street
+UKP12455 - Fenwick Place TBS
+UKP12457 - Sandleford Park East
+UKP12458 - 140 Northolt Rd, South Harrow
+UKP1246 - London Road Retford
+UKP1247 - Sugar Quay
+UKP12474 - South Moons Moat
+UKP12478 - Land to the North of Spruce Close
+UKP12478 - Land to the North of Spruce Close - Shortcut (2).lnk
+UKP12478 - Land to the North of Spruce Close - Shortcut.lnk
+UKP1248 - 1-17 Bardfield House
+UKP12481 - The Hub, Hemel Hempstead
+UKP12482 - 95 Victoria Road Temp Supply
+UKP12483 -Wireless Factory, Victoria Business Park
+UKP12484 - Thaxted Road, Essex
+UKP1249 - City Lifeline
+UKP1250
+UKP12500 - Unit 6 Friern Bridge Retail Park
+UKP1251 - Cheddar AFC
+UKP12511 - 64 Ditton Hill Road, Surbiton
+UKP12515 - South Thamesmead P2 Diversions
+UKP12534 - St Olav's House, 5 Albion Street
+UKP12539 - Broadland Gate, Increase in Capacity
+UKP1254 - ASDA Whalebone
+UKP12540 - Hills Road, Cambridge TBS
+UKP12541 - Horsham Road Phase 2
+UKP12548 - Saxon House, Leicester
+UKP1255 - Howes Lane Bicester
+UKP1256 - Millbay
+UKP12564 - Unit 10, Euro Way, Swindon
+UKP12565 – Gridserve – Dobbies, Shrewsbury
+UKP12566 - Badminton Road, Old Sodbury
+UKP12567 – Gridserve – Leicester East
+UKP12570 - Cefn Isaf
+UKP12578 - The Hive, Luton
+UKP1258 - Rushwick
+UKP12580 - Wharf Road, Kings Norton
+UKP12581 - Harborne Hall, Old Church Road Harborne
+UKP12583 - Boulton Moor School, Woodsford Drive
+UKP12584 - Wells House, Outwood Lane
+UKP12586 - 212-214 Newmarket Road
+UKP12587 - Walkern Road, Watton-on-Stone
+UKP12588 - Topsham Road, Exeter
+UKP12588 - Topsham Road, Exeter - Shortcut.lnk
+UKP12589 - Faringdon Care Home
+UKP1259 - Royal Hotel, Clacton
+UKP12597 - Sydenham Bell Green
+UKP12598 - Wisbech Rd, Littleport
+UKP1260 - North Hykeham
+UKP12604 - South Street, Stanground
+UKP12607 - Dadswell Drive, Billingshurst
+UKP1261 - Cameron House
+UKP12611 - Land South of Cheltenham Road East
+UKP12613 - Sandford Road, Winscombe
+UKP12620 - Plot 1, Jacques Way, Wrexham
+UKP12625 - Petticoat Cl, Witley
+UKP1263 - Woodbury Close
+UKP12634 - Care Home, The Ridge
+UKP12637 - Gridserve - Wellington Summerfield
+UKP1264 - Cold Harbour Lane
+UKP12643 - Loxford Lane TBS
+UKP1265 - Sopley Farm
+UKP12652 - Aberbargoed
+UKP12656 - Hollow Rd, Bury St Edmunds
+UKP12659 - Dagenham Green, Phase 1 LV
+UKP1266 - Mill Road, Shipdham
+UKP12660 - Rook Tree Lane, Hitchin
+UKP12662 - Sky Academy School
+UKP12667 - Crossway, Henley on Thames
+UKP1267 - Halberton Solar
+UKP1268 - Hinckley Road
+UKP12682 - 70-80 Lillie Road
+UKP12689 - Broadland Gate Plot 6
+UKP1269 - New Road, Chatteris, Cambridgeshire
+UKP12691 - Dagenham Green Diversions
+UKP1270 - Dollis Valley
+UKP1271 - Hammonds Drive, Eastbourne
+UKP12719 - Former Oakdale School, Caerphilly
+UKP1272 - Amherst Hill, Khartoum Road
+UKP12721 - Hurlingham Waterfront
+UKP12728 - 1-5 Firgrove Parade, Farnborough
+UKP12728 - 1-5 Firgrove Parade, Farnborough - Shortcut (2).lnk
+UKP12730 - Former Rhondda Bowl, Tonyrefail
+UKP12735 - M1, Northampton
+UKP1274 - Butlers Green Road
+UKP12741 - Glebe Farm, Church Street
+UKP12746 - Parcel 1 & 2 North of Lower Hambrook
+UKP12746 - Parcel 1 & 2 North of Lower Hambrook - Shortcut.lnk
+UKP12748 - Fern Grove, Feltham
+UKP12749 - 59-79 Cowley Road, Cambridge
+UKP1275 - King Street, Hammersmith
+UKP1276 - Silverwood Park
+UKP12761 - Bidder Street TBS, Canning Town
+UKP12768 - Barrow Farm, North Chippenham
+UKP12769 - Plot A5, Weston Super Mare
+UKP1277 - Signature Care Home
+UKP12775 - The Swan, West Sussex
+UKP12780 - Gridserve - Donington Park
+UKP12781 - Gridserve - Mollie's Bristol
+UKP12782 - Gridserve - Mollie's Buckland
+UKP12784 - Solopress, Southend-On-Sea
+UKP12786 - Northwood End Road, Bedford
+UKP12789 - ASSET067979 - St Johns Academy, Liberator Lane - MPANs & MPRNs (Master).xlsx
+UKP12789 - St John's Academy, Liberator Lane
+UKP1279 - Northwich Memorial Hall
+UKP12793 - 221 New Kent Road
+UKP1280 - Rotherdale PV - Connection
+UKP12803 - Devonshire Gardens, Cambridge - TBS
+UKP12806 - Corbyn Head Hotel, Torquay
+UKP1281 - Chichester Festival Theatre
+UKP12810 - Vitrum Building, Cowley Road, Cambridge
+UKP12814 - Winsford Park, Devon
+UKP12825 - Gridserve - Trowell Southbound
+UKP12828 - 9 Newlands Avenue
+UKP1283 - Rose Row, Cwmbach, Aberdare
+UKP12834 - 12-15 High Street, Winchester
+UKP12834 - 12-15 High Street, Winchester - Shortcut.lnk
+UKP1284 - Hamilton House
+UKP12844 - Gridserve - Riverside Retail Park
+UKP12845 - Gridserve - Peninsula Retail Park
+UKP12846 - Gridserve - Western Way Retail Park
+UKP1285 - Victoria View
+UKP12854 - Cherry Gardens Lane
+UKP12857 - Fraser Centre, Faraday Road, Swindon
+UKP1286 - Old Devonshire Road
+UKP12872 - Staplegrove Road, Taunton
+UKP1288 - Amen Corner, Bracknall
+UKP12883 - Preece House, Davigdor Road
+UKP12885 - Land West of Stonehouse H14A
+UKP12889 - Britannia TBS
+UKP1289 - Walton Road
+UKP12891 - County Oak Service Station EVC
+UKP12899 - Newhaven Recycling Depot
+UKP1290 - Woodview
+UKP12900 - Globe Business Park, Marlow
+UKP12908 - Morson Road, Enfield
+UKP12909 - Joyne’s House, Gravesend
+UKP1291 - Bishops Rise
+UKP1292 - Ipswich Academy
+UKP1293 - Park Hall Commercial
+UKP12936 - Priory Fields, Heol Goi, St Clears
+UKP12937 - Trinity Fields School, Ystrad Mynach
+UKP1294 - Brewery Site, Wenlock
+UKP12944 - Wadswick Green Phase 2C
+UKP12948 - Paddle Steamer, Butetown, Cardiff
+UKP12949 - Gatcoombe Farm, Wrington
+UKP12949 - Gatcoombe Farm, Wrington - Shortcut.lnk
+UKP1295 - 1-3 Wenlock Road, London
+UKP12953 - Pershore Road, Stirchley
+UKP12953 - Pershore Road, Stirchley - Shortcut (2).lnk
+UKP12956 - South Road, Wivelsfield Green
+UKP12957 - Land at Netherend farm, Lydney
+UKP12959 - Former Brook Road Garage
+UKP1296 - Water Lane, Mansfield
+UKP12966 - Westvale Community Hall
+UKP12967 - Southpoint Chippenham
+UKP12967W - Southpoint Chippenham Water
+UKP1297 - Lodgeworthy PV Farm
+UKP12979 - Great Northern Warehouse, Manchester
+UKP12982 - Plot 1.3, Teal Park, Lincoln
+UKP12989 - Area F, Plot K, Severn Road, Bristol
+UKP1299 - Broadstairs
+UKP12993 - Brynhoward terrace, Oakdale
+UKP13002 - Britannia House, Pool Road
+UKP13003 - High Road & Cecil Avenue, Wembley
+UKP13006 - The Park, Kingston, Yeovil
+UKP13006 - The Park, Kingston, Yeovil - Shortcut.lnk
+UKP13007 - Buxton Link, Basildon
+UKP13008 - St. Johns Rd, Clacton-on-Sea
+UKP1301 - 261 City Road TBS
+UKP13012 - Gridserve - Birmingham Airport
+UKP13013 - Gridserve - Wavendon Services Area
+UKP13014 - 14 Agard Street, Derby
+UKP13016 - London Road, Tetbury
+UKP13018 - Foxgrove Path, South Oxhey
+UKP1302 - Sector Lane, Axminster
+UKP13022 - Bardon Hill - Unit 5 Upgrade
+UKP13023 - Filton Student Design
+UKP13023SA - Filton Student Accomodation
+UKP13025 - South Thamesmead TBS
+UKP13033 - Land Opposite 38 Westbury Road, Bratton
+UKP13035 - Luton Road, Dunstable
+UKP1304 - Bromley South Central
+UKP13052 - Gridserve - Centaurus Retail Park
+UKP13053 - Gridserve - Talbot Green Retail Park
+UKP13054 - Gridserve - Bridgford GC
+UKP13055 - Gridserve - Battery Retail Park
+UKP13056 - University of Reading
+UKP1306 - Redcliffe Street, Bristol
+UKP13062 - Land at Victoria Street, Wragby, Market Rasen
+UKP13067 - Merthyr Road, Govilon
+UKP1307 - Sydenham Road, London
+UKP13075 - St Clement's House, Rochester
+UKP13078 - Shurgard Self Storage, Hayes
+UKP13079 -Grove Court, Croxley Green
+UKP1308 - Queen Square, Brighton
+UKP13080 - Brockhills Lane, Hampshire
+UKP13080 - Brockhills Lane, Hampshire - Shortcut (2).lnk
+UKP13080 - Brockhills Lane, Hampshire - Shortcut.lnk
+UKP13084 - 1-36 Brunel Walk, London
+UKP13086 - Filton Airfield, Pop-Up Offices
+UKP13087 - Mile Cross Road, Norwich
+UKP13091 - Blackwood Carpark, Snap Fitness
+UKP13107 - Hawksley Gardens, Nottingham
+UKP13107 - Hawksley Gardens, Nottingham - Shortcut (2).lnk
+UKP13107 - Hawksley Gardens, Nottingham - Shortcut.lnk
+UKP13115 - Nene Milling Premises, London Road
+UKP13118 - 1 White Post Street, London
+UKP13119 - Gridserve - Canterbury Retail Park
+UKP1312 - Trendlewood Way
+UKP13121 - Cold Harbour Rd, Gravesend
+UKP13129 - Lewes Road, New Haven
+UKP1313 - Molesey Road
+UKP13132 - 87 Blackwell Lane, London
+UKP13137 - Biddulph Leisure Centre, Stoke on Trent
+UKP13138 - Crown Wharf Bidder Street, Canning Town
+UKP13148 - 55 King William Street, London
+UKP1315 - Iomart Maidenhead
+UKP13150 - Faraday Ave, Lea Marston
+UKP1316 - Sticklepath Farm
+UKP13169 - Brentford Waterside - TBS
+UKP1317 - William Street
+UKP1318 - Shrublands, Phase 6
+UKP13183 - Plot of Land off Downfield Lane, Twyning
+UKP1319 - Severn Road
+UKP13193 - Former Worthing Gasworks
+UKP13197 - Maybank Road, London
+UKP1320 - Picket Piece, Andover
+UKP13218 - Redlands, Eastern Villages
+UKP13219 - Land off B4275, Aberdare
+UKP13221 - Former Cleddau Bridge Hotel
+UKP13230 - 4 Union Street, Luton
+UKP13239 - St Georges Way, Isle of Wight
+UKP1324 - Area 57, Kings Hill
+UKP13241 - Boord Street, London
+UKP13246 - Land at Littlemoor Road, Weymouth
+UKP1325 - Loppington
+UKP13251 - Kelham Way, Nottingham
+UKP13256 - White Post Farm Phase 2
+UKP13259 - Plot 3 Roundswell Business Park
+UKP13259 - Plot 3 Roundswell Business Park - Shortcut (2).lnk
+UKP13259 - Plot 3 Roundswell Business Park - Shortcut.lnk
+UKP1326 - Larner Road
+UKP13263 - Chavecroft,Epsom
+UKP13263 - Chavecroft,Epsom - Shortcut.lnk
+UKP13265 - Tollesbury, Essex
+UKP13269 - Cheshunt Park Farm
+UKP1327 - Leeds Road
+UKP13279 - Vastern Road, Reading
+UKP1328 - Embassy Gardens TBS
+UKP13280 - Shady Lane, Birmingham (EVC)
+UKP13286 - 42 Hastings Rd, London TBS
+UKP1329 - Cotlandswick
+UKP13294 - 679 High Road, North Finchley
+UKP13294 - ASSET068059 - 679 High Road, North Finchley - MPANs & MPRNs (Master).xlsx
+UKP1330 - Former Merrydown Factory
+UKP13303 - 18 Pield Heath Road, Uxbridge
+UKP13304 - Oddington Road, Stow-On-The-Wold
+UKP13308 - Horsham Road Phase 3
+UKP1331 - Crowle
+UKP13311 - Land East of Pilgrims Way, Pembrokeshire
+UKP13312 - Brentford Waterside Block E
+UKP1332 - Eastdown Farm
+UKP1333 - Wallscourt Academy
+UKP13330 - Brentford Waterside Block E TBS
+UKP13330 - Brentford Waterside Block E TBS - Shortcut.lnk
+UKP13337 - 55 Thessaly Road, London
+UKP1334 - West Green
+UKP13341 - Former Lavender Mills, Cambridgeshire
+UKP13345 - Cleevelands, Bishops Cleeve
+UKP13349 - Hythe Road, Southampton
+UKP13349 - Hythe Road, Southampton - Shortcut.lnk
+UKP1335 - 10 Tavistock Road
+UKP13351 - 144-148 Marsh Road, Luton
+UKP13353 - Land to rear of Bell Inn Public House
+UKP13353 - Land to rear of Bell Inn Public House - Shortcut.lnk
+UKP1336 - Sir Alexander Close
+UKP13364 - Dwyer & Burghfield Road, Reading
+UKP13367 - Burwell Road, Stevenage
+UKP13369 - 40-41 Hans Place, London
+UKP13374 - North Hill , Blackwater
+UKP1338 - Wheal Harmony
+UKP13381 - Pickford Gate, Coventry
+UKP1339 - Farrans Farm
+UKP13393 - Brooklands Community Centre, Clover Way
+UKP1340 - Bishops Sutton
+UKP13402 - 20 Albion Street, London
+UKP13405 - Wallingford Walk, St Albans
+UKP13407 - Innsworth House Farm, Gloucester
+UKP1341 - Station Road, Feniton, Devon
+UKP13410 - London Road, Herts
+UKP1342 - Narrowcliff
+UKP13425 - Plot 2 Gordleton Industrial Park, Lymington
+UKP1343 - Kirby Cross
+UKP1344 - Feltham Dene
+UKP13443 - Royal Mint Gardens Cable Diversions
+UKP1345 - Cranswick, Guiness Circle
+UKP13455 - Biscuit Factory Blocks OPQ & V LV works
+UKP13458 - Unit 6, The Quadrangle
+UKP1346 - Manor Kingsway
+UKP13466 - Land at Queen Victoria Hospital
+UKP1347 - Talybont Gate
+UKP1348 - Summerfold
+UKP13487 - Old Gloucester Road, Hambrook (Eastern)
+UKP13493 - Winterbourne Academy, Bristol
+UKP13495 - 25-27 Perrymount Road
+UKP1350 - Highfield Road, Lydney
+UKP13500 - Land at Former Court Lane Nurseries, Kent
+UKP13502 - Iron Acton, Yate
+UKP13503 - 30 St Pauls Square, Birmingham
+UKP13504 - St Christopher Primary School, Coventry
+UKP13505 - Ravensdale Primary School, Coventry
+UKP13510 - Land Adjacent to Irton House, Chalgrove
+UKP13517 - IWM Duxford Airfield
+UKP13518 - Parc Llangewydd, Bridgend
+UKP1352 - Edmonds Drive
+UKP13520 - Humphrey Repton House, Bristol
+UKP1353 - Embassy Gardens P2
+UKP13538 - Filton Airfield - Arena Connection
+UKP13539 - Farringdon Infant School
+UKP1355 - Fullham High Street
+UKP1356 - Petworth
+UKP13565 - 100-102 Westbourne Terrace
+UKP13568 - 35 Cannock Road, Stafford
+UKP13579 - Land off Tudor Road, Wyesham
+UKP1358 - Boscombe Down
+UKP13591 - Station Road, Halstead
+UKP13592 - Watchmoor Park, Camberley
+UKP13595 - Phase 3 Higham Lane
+UKP13600 - Steepleton Manor, Dorchester
+UKP1361 - Ilsington Fishing Lodge
+UKP13611 - Blackbird Leys Road, Oxford
+UKP13618 - Mansion House, Brownsover Hall Hotel
+UKP1362 - Higher Trevartha Farm
+UKP13623 - The Yard Theatre, London
+UKP13626 - Unit 4 Technology Retail Park, Rugby
+UKP1363 - Charlborough Down Farm
+UKP13637 - Plasdwr 2D, Cardiff
+UKP13638 - Faraday Avenue, Lea Marston – Additional Unit
+UKP13638 - Faraday Avenue, Lea Marston – Additional Unit - Shortcut.lnk
+UKP13644 - Connaught Avenue, Suffolk
+UKP13647 - North View, Ruislip
+UKP13648 - Long Drive Car Park, Ruislip
+UKP13658 - Land West of South Street, Lewes
+UKP1366 - Chesham Drive
+UKP13660 - Romney House, Bristol (GSHP)
+UKP1367 - Commodore Hotel
+UKP13677 - Grassmead, Exeter
+UKP13678 - Melvin Way, Woolpit
+UKP1368 - Kidbrooke - Block F
+UKP13691 - Land at Cuffley Hill, Hertfordshire
+UKP13692 - 384-398 Commercial Road
+UKP13694 - Shrivenham Road, Highworth
+UKP1370 - Charlton Hayes
+UKP13704 - Phase 3, Witham, St Hughs
+UKP1371 - Seaford College
+UKP13716 - Oakfield School, Hull
+UKP1372 - Pretty Land
+UKP13729 - West Hendon Phase 5-6
+UKP1373 - Newton Nottage Road
+UKP13730 - Sandford Road, Winscombe
+UKP1374 - Wainfleet Road
+UKP1375 - St Loyes College
+UKP13756 - Hinxton Campus
+UKP13757 - Unit 1136, Silverstone Park
+UKP1376 - Shrublands, Phase 7
+UKP13760 - Willow Bank Road, Tewkesbury
+UKP13761 - Friary Park, Acton
+UKP13763 - Toddington Lane, Littlehampton
+UKP13764 - Rochester Riverside
+UKP13765 - Bath Road, Langford
+UKP13769 - Victoria Avenue, Southend-On-Sea
+UKP1377 - Plots 1-48, West Hill
+UKP13776 - Comeytrowe, Taunton
+UKP1379 - Crest Road, London
+UKP1380 - Kempson Way
+UKP1381 - Cholderton Estate
+UKP1382 - Tanners Meadow
+UKP1384 - Alexandra Road
+UKP1385 - Ferry Road, Stapenhill
+UKP1386 - Park Royal London
+UKP1387 - Drayton Ash Farm
+UKP1388 - Churchill Road
+UKP1389 - First Central Site
+UKP1390 - Laleham Road
+UKP1391 - Greggs Wood
+UKP1393 - Ropers Gate
+UKP1394 - Kelvin Grove
+UKP1395 - Buttercross Works
+UKP1397 - Kipling Avenue, Huyton
+UKP1398 - Ladderswood Estate
+UKP1399 - Saddlebow Road
+UKP1400 - Senwick Road, Wellingborough
+UKP14000
+UKP1401 - New Horizons
+UKP1402 - Asda Telford
+UKP1404 - Intercell House, Henley Way
+UKP1405 - Putney Plaza
+UKP1407 - Nunhead Green, London
+UKP1409 - Brynafon Road, Gorseinon
+UKP1410 - Alfred Crescent, Somerset
+UKP1411 - Okemore Gardens, Orpington
+UKP1412 - Braggs Lane, Bristol
+UKP1413 - Bylanes Close, Cuckfield
+UKP1414 - Gainsbourough Square
+UKP1417 - Randolph Avenue, Yate
+UKP1418 - Media House
+UKP1419 - Tadley Acres - Phase 7, Shepton Mallet
+UKP1420 - Nine Elms
+UKP1422 - Brentry Hospital
+UKP1423 - Goulsbra Road
+UKP1424 - RNIB-Redhill
+UKP1425 - Forest Road, Hartwell
+UKP1426 - Hall Lane
+UKP1427
+UKP1428 - Rhydyfelin College, Pontypridd
+UKP1429 - Knapp Road
+UKP1430 - Riverside 2012
+UKP1431 - Theobalds Road
+UKP1432 - Studland Road
+UKP1433 - Courtwick Road
+UKP1434 - Welby Road, Birmingham
+UKP1435 - Nova Scotia PV Farm
+UKP1436 - Binhamy Farm, Superseded
+UKP1437 - Easthampstead Road
+UKP1438 - North Tenement & New Inn Farm
+UKP1439 - New Islington
+UKP1440 - Boundaries Road, London
+UKP1441 - Alpha Wharf
+UKP1442 - New Union Wharf
+UKP1443 - Brackenbury Road
+UKP1444 - Ross Park
+UKP1445 - Patching Hall Lane
+UKP1446 - Coldeast Hospital
+UKP1447 - Black Rock Mills
+UKP1448 - Great Melton Road
+UKP1448Ph2 - Great Melton Road Phase 2
+UKP1449 - Kidbrooke - Energy Centre
+UKP1450 - Kirkwall, Orkney
+UKP1451 - Emsrayne Solar
+UKP1454 - Alban Retail Park
+UKP1455 - Melton Road
+UKP1456 - Audley Square, Mayfair
+UKP1459 - Banstead Leisure Centre
+UKP1460 - Caledonian Road
+UKP1461 - Radbourne Lane
+UKP1462 - Sandy Lane, Worsop
+UKP1463 - Station Road, Petersfield
+UKP1464 - Cloot Drove, Peterborough
+UKP1468 - Old Hammill Brickworks
+UKP1470 - Roman Court
+UKP1471 - Aberdeen Lane
+UKP1472 - Bosworth Road, Measham
+UKP1473 - Element 6, Unit 6
+UKP1474 - Element 6, Units 2-4
+UKP1475 - Bloxworth Down
+UKP1476 - Land at The Croft, Foreman Road, Surrey
+UKP1478 - Blacon Parade
+UKP1479 - Atkinson Morley
+UKP1480 - Tilston Road - Phase 1
+UKP1481 - Nescott College
+UKP1482 - Bath Western Riverside
+UKP1483 - Pershore Road, Hampton
+UKP1484 - Station Road, Bretforton
+UKP1485 - Silk Mills
+UKP1486 - Ditton Laboratories
+UKP1487 - Hendrefoilan, Swansea
+UKP1489 - Aylesbury Site 7
+UKP1490 - Albermarle House
+UKP1491 - New Wayland House
+UKP1492 - Lismoyne House
+UKP1493 - Eclipse Park
+UKP1494 - Windsor Avenue
+UKP1496 - Parcel H5, Buckshaw Village
+UKP1497 - Gloucester Academy - Connection
+UKP1498 - Binhamy Farm
+UKP1499 - Barnette Way, Gloucester
+UKP1500 - Salty Business Park
+UKP1501 - Pier Street
+UKP1502 - Thomas Lane Nursing Home
+UKP15033 - Eastern Green - Water
+UKP1504 - Monbank
+UKP15063 - Acacia Road, London
+UKP1507 - Eastcote Lane
+UKP1508 - Terlings Park, Harlow
+UKP1509 - Central Chelmsford
+UKP1511 - Galldris Royal Wharf
+UKP1513 - Rayners Lane - HA2
+UKP1514 - High Road, Tottenham
+UKP15157 - Britannia House, Pool Road Diversion
+UKP1516 - Montbelle School
+UKP1517 - Manor Kingsway P2
+UKP1518 - Hazel Road
+UKP1519 - Garth Hill, Bracknell
+UKP1521 - Longford Park, Banbury
+UKP1522 - Chipping Norton Surgery
+UKP1523 - Trevenson Park
+UKP1524 - Hurst Green
+UKP1526 - Peg Hill, Yate
+UKP1527 - East Prescot Road
+UKP1528 - Alexandra Road, Tipton
+UKP1529 - New Hythe Lane
+UKP1530 - Sapphire House
+UKP1531 - Horsecroft Farm
+UKP1533 - Carnwath Road
+UKP1534 - Chameryhall Lane
+UKP1535 - Stainby Road
+UKP1536 - Broad Lane
+UKP1537 - Orchard Park
+UKP1538 - Radstone Fields
+UKP1539 - Carlton Road
+UKP1540 - Tamar Energy
+UKP1541 - Green Lane, Trowbridge
+UKP1542 - Oldham Lees Medical
+UKP1543 - Allen's Farm AD Plant
+UKP1545 - New Lodge
+UKP1546 - Molesey Road
+UKP1548 - Lannock Primary School
+UKP1549 - 270-271 King Street, Hammersmith
+UKP15496 - Stones Farm, Sittingborne
+UKP1550 - Osiers Road
+UKP15505 - Castor Park, Allington
+UKP15507 - Kingsfleet, Thetford
+UKP15509 - Kingfleet, Thetford Phase 1
+UKP1551 - Sutton Benger
+UKP15511 - Kingfleet, Thetford Phase 1b
+UKP1553 - Manor Lane Estate
+UKP1554 - Sandbach Drive
+UKP1555 - Dukeminster Estate
+UKP1556 - Vauxhall Bridge Road
+UKP1559 - Riverwalk House
+UKP1560 - Elton Road
+UKP1561 - Wallington Way
+UKP1562 - Owl Mill, Lees
+UKP1563 - Pinehurst Road, Liverpool
+UKP1565 - Woolavington
+UKP1566 - New Street, West Bromwich
+UKP1567 - Kernick Farm
+UKP1568 - Herne Bay
+UKP1569 - Hill Hay Farm
+UKP1570 - Westerleigh Road
+UKP1571 - Rotherdale PV - Private
+UKP1572 - Brislands Lane
+UKP15725 - Widham Farm, Swindon (Wastewater Adoption)
+UKP1573 - Elmwood Court
+UKP1575 - Milnthorpe Road
+UKP1576 - Thongsley Fields School
+UKP1577 - Watling Street
+UKP1578 - Highbury Avenue
+UKP1579 - Wadeys Yard
+UKP1580 - Amblecote Drive Estate
+UKP15802 - Iron Acton, Yate (Water)
+UKP1581 - Passmore Road
+UKP15813 - Grassmead, Exeter (Adoption Only)
+UKP1582 - Amblecote Drive Care Home
+UKP1583 - Former Oakwood Hospital
+UKP1584 - Chantry Road Clifton
+UKP1585 - Saffil Automotive - Private Works
+UKP1587 - Winterbourne Academy
+UKP1588 - Brighton Road
+UKP1589 - Warminster Road
+UKP1590 - Leamouth North
+UKP1592 - Stanwell Phase B
+UKP1593 - Area F1, Kings Hill
+UKP1595 - Bristol Road South
+UKP1596 - Hafod Y Parc
+UKP1597 - Trevethin School
+UKP1598 - The Old Brickworks
+UKP1599 - Holly Close, Bretforton
+UKP1600 - Ruxley Lane
+UKP1601 - Ivanhoe Business Park
+UKP1602 - 113 Uxbridge Road
+UKP1604 - 15-25 New North Road
+UKP1605 - Centenary Quay - Diversions
+UKP1606 - Greenroyd Avenue
+UKP1608 - Melior Street
+UKP16082 - Coed Aben Road, Wrexham
+UKP1609 - Former York Quaries
+UKP1610 - Joint Services Centre
+UKP1611 - BKW Grainstore
+UKP1613 - Marine Park
+UKP16135 - Wilton Park
+UKP1614 - North Street, Leeds
+UKP1616 - Charles Road
+UKP1617 - Fford Yr Eglwys
+UKP1618 - Kernick Farm
+UKP1619 - Greenway Lane
+UKP1620 - Pebworth 1
+UKP1621 - Rockingham Park
+UKP16221 - Land at Sandwich Road, Sholden
+UKP1623 - Redhouse Lane
+UKP1624 - Cades Farm
+UKP1625 - City North
+UKP1626 - Newquay Growth
+UKP1627 - Victoria House, North Cheam
+UKP1628 - Merton Campus
+UKP1629 - H34 + H36 Charlton Hayes
+UKP1630 - Loughor Road, Swansea
+UKP1631 - Rowden Lane
+UKP1632 - Highfields Fishing Retreat
+UKP1635 - Banbury Park, Walthamstow
+UKP1636 - Heanor Care Centre
+UKP1637 - Darley Dale
+UKP1638 - Clos Coed
+UKP1639 - Windmills Development
+UKP1640 - Commonhead, Swindon
+UKP1641 - Owen Farm
+UKP1642 - Liddleston Ridge PV
+UKP1643 - Skipworth Road
+UKP1644 - Alfriston Road
+UKP1645 - Ranworth House
+UKP1646 - Napton Road, Stockton
+UKP1647 - Keele University
+UKP1648 - Battersea Power Station
+UKP1649 - MST Distribution Centre
+UKP1650 - Banbury Road, Southam
+UKP1651 - Town Farm, Henlow
+UKP1652 - Erskine Road, Winchester
+UKP1653 - Bath Street, Derby
+UKP1654 - Sutherland Road
+UKP1655 - Sunna Lodge
+UKP1656 - Ferndale Avenue
+UKP1657 - St Albans Road
+UKP1658 - Yeovil Chase
+UKP1659 - Shepherds Spring
+UKP1660 - Woking Close
+UKP1661 - Bedford Road
+UKP1662 - Gloucester Road
+UKP1663 - Winifred Whittingham House
+UKP1664 - Camro
+UKP1665 - Cucumber Lane
+UKP1666 - Ebenezer Terrace
+UKP1667 - 44 Wanley Road
+UKP1668 - Glan Y Don
+UKP1669 - Pennycross Close
+UKP1670 - RAR Woolwich
+UKP1671 - Canonbury Road
+UKP1672 - Plusterwine House AD
+UKP1673 - Waitrose Lewes
+UKP1674 - BTE Academy
+UKP1675 - Stone Road
+UKP1676 - Compton Road
+UKP1677 - Barracks Lane
+UKP1678 - Cane Hill
+UKP1679 - Coldeast Hospital 2
+UKP1680 - Project Barona
+UKP1681 - Royal Arthur Park
+UKP1682 - Delaware Drive
+UKP1683 - Plaistow Hospital
+UKP1684 - Lowbrook, Phase 2
+UKP1686 - Holford Drive Pavilion
+UKP1687 - MK Batteries - Kettering
+UKP1688 - Waggon Road
+UKP1689 - Longforth Farm, Phase 1
+UKP1690 - Douglas Avenue
+UKP1693 - Northbrook College
+UKP1694 - Great Newton Street
+UKP1695 - New Road, Rainham
+UKP1696 - Treliever Road
+UKP1697 - Rockfield Road
+UKP1698 - The Old Shipyard
+UKP1699 - Littlemead Lane
+UKP1700 - Rylands Way
+UKP1701 - Heol Tre Dwr
+UKP1702 - Glebe Road
+UKP1703 - Mendip Solar
+UKP1705 - Premier Inn, Gt Yarmouth
+UKP1706 - Heol Dulais
+UKP1707 - Bush Hill
+UKP1708 - The Hermitage
+UKP1709 - Epsom Care Home
+UKP1710 - Stockmoor Area
+UKP1711 - Higher Lydney Park
+UKP1712 - Cholderton 11kV
+UKP1713 - Charlton Road - Keynsham
+UKP1714 - Halstead Road
+UKP1715 - Penny Royal
+UKP1716 - Hythe Quay
+UKP1717 - Watford High Street
+UKP1719 - Griffin Wharf
+UKP1720 - London Road - Hindhead
+UKP1722 - Premier Inn, Birkenhead
+UKP1724 - Ettington Road
+UKP1725 - Silverdale Drive
+UKP1726 - Midland Road
+UKP1727 - Pips Field
+UKP1728 - Queensway House
+UKP1729 - Wivenhoe Park
+UKP1730 - Ironwood Avenue
+UKP1731 - Bearley Road
+UKP1733 - Metz Way Morrisons
+UKP1734 - Rochester Road
+UKP1735 - Yesoiday Hatorah School
+UKP1736 - Bedford Road, Brogborough
+UKP17363 - Phase 2 land opposite 38 Westbury Road, Bratton
+UKP17363 - Phase 2 land opposite 38 Westbury Road, Bratton - Shortcut.lnk
+UKP1738 - Guilsborough PV
+UKP1740 - Glebe Court
+UKP1741 - Monksham Farm
+UKP1742 - Westacre Caravan Park
+UKP1743 - Walkers Court
+UKP1744 - One the Elephant
+UKP1745 - Broadmead Road
+UKP1746 - Moulten College
+UKP1747 - Amherst Hill
+UKP1748 - BTE Academy
+UKP1749 - Anchor Road
+UKP1750 - Manor Road, Borehamwood
+UKP1752 - Oak Farm
+UKP1753 - Longcross
+UKP1755 - Arden Heights
+UKP1756 - East Farm, Codford
+UKP1757 - 22 Middle Street
+UKP1758 - The Dale, Wisbech
+UKP1759 - Chapel Close
+UKP1760 - Mablethorpe
+UKP1761 - Napier Court
+UKP1762 - Bow Cross, Phase 11
+UKP1763 - Nalder Estate
+UKP1764 - Courtsole Farm
+UKP1765 - Little Court
+UKP1766 - Grigg Lane - GP Surgery
+UKP1767 - Yannons Farm
+UKP1768 - Monksmoor Farm
+UKP1769 - Lufton, Yoevil
+UKP1771 - Cambridge Station Hotel, CB1
+UKP1773 - St Clements Trust
+UKP1774 - Hay Common, Phase 1
+UKP1775 - Ermin Street
+UKP1776 - Wellfield Gardens
+UKP1777 - Marble Hall Road
+UKP1779 - Tesco Cromer Road
+UKP1780 - Church End Car Park
+UKP1781 - Southern Hub Building
+UKP1782 - Spring Way Data Centre
+UKP1783 - Riverside Retail Park Unit 1
+UKP1784 - Mallard Court
+UKP1785 - Heather Avenue
+UKP1786 - Bridge Court
+UKP1787 - Nash Lane
+UKP1788 - The Lakes, Fenstanton
+UKP1789 - Gloucester Gateway Services
+UKP1790 - Premier Inn Southend
+UKP1791 - Mill Green Farm
+UKP1793 - Hampton House
+UKP1794 - The Brewery Phase 2
+UKP1795 - Belvoir Road
+UKP1796 - The Red Lion
+UKP1797 - Ranch Caravan Park
+UKP1798 - Wind Farm Control Centre
+UKP1799 - Coombe Fisheries
+UKP1800 - Barton Road, Farndon
+UKP1802 - Wingfield Crescent
+UKP1803 - Sutton Lane
+UKP1804 - Acacia Avenue, Wisbech
+UKP1805 - Stratford Road, Shipston
+UKP1806 - Walford Way
+UKP1807 - The Wellington
+UKP1809 - Eastrea Road, Whittlesey
+UKP1811 - Felmores, Basildon
+UKP1812 - Phase 1 North Prospect
+UKP1813 - Kings Street Norwich
+UKP1814 - Manor Farm
+UKP1815 - Baltic Wharf
+UKP1816 - Blue Farm
+UKP1817 - Park Road
+UKP1818 - Sheila Stead House
+UKP1820 - Leamouth Bridge
+UKP1821 - Leamouth South
+UKP1822 - Pool Lane, Bromborough
+UKP1823 - Covanta, Energy from waste
+UKP1825 - Holland Park Avenue
+UKP1826 - Porton Science Park
+UKP1827 - Parkbay
+UKP1828 - Rustington Retail Park
+UKP1829 - Wonastow Road
+UKP1831 - Pettiver Crescent
+UKP1832 - Priors Marston Road
+UKP1833 - Pensall House
+UKP1834 - Longforth Farm
+UKP1835 - Keyham Lane
+UKP1836 - Centenary Quay Site Compound
+UKP1837 - Beckford Road
+UKP1838 - Glebe House
+UKP1839 - Ion Science Office
+UKP1840 - Former Royal Mail Office
+UKP1841 - Gaulby Road
+UKP1842 - Frolesworth Road
+UKP1843 - Craylands
+UKP1844 - Greenhill Road, Coalville
+UKP1845 - Halton Brook
+UKP1846 - Shilton Road, Barwell
+UKP1847- Middlefields
+UKP1848 - Park Farm, Thornbury
+UKP1849 - BAE Warton
+UKP1850 - Neath Road, Tonna
+UKP1851 - Gold Street
+UKP1853 - Gwilliams Farm
+UKP1854 - 159 Harrow Road
+UKP1855 - Newport Road
+UKP1856 - Worcester Road
+UKP1858 - Worcester FC
+UKP1859 - Blacon Point Road
+UKP1860 - Station Road
+UKP1861 - Gosport Lane
+UKP1862 - New Cross Gate
+UKP1863 - Woodlands Close
+UKP1864 - Cherry Tree Drive
+UKP1865 - Porsche Dealership
+UKP1866 - Graveney Road
+UKP1867 - Grove Avenue
+UKP1868 - Quintrell Road
+UKP1869 - Upton Road
+UKP1870 - West Hendon Regen - Block G1-G2
+UKP1871 - Station Road, Gamlingay
+UKP1872 - Stourport Road
+UKP1873 - The Callis
+UKP1874 - Menear Road
+UKP1875 - Richard Lander School
+UKP1876 - Harboro Road
+UKP1877 - Albini House Phase 3
+UKP1878 - Bessemer Road
+UKP1879 - Leicester Marina
+UKP1880 - Tai Moelion
+UKP1881 - Woodlands Close
+UKP1882 - FESA UK, Spalding
+UKP1883 - The Hub, Swindon
+UKP1884 - Starvall Farm
+UKP1886 - Sceptre Road
+UKP1887 - 1‐3 Wenlock Road
+UKP1888 - Garretts Green Lane
+UKP1889 - Willows Caravan Park
+UKP1891 - Nortel Site, Harlow
+UKP1892 - The Fountain Head
+UKP1893 - Pebsham Lane
+UKP1895 - Bradstowe House
+UKP1896 - Binhamy Supermarket
+UKP1897 - Hancock Road TBS
+UKP1898 - De Narde Road
+UKP1900 - Alfred Crescent
+UKP1901 - Brooklyn Park
+UKP1902 - Race Farm - Private
+UKP1903 - Newton Farm - Private
+UKP1904 - Dwr Y Felin School
+UKP1905 - Llysonnen Road
+UKP1906 - Oak Terrace
+UKP1907 - Finchley Road
+UKP1909 - Garn Farm - Auxiliary
+UKP1910 - Park Farm - Phase Two
+UKP1911 - Lewisham Gateway
+UKP1912 - Medway One
+UKP1913 - Whites Bonby, Lincs
+UKP1914 - Aberystwyth University
+UKP1915 - Leatherhead
+UKP1916 - Winterhey Avenue
+UKP1917 - Bridgewater Street
+UKP1918 - Sovereign Court
+UKP1919 - London Road
+UKP1920 - Gatefold Building
+UKP1921 - Dunmere Road
+UKP1922 - Cambrian Way
+UKP1923 - Messier Dowty - Substations B&D
+UKP1925 - Winsey Farm
+UKP1926 - Telstra 6GVP
+UKP1929 - Walthamstow Stadium
+UKP1931 - Landford Avenue
+UKP1932 - Strand Palace Hotel
+UKP1933 - Haywood Village
+UKP1935 - Harlech Care Facility
+UKP1936 - Winchester Road
+UKP1937 - The Nadier Estate
+UKP1938 - Banbury Lane
+UKP1939 - Withersfield Road
+UKP1940 - A + W Building
+UKP1941 - Barkby Thorpe Lane
+UKP1942 - Bridgeside, Kent
+UKP1944 - The Oaks - Private
+UKP1945 - Lidl Feltham
+UKP1946 - Undercliff Road West
+UKP1947 - Bootle Data Centre
+UKP1948 - Attwood Lane
+UKP1949 - Hope under Dinmore
+UKP1950 - Church Hill District Centre
+UKP1951 -Trepassey Care Home
+UKP1952 - Sampsford Road
+UKP1953 - Pembroke Road
+UKP1954 - Butt Lane
+UKP1955 - Kentish Flats
+UKP1956 - Unit 21 Empire Close
+UKP1957 - Barrow Gurney
+UKP1958 - Roseberry Street, London
+UKP1959 - Master Gunners Phase 2
+UKP1960 - Plots 1-52 Style Road
+UKP1961 - Robell Way
+UKP1962 - Waterloo Farm
+UKP1963 - Wiggin Hill Farm
+UKP1964 - Lock Warehouse 2
+UKP1965 - Old BT Site
+UKP1966 - Storrington Road
+UKP1967 - Herne Bay Court
+UKP1968 - Warmwell Road
+UKP1969 - Bluewater Diversions 2
+UKP1970 - Sheldon Heath Road
+UKP1971 - Butterfly World, St. Albans
+UKP1972 - Worsnop House
+UKP1973 - Lawrence Road, Wittering
+UKP1974 - Wardentree Lane
+UKP1976 - 1A Retreat Place
+UKP1978 - RAF Lyneham Development
+UKP1979 - Bourne Estate
+UKP1980 - Watermoor School
+UKP1981 - Heol Trelai
+UKP1982 - Wivelsfield Green
+UKP1983 - Yeovil Road, Crewkerne
+UKP1984 - Old Marylebone Town Hall
+UKP1985 - Parchmore Road
+UKP1986 - Goodhew Close
+UKP1987 - Great West Road
+UKP1988 - Elliott's Field Retail Park
+UKP1989 - Rotherdale Auxiliary
+UKP1991 - Aveley Village Extension
+UKP1993 - Sentrys Farm
+UKP1994 - Porthpean Road
+UKP1995 - Cloakham Lawn
+UKP1996 - Romsey Infant School
+UKP1997 - Victoria Gardens
+UKP1998 - Landgate, Wigan
+UKP1999 - California Road
+UKP2000 - Wembley NW01
+UKP2002 - Derby Road, Ripley
+UKP2005 - Munsley PV 66kV
+UKP2006 - Beake Avenue
+UKP2007 - Ferry Street
+UKP2009 - Thomas Road
+UKP2010 - Edenfield Unit HV Works
+UKP2011 - Tadpole Farm
+UKP2012 - Mill Lane
+UKP2013 - Beechwood Gardens
+UKP2014 - Edgware Road
+UKP2015 - St Dunstan's House
+UKP2016 - Cannon Wharf
+UKP2017 - Willowfields College
+UKP2019 - Warner Street
+UKP2020 - Bishops Court Quarry
+UKP2021 - Pengover Parc
+UKP2022 - Stane Street
+UKP2024 - Dirft 3, Rugby
+UKP2025 - Charborough - Private
+UKP2027 - Waitrose, Cousden
+UKP2029 - Preston Down Road
+UKP2030 - Milford Hospital
+UKP2031 - South Road - Phase 2
+UKP2032 - Fugglestone, Salisbury
+UKP2033 - Blyth Way, Grimsby
+UKP2034 - Long Stay 2
+UKP2035 - Gaydon Road
+UKP2036 - Rugeley Power Station
+UKP2037 - Mount Osbourne Industrial Park
+UKP2038 - Nova Scotia Auxiliary
+UKP2040 - Kiln Lane, Leigh Sinton
+UKP2042 - Basingstoke Road
+UKP2043 - Atherton
+UKP2044 - Ladderswood Estate
+UKP2045 - The Flats - Auxiliary
+UKP2046 - The Wharf Waterfront
+UKP2047 - Tolworth Girls School
+UKP2048 - Hortonwood
+UKP2049 - Kidderminster Road, Hagley
+UKP2050 - Brackla, Lovells
+UKP2051 - Station Road
+UKP2052 - Nicklaus Way
+UKP2053 - Herne Road, Oundle
+UKP2054 - Severalls Hospital
+UKP2055 - Long Lane
+UKP2056 - Everest Sports Ground
+UKP2057 - Four Ashes Road
+UKP2058 - Blackhorse Road
+UKP2059 - East Challow
+UKP2060 - Black Swan Close
+UKP2061 - Roughton Road, Cromer
+UKP2062 - The Old Sales Yard
+UKP2063 - Waitrose, Chester
+UKP2064 - Plender Street
+UKP2065 - Crugmore PV Farm
+UKP2066 - Old Newton, Suffolk
+UKP2067 - Collett Road
+UKP2068 - Ty Draw Farm
+UKP2069 - Betts Way
+UKP2070 - Langford Mead
+UKP2071 - Alconbury Brook
+UKP2073 - Thirlestaine Road
+UKP2074 - Wroxton PV Array
+UKP2075 - Layham's Road
+UKP2076 - Headley Road East
+UKP2077 - Abbey Mills
+UKP2078 - Oakhill Road
+UKP2079 - Hazelwood Farmhouse
+UKP2080 - The Old Beehives
+UKP2081 - Bracknell Town Centre
+UKP2082 - Barnby Gate, Newark
+UKP2083 - Mayfield School
+UKP2084 - Hubbards Loke
+UKP2085 - Madley Industrial Estate
+UKP2086 - Wallace Wells Road
+UKP2087 - Billington Road
+UKP2088 - Denmark Lane
+UKP2089 - Gallions Reach
+UKP2090 - Margaret Stancomb School
+UKP2091 - Thriplow PV
+UKP2092 - Brook Road PV
+UKP2093 - Grovehurst Avenue
+UKP2094 - Deluxe Studios, Uxbridge
+UKP2095 - Courtauld Road
+UKP2096 - Cwmni Distyllfa Llanberis
+UKP2097 - Wycombe Lane
+UKP2098 - Buile Hill Avenue
+UKP2099 - Sackville Gardens
+UKP2100 - Herbert Road
+UKP2101 - West Witney
+UKP2102 - Silvermere Park
+UKP2103 - Taunton Way
+UKP2105 - Crewe Road
+UKP2106 - Manor Farm-Crossways Auxiliary
+UKP2107 - Station Road, Sandy
+UKP2108 - Meadow View
+UKP2109 - Weighbridge Road - Connection
+UKP2110 - Manor Wind Farm
+UKP2111 - West Hill Wind Farm
+UKP2112 - Acton Lane - Park Royal
+UKP2113 - Walnut Tree Close
+UKP2114 - Walford Way
+UKP2115 - Argyle Works, Birmingham
+UKP2116 - Oak Terrace
+UKP2118 -
+UKP2119 - Tooting High Street, Wandsworth
+UKP2120 - Highworth
+UKP2121 - Glan Gors
+UKP2122 - Kenyon Gateway Estate
+UKP2123 - Norbury Yard
+UKP2124 - Lime Kiln Lane
+UKP2125 - Helsby Care Home
+UKP2126 - Princes Gate
+UKP2127 - Queen Elizabeth Road
+UKP2128 - Station Road, Elton
+UKP2130 - Wiltshire PV
+UKP2131 - Bar Farm
+UKP2132 - North Mymms
+UKP2133 - Gawcott Farm
+UKP2134 - Sturricks Paddock
+UKP2135 - Park Road, Ratby
+UKP2136 - Old Street, Islington
+UKP2138 - Dee Park
+UKP2139 - Highfields School
+UKP2141 - Weighbridge Road - Private
+UKP2142 - Bar Farm - Auxiliary
+UKP2143 - North Mymms - Auxiliary
+UKP2144 - Gawcott Farm - Auxiliary
+UKP2146 - Hoback PV Farm
+UKP2147 - Hall PV Farm
+UKP2148 - Brazengate
+UKP2149 - Waters Lane
+UKP2150 - Blackfriars Road
+UKP2151 - Castle Road, Llangynidr
+UKP2152 - Bedford Road, Great Barford
+UKP2153 - Flint House, Chapel Street
+UKP2156 - Hazard PV Farm
+UKP2157 - Bristol Airport
+UKP2158 - Heygate Estate
+UKP2159 - Southbank Place A
+UKP2160 - Southbank Place B
+UKP2161 - Greaves Hall, Southport
+UKP2162 - Barnardos Phases IV & V
+UKP2163 - Worgret Road, Dorset
+UKP2164 - Regent Circus, Swindon
+UKP2165 - North Circular Road, Enfield
+UKP2166 - Siddington Road
+UKP2167 - Sanquhar Street
+UKP2168 - Holders Hill
+UKP2169 - Stuart Crystal
+UKP2170 - Stratford Road, Mickleton
+UKP2171 - Bethune Road
+UKP2172 - Uffington Post Office
+UKP2173 - High Street, Chesterton
+UKP2174 - Mill Lane Retail
+UKP2175 - Burnaby Road
+UKP2176 - Redriff Road
+UKP2177 - Brampton Centre
+UKP2178 - TT Pumps Ltd
+UKP2180 - Kempston Road
+UKP2182 - Horse Hill Road, Evercreach
+UKP2183 - Dera South (Longcross)
+UKP2184 - Woodville Unit
+UKP2185 - Llancaiach View
+UKP2187 - Butterow Hill
+UKP2188 - Ely Farm
+UKP2189 - Worsley Bridge Road
+UKP2190 - Milton Road
+UKP2191 - Stowupland
+UKP2192 - St. James Road
+UKP2193 - Tyson Road
+UKP2194 - Loxley Road
+UKP2195 - Five Oaks Road, Broadbridge Heath
+UKP2196 - Trade City Business Park
+UKP2197 - Brighton Bilingual Primary School
+UKP2198 - High Street, Southall
+UKP2199 - Isaac Newton School
+UKP2200 - University of Kent
+UKP2201 - Ifield Community College
+UKP2202 - Village Road, Northop Hall
+UKP2203 - Elizabeth Gardens, Harrow
+UKP2204 - Foundry Yard
+UKP2205 - Former HM Stanley Hospital
+UKP2206 - Roger's Lane
+UKP2207 - Martley
+UKP2209 - Newlands Farm - Private
+UKP2210 - Post and Mail - Private
+UKP2212 - Yew Tree PV - Auxiliarry
+UKP2213 - Holliers House PV
+UKP2214 - Wenlock & Brewery Laterals
+UKP2215 - Clay Brook
+UKP2216 - Lintons Lane, Epson
+UKP2217 - Weston Lane, Southampton
+UKP2219 - 98 Portland Place
+UKP2220 - Bright Street
+UKP2222 - 92-96 Portland Place
+UKP2223 - Bolingbroke Park, Oakwood
+UKP2225 - St James Road, Croydon
+UKP2226 - Prince Street, Leek
+UKP2227 - Steeles Road, Woolpit
+UKP2228 - Former Infinity Foods
+UKP2230 - Clay Brook School
+UKP2231 - 55 Glebe Place
+UKP2233 - West View, Hyde Lane
+UKP2234 - High Street, Heathfield
+UKP2235 - Mellior Street
+UKP2236 - Parish School
+UKP2237 - Weston Lane Parade
+UKP2238 - NEC Resorts World
+UKP2239 - Westbourne Grove Mews
+UKP2240 - Fresh Wharf
+UKP2241 - Watnall Road
+UKP2242 - Cuckoo Lane
+UKP2243 - Woofferton AD Plant
+UKP2244 - Pylands Lane
+UKP2245 - Crosslinks Centre
+UKP2246 - Adam Street
+UKP2247 - Bridge Street
+UKP2248 - Elms PV Farm
+UKP2249 - Chiswick Point TBS
+UKP2250 - Buscombe Gardens
+UKP2251 - Mablethorpe Phase 2
+UKP2252 - Fulham High Street
+UKP2253 - Oliver Road
+UKP2254 - Ickley Close
+UKP2255 - Thorndown Primary School
+UKP2256 - Ryeland Primary School, Croydon
+UKP2257 - Fringford Lane, Bicester
+UKP2258 - Woodlands PV Farm
+UKP2259 - Woodlands PV Farm - Auxiliary
+UKP2260 - 1-7 Eldon Road, Crick
+UKP2261 - Paulton 2A, 2B
+UKP2262 - Prologis, Ryton
+UKP2263 - North Lane, Bickington
+UKP2264 - Former Sainsbury's, Leek
+UKP2265 - Excalibur Estate
+UKP2266 - Hale Road, Widnes
+UKP2267 - Kidderminster Road
+UKP2268 - Festival Way
+UKP2270 - 308-314 Kings Road
+UKP2271 - Remington Road
+UKP2273 - Carlton Grove
+UKP2274 - Aldertons Farm
+UKP2275 - Southway, Plymouth
+UKP2276 - Cheltenham North Place
+UKP2277 - Lisgar Terrace, Hammersmith
+UKP2278 - Prince William Avenue
+UKP2279 - Thurston Road
+UKP2280 - Morewood Close
+UKP2281 - Stanstead Road
+UKP2282 - Russell Close, Powick
+UKP2283 - Eastcotts Road
+UKP2284 - Leamouth North
+UKP2285 - Hingham Manufacturing Facility
+UKP2286 - Evershed House
+UKP2287 - Dermal Laboratories
+UKP2288 - Llanfrechfa Way, Cwmbran
+UKP2289 - Fairfield Pool & Leisure Centre
+UKP2290 - Brockeridge Road
+UKP2291 - Bader Close
+UKP2292 - Minchery Farm
+UKP2293 - High Street, Southall
+UKP2294 - Whitfield-Dover
+UKP2295 - Long Marston Road
+UKP2298 - Hiltons Wharf
+UKP2299 - Argyle Works, 14MVA (GDC Data)
+UKP2300 - Mortimer Hill
+UKP2301 - Park Street
+UKP2302 - Buckland Paper Mill
+UKP2303 - Baltimore Wharf
+UKP2304 - Station Road, Leicester
+UKP2305 - Streatham & Clapham School
+UKP2306 - High Street, Watchfield
+UKP2307- Aqueduct Road, Shirley
+UKP2308 - Forge Lane, Pontypool
+UKP2309 - Amberley Road
+UKP2310 - Bermuda Park, Nuneaton
+UKP2311 - Osiers Road - Linton Oils
+UKP2313 - W Cotton Close
+UKP2314 - Ravel End PV Farm
+UKP2315 - Ravel End PV Farm - Auxiliary
+UKP2316 -Trevithel Court PV Farm
+UKP2318 - Walsall Road-Russell Street
+UKP2319 - Torgate Lane
+UKP2320 - Tucks PV Farm
+UKP2321 - Elsage PV Farm
+UKP2322 - Elsage PV Farm - Auxiliary
+UKP2324 - Royal Albert Basin
+UKP2325 - Morland Road
+UKP2326 - Overhill - Holton heath
+UKP2327- Old Church Road
+UKP2329 - Brown Lane East
+UKP2331 - Fir View Garden
+UKP2332 - Weighbridge Road - Auxiliary
+UKP2333 - Smurfit Site
+UKP2334 - Island Farm Road
+UKP2335 - Cotefield Farm Site
+UKP2336 - Cefn Betingaue PV Farm
+UKP2337 - Garden City
+UKP2338 - Sealand Avenue, Garden City
+UKP2339 - Railway Road, Rhosddu
+UKP2340 - St. Augustine's Church
+UKP2341 - Walsall Road-Russell Street
+UKP2342 - Sychnant Pass Road
+UKP2343 - Radford Mill
+UKP2344 - Royal Mint Street
+UKP2345 - All Saints Green, Norwich
+UKP2346 - Battersea Power Station TBS
+UKP2347 - Homerton College, Cambridge
+UKP2348 - Vine Solar Farm
+UKP2349 - Albert Road
+UKP2350 - 302 Stonebridge Cross
+UKP2351 - Putton Lane
+UKP2352 - Pingot Extra Care
+UKP2353 - Oakland International
+UKP2354 - Blyth Road, Hayes
+UKP2355 - Wilson's Lane
+UKP2357 - Dalston Lane, Hackney
+UKP2358 - Filbert Street
+UKP2359 - Bradlands Close
+UKP2360 - 1095 London Road
+UKP2361 - Courtway House
+UKP2362 - Chestnut Avenue
+UKP2363 - Lower Marsh PV Farm
+UKP2364 - Bourne Park, Piddlehinton
+UKP2365 - Ponderosa Pigeon Stud
+UKP2367 - 7-10 Hanover Square
+UKP2368 - Foden's Park
+UKP2369 - Hill Top
+UKP237 - Chiltern Hills Golf Club
+UKP2370 - Barrington Road, Rushden
+UKP2371 - Land at  Zouch Manor, Tidworth
+UKP2372 - Davidson Road, Lichfield
+UKP2373 - Academy Street
+UKP2374 - Standard Hill, Coalville
+UKP2375 - Nutricia Care Home
+UKP2376 - Caroline Sharpe House
+UKP2377 - Sovereign House
+UKP2378 - Brandon Grange Farm
+UKP2379 - Station Road
+UKP2380 - Wiggin Hill Farm - Private
+UKP2382 - Lightmoor, Telford
+UKP2383 - The Frythe, Welwyn
+UKP2384 - Audley Mote Park
+UKP2385 - 38 Wellington Road
+UKP2386 - Marsh Farm AD
+UKP2387 - Wellington Road, Telford
+UKP2388 - Bagshot
+UKP2389 - Bury Knowles Park Depot
+UKP2390 - BBC Caversham
+UKP2391 - The Elms, Thames
+UKP2392 - Telfer House, Lever Street
+UKP2393 - West Hendon - Block E Export
+UKP2394 - Burton Upon Trent, Wetmore
+UKP2395 - The Wyndham Angus
+UKP2396 - Melton Road
+UKP2397 - Archer Road, Stevenage
+UKP2398 - Walshaw Hall
+UKP2399 - Land at Green Pitts Lane
+UKP2400 - Cranford Street
+UKP2401 - Fairhurst Drive
+UKP2402 - Wickham Court
+UKP2403 - Norwood Yard
+UKP2404 - Baggeridge
+UKP2405 - Damask Way, Westbury
+UKP2406 - Headbourne House
+UKP2407 - Winterstoke - Virgin Media
+UKP2408 - Bridge School
+UKP2409 - Queens Road
+UKP2410 - Milford Hospital
+UKP2412 - Crookbarrow
+UKP2413 - Alder Grange
+UKP2414 - Copley PV Farm
+UKP2415 - ProLogis Park Heathrow - Unit DC5
+UKP2416 - ProLogis Park Heathrow - Unit DC6
+UKP2417 - Hare Hill Extra Care Unit
+UKP2418 - Silvertown
+UKP2419 - Old Cattle Market Site
+UKP2420 - Canonbury Road
+UKP2421- Flemingham
+UKP2422 - ILex Close
+UKP2423 - Foxley Lane
+UKP2424 - Norman Road, Greenwich
+UKP2425 - Babdown Airfield
+UKP2426 - Church Farm
+UKP2427 - Slaters Garage
+UKP2428 - Maelfa Centre
+UKP2429 - Two Gates, Tamworth
+UKP2430 - Darklands
+UKP2431 - Former Catford  Dog Track
+UKP2432 - Thorney Road
+UKP2434 - Great Seabrook - Auxiliary
+UKP2435 - Boortmalt, Bury St. Edmunds
+UKP2436 - Woofferton - Private Works
+UKP2437 - Witham Unit
+UKP2438 - Gateway DataCentre 11kV
+UKP2439 - Wakefield Road Care Home
+UKP2441 - Doha Convention Centre
+UKP2442 - Kingsford Community School
+UKP2443 - Windsor House
+UKP2444 - Trisail Towers, Gaunts End
+UKP2445 - Novers Hill
+UKP2446 - Cambridge Road
+UKP2447 - Newchapel
+UKP2449 - Barton Farm
+UKP2450 - The Mead
+UKP2451 - Ampfield
+UKP2452 - Box road
+UKP2453 - 27-32 Poultry
+UKP2455 - Vicarage Road
+UKP2456 - Pasture Lane
+UKP2457 - South Road, Site A
+UKP2458 - Southchurch Road
+UKP2459 - Imperial Tobacco - Phase 2
+UKP2460 - Kirk Ley Road
+UKP2462 - Sutherland Road
+UKP2463 - Plymouth Energy Park
+UKP2464 - Lower House Farm
+UKP2465 - Lyndhurst Estate Phase 1B
+UKP2466 - Crossfield Farm
+UKP2467 - Victoria Road, N Acton
+UKP2468 - Gooshays Drive
+UKP2469 - Keats Way, Grassmoor
+UKP247 - Mark Boyce
+UKP2470 - Marden Road
+UKP2472 - Kings Drive, Eastbourne
+UKP2473 - Coxley  Vineyard
+UKP2474 - Oxford Road
+UKP2475 - Wembley NW
+UKP2476 - Church Lane, Deal
+UKP2477 - Holmleigh Way
+UKP2478 - Boulton Moor
+UKP2479 - Petre House Farm
+UKP2480 - Waterswallows
+UKP2482 - Buckland Road
+UKP2483 - Morden Tavern
+UKP2484 - Bourne End Mills
+UKP2486 - Imperial Park
+UKP2487 - Lancaster Close
+UKP2488 - Fengate Regional Pool
+UKP2489 - Former Swan Hunter Yard
+UKP249
+UKP2490 - Park Farm, Kingsnorth
+UKP2493 - Bronte & Fielding
+UKP2494 - Haywards Heath
+UKP2495 - Red Cow Farm
+UKP2496 - High Street, Cranfield
+UKP2498 - Chesterfield Leisure Centre
+UKP2499 - Spinney Hill Phase 1
+UKP2500 - Spinney Hill Phase 2
+UKP2501 - Mark's Gate
+UKP2502 - Greenfields, Billington Road
+UKP2504 - Corporation Road
+UKP2506 - Bradley Road, Bovey Tracey
+UKP2507 - Station Road, Market Bosworth
+UKP2508 - Beaconsfield Street
+UKP2509 - Poolway Farm, Coleford
+UKP2510 - Bismarck Drive
+UKP2511 - Jeffery Road
+UKP2513 - Cheltenham Racecourse Tx Replacement
+UKP2515 - Land off 28-72 Milton Road
+UKP2517 - Essex Way - Phase 2
+UKP2518 - Ollaberry, Shetland
+UKP2519 - Plas-Y-Coed
+UKP2520 - Ashday Hall - Connection
+UKP2521 - Pebble Hall Farm
+UKP2522 - Hempstead Valley, Phase 1
+UKP2523 - 257 City Road
+UKP2524 - Blindley Heath
+UKP2525 - Grange PV Farm
+UKP2526 - Katherine House
+UKP2527 - Craylands Phase 2
+UKP2528 - Tanners Hill, Lewisham
+UKP2529 - Market Lavington
+UKP2530 - Town PV Farm
+UKP2531 - Kings Road
+UKP2532 - North Blyth Biomass - TBS
+UKP2533 - East Cottage Burton Hill
+UKP2534 - Sandhill Park
+UKP2535 - Gretton Road
+UKP2536 - Elmwood Primary School
+UKP2537 - Chalkers Lane South
+UKP2538 - Oxgate Centre
+UKP2539 - Green Lane
+UKP2540 - Altrincham Road
+UKP2541 - Birch Road
+UKP2542 - Embassy Gardens A05, Ponton Road
+UKP2543 - 136-140 Wapping High Street
+UKP2544 - Batson Cross
+UKP2545 - Castle Mall Shopping Centre
+UKP2546 - Oare Road Phase 2
+UKP2547 - Embassy Gardens
+UKP2548 - Devere House
+UKP2549 - Ashday Hall - Private Works
+UKP2550 - Woodpark Farm - Connection
+UKP2551 - Woodpark Farm - Private Works
+UKP2552 - Hayes Place
+UKP2553 - UK Mail Site, Coventry
+UKP2556 - Bute Gardens
+UKP2557 - Rainham Road South
+UKP2558 - Buckleigh Road
+UKP2560 - Site 6, North Circular
+UKP2561 - Pochard Lake Fishing Lodge
+UKP2562 - Batheway Fields
+UKP2563 - Bell Farm
+UKP2564 - No 1 Basinghall Avenue
+UKP2565 - Olney Solar
+UKP2566 - Heston Leisure Centre
+UKP2567 - Latchmere House, Church Road
+UKP2568 - Johnstown Development
+UKP2569 - Cymau Lane
+UKP2570 - Ash Farm, Cockett Lane
+UKP2571 - Great Wibraham Solar
+UKP2572 - Broadway Lane
+UKP2574 - Vernon Arms
+UKP2575 - Woodberry Down
+UKP2577 - Silkstead Solar Farm
+UKP2578 - Unit DC1 Prologis - HV Metered
+UKP2579 - Angus House
+UKP2580 - Penketh House
+UKP2581 - Cotford St Luke
+UKP2582 - Sedbury Chepstow
+UKP2583 - Neptune Wharf, Monier Road
+UKP2584 - Town Farm, Ledbury
+UKP2585 - Station Road, Marple
+UKP2586 - Gateway DataCentre 33kV
+UKP2587 - Kronospan, Chirk
+UKP2588 - Apex Park, Worcester
+UKP2589 - 303, London Road
+UKP2590 - White Lodge Farm
+UKP2591 - Smiths Land
+UKP2592 - Goodleigh Road
+UKP2593 - Leicester Road
+UKP2594 - Duggins Lane
+UKP2595 - Tempwood
+UKP2596 - Tudor Way
+UKP2597 - Gloweth Site
+UKP2598 - Cutty Sark House
+UKP2599 - Stonebridge Park
+UKP2600 - The Elms, Hemel Hempstead
+UKP2601 - Nortel Data Centre
+UKP2603 - Torkington Road
+UKP2604 - Spur House
+UKP2605 - Area 62, Langley Way
+UKP2606 - Southall Gas Works
+UKP2607 - Pickersleigh Grove, Malvern
+UKP2609 - Stow Heath Lane
+UKP2610 - Lakeside Park
+UKP2611 - Cosby Road
+UKP2612 - Innovation Drive
+UKP2613 - Cranbrook, Phase 3
+UKP2614 - Eastbourne Business Mall
+UKP2615 - Bexhill Business Mall
+UKP2616 - Moreton Road
+UKP2617 - Glenfield Leicester
+UKP2618 - Walthamstow Stadium - Laterals
+UKP2619 - Main Road, Crick
+UKP2620 - Niort Way, Wellingborough
+UKP2621 - Harbour Road
+UKP2622 - Quebec Way
+UKP2623 - Cross Hands Food Factory
+UKP2625 - Whitehorse Road, Croydon
+UKP2627 - Ellicombe Lane
+UKP2628 - Former Marco Polo House
+UKP2629 - Park Works, Kingston
+UKP2630 - Liss Care Home
+UKP2631 - Acton Lane, Park Royal-Phase 2
+UKP2633 - Monument Road
+UKP2634 - Paston Reserve
+UKP2635 - Chalfont Drive
+UKP2636 - Cox's Lane, Broughton
+UKP2637 - 175a Brigstock Road
+UKP2638 - Willesden Depot
+UKP2639 - Workhouse Lane
+UKP2640 - London Lane
+UKP2641 - 22-25 London Lane
+UKP2642 - Braydon Manor
+UKP2643 - Queens Building Block 10
+UKP2644 - King Edward VII Hospital
+UKP2645 - Goudhurst Road
+UKP2647 - Waverley Studio School
+UKP2648 - Briars Lane
+UKP2649 - Royal Arthur Park TBS
+UKP2650 - Ivy Road, Norwich
+UKP2651 - Station Road, Lechlade
+UKP2652 - Liverton PV Farm
+UKP2653 - Peters Village
+UKP2654 - Wharf Street
+UKP2655 - Margam Driving Range
+UKP2656 - Hope Street
+UKP2658 - Hamble Lane
+UKP2659 - Louviers Road
+UKP2661 - Barons Quay, Northwich
+UKP2662 - New Century Park
+UKP2663 - Roman Gate
+UKP2664 - Royal Wharf Information Centre
+UKP2665 - Unit DC1 Prologis - Private
+UKP2666 - Skimmingdish Lane, Bicester
+UKP2667 - Carlton Gate
+UKP2668 - Site 6 - NCR
+UKP2669 - Smallhythe Road, Tenterden
+UKP2670 - Providence Tower Laterals
+UKP2671 - Site C, Thame
+UKP2673 - Beechdale Road
+UKP2674 - Gloucester Gateway South
+UKP2675 - Town PV Farm - Auxiliary
+UKP2676 - Hempstead
+UKP2677 - Ferry Lane
+UKP2678 - Cleevelands, Bishops Cleeve
+UKP2679
+UKP2680 - Dukeminster, Dunstable
+UKP2681 - H&M Rugby
+UKP2682 - Newman House
+UKP2683 - Parish Church Nursery
+UKP2684 - Hassocks Lane
+UKP2685 - The Close, Ashford
+UKP2686 - Recreation Road, Tenterden
+UKP2687 - Pretoria Road
+UKP2688 - Paragon Park
+UKP2689 - Malting Lane, Donington
+UKP2691 - Garden House
+UKP2692 - Arena Academy
+UKP2693 - Collville Road
+UKP2694 - Campkin Road
+UKP2695 - Coles Green Road
+UKP2696 - Upton Road
+UKP2697 - East Street, Epsom
+UKP2698 - Cadley PV Farm
+UKP2699 - The Signals
+UKP2700 - Fountaindale
+UKP2701 - Former GCHQ
+UKP2702 - Hiscox Building
+UKP2703 - York House, LDOC
+UKP2704 - Waitrose, Amwell Hill
+UKP2705 - Victory House
+UKP2706 - Kencot Hill - LV Supply
+UKP2707 - Winchester Road, Basingstoke
+UKP2708 - Basingstoke Town FC
+UKP2709 - Haverfordwest PV Farm
+UKP2710 - Bluebell Meadow
+UKP2711- The Wharf, Bull Ring
+UKP2712 - Kennels Lane
+UKP2713 - Mount Farm
+UKP2714 - Stoke Extra Care
+UKP2715 - City Road
+UKP2716 - 13 Liverpool Road
+UKP2717 - Royal Star & Garter Home
+UKP2718 - Glenwood Farm
+UKP2719 - Rattle Road
+UKP2720 - St Andrews, Warminster
+UKP2721 - Cheapside substation
+UKP2722 - Sutton Road
+UKP2723 - Marine Parade
+UKP2724 - Snelsmoor Lane
+UKP2725 - Highfields Rykneld
+UKP2726 - Belvedere Place
+UKP2727 - Park Road, Cosby
+UKP2728 - Brandon House
+UKP2729 - Barton Road, Barton Seagrave
+UKP2730 - Holbeck Towers
+UKP2732 - Granby Gardens
+UKP2733 - Pensall House
+UKP2734 - Wimbledon Park
+UKP2735 - Lythalls Lane
+UKP2736 - Octagon Park
+UKP2737 - Commercial Road
+UKP2739 - The Gables
+UKP274 - Ocado, Gypsy Moth Avenue
+UKP274 Ocado
+UKP2740 - Blyth Road, Hayes, IGL
+UKP2741 - The Bridge Phase 2
+UKP2742 - Havant Retail Park
+UKP2744 - North Fosse Farm
+UKP2745 - Paradise Circus
+UKP2746 - Sutton Court Road
+UKP2747 - Guinness Plant, Cameroon
+UKP2748 - Capital Towers
+UKP2749 - Priory Road
+UKP275
+UKP2750 - Rugby Gateway - Phase 2
+UKP2751 - Thorney Road
+UKP2752 - Hawkhurst Castle
+UKP2753 - Marling School
+UKP2754 - Bell School
+UKP2755 - Hamilton Drive
+UKP2756 - Burton on the water
+UKP2757 - Polhampton PV
+UKP2758 - Linford Lakes
+UKP2759 - Polhampton PV - Auxiliary
+UKP2760 - Silkstead Solar - Auxiliary
+UKP2761 - Chesham Campus
+UKP2762 - Gorleston Street
+UKP2763 - Park Farm Phases 1-4
+UKP2764 - Riverside North
+UKP2765 - 11-15 Grosvenor Crescent
+UKP2766 - Westgate
+UKP2767 - Buttermarket, Ipswich
+UKP2768 - Badger Holt, Branton
+UKP2769 - French International School
+UKP2770 - Camberwell Green
+UKP2771 - Pennine Way
+UKP2772 - Great Eastern Quay
+UKP2773 - Sudbourne Primary School
+UKP2775 - Aldermans House
+UKP2776 - 10 Albert Embankment
+UKP2777 - The Balk
+UKP2778 - Land off Harleston Road
+UKP2779 - Brent Knoll School
+UKP2780 - Fulbourne Road
+UKP2781 - Milton Road, Repton
+UKP2782 - West Street, Surrey
+UKP2783 - West of Milton Keynes
+UKP2784 - Westwood Cross
+UKP2785 - Tachbrook Road
+UKP2786 - Evron Wharf, Marshgate Drive
+UKP2787 - Ealing Film Works
+UKP2788 - Westferry Printworks
+UKP2789 - Cades Farm, Phase 3
+UKP2790 - Hermit Road
+UKP2791 - Bishops Sutton, Phase 2
+UKP2792 - Wiltshire College
+UKP2793 - Page Lane
+UKP2794 - Kingston Road
+UKP2795 - Stanion Lane
+UKP2796 - Waltham Forest
+UKP2797 - Yew Tree Farm
+UKP2800 - Durley Chine Road
+UKP2801 - Neats Court
+UKP2802 - Grove Farm, Newport
+UKP2803 - Church Street
+UKP2804 - Curtis Field, Phase1A
+UKP2805 - Drake Avenue(NT8)
+UKP2806 - Tileman House, Putney
+UKP2808 - Brackenside
+UKP2809 - Birkin Lane, Grassmoor
+UKP2810 - Primrose Lane
+UKP2811 - Banbury Road, Deddington
+UKP2812 - Marsh PV Farm
+UKP2813 - Newmarket Road
+UKP2814 - Westfield Bradford
+UKP2815 - Waunfynydd
+UKP2816 - Fosseway
+UKP2817 - Haygrove
+UKP2819 - Lannock Primary Houses
+UKP2820 - Octavius Street
+UKP2821 - Bryncae Industrial Estate
+UKP2822 - West Hampstead
+UKP2823 - Pollards Fields
+UKP2824 - Trinity Hall, St Clements Gardens
+UKP2825 - Westfield Croydon
+UKP2826 - Solbury Mountain Wind Farm
+UKP2827 - Lytchett Minster PV
+UKP2828 -
+UKP2829 - East Lodge Park
+UKP2830 - Woodlands Avenue
+UKP2831 - Amberd Lane
+UKP2832 - Vendalis Court portland
+UKP2833 - Woodside
+UKP2834 - Durleigh Brook
+UKP2835 - Chaucer Drive
+UKP2836 - Holland Park
+UKP2837 - Thorney Lane
+UKP2838 - George Ward School
+UKP2839 - 40a Whiteladies Road
+UKP2841 - Berwick Road
+UKP2842 - Ash Green Lane
+UKP2843 - Lloyds TSB
+UKP2844 - Beech Hill Road
+UKP2846 - Brownlow Road
+UKP2847 - Hadleigh Road
+UKP2848 - Cawston Lane
+UKP2849 - Flambard Way, Godalming
+UKP2850 - Branston South PV Farm
+UKP2851 - Manor Lane
+UKP2852 - Granby Green
+UKP2853 - Froomsgate House, Bristol
+UKP2856 - Worcester Road
+UKP2857 - Shobnall Road
+UKP2858 - Bridgewater Drive
+UKP2859 - Crestwood Road
+UKP2860 - Little Mountain Road
+UKP2861 - Ashby Manor Farm
+UKP2862 - Colart Factory
+UKP2863G - York Community Stadium
+UKP2865 - Station Road, Pershore
+UKP2866 - Former Battersea Police Station
+UKP2867 - Costco Wembley
+UKP2868 - Neath Road
+UKP2869 - Burbage High Street
+UKP2870 - 77-91 Hartfield Road, Wimbledon
+UKP2871 - Cambridge House, Woolwich
+UKP2872 - Royal Arsenal Riverside Phase 6
+UKP2873 - Beckford Road
+UKP2874 - Folly Court
+UKP2875 - Paragon Park
+UKP2876 - Lantern Lane
+UKP2877 - Tune Hotel
+UKP2878 - Roman Wall House
+UKP2879 - Riverside Retail MSCP
+UKP2880 - Seagrave Road
+UKP2881 - Sandy Hill Lane
+UKP2883 - Pages Walk
+UKP2884 - Woodhouse Park, Nottingham
+UKP2885 - The Oaks - Phase 2
+UKP2886 - Riverside North Relocation Works
+UKP2887 - Riverside North, Bedford Phase 2
+UKP2888 - Maddocks Sports Club
+UKP2889 - Wobaston Road
+UKP2890 - Burton Waters
+UKP2891 - Toby Lane
+UKP2892 - Hyde Lane
+UKP2893 - Longcross - Phase 1
+UKP2894 - Weston Hall Road
+UKP2895 - Maidstone Road
+UKP2896 - Chester Theatre
+UKP2897 - Northbrook College Phase 2
+UKP2898 - High Street, Fleckney
+UKP2899 - 25-27 Bury Street - Connection
+UKP2900 - Point North - Residentail
+UKP2902 - Compton Way
+UKP2903 - Cleevelands Phase 2, Bishops Cleeve
+UKP2905 - Burt Harbour
+UKP2907 - Bridge End, Colsterworth
+UKP2908 - RAF Cardington
+UKP2909 - Bayham Road
+UKP2910 - Tottenham Stadium
+UKP2911 - Glacier Way
+UKP2912 - Filwood Green Business Park
+UKP2913 - Berkley Bypass PV
+UKP2914 - Arena Central
+UKP2915 - Tottenham Stadium TBS
+UKP2916 - 17 Mercers Row
+UKP2917 - City North Laterals
+UKP2919 - Lots Road-Chelsea Tower
+UKP2920 - Weighbridge Road 132kV Design
+UKP2921 - Grosvenor Road, Littledown
+UKP2922 - Burcote Road
+UKP2923 - Eastfield Road
+UKP2924 - Land at Tile Barn Row
+UKP2925 - Hilary Bevins Close
+UKP2926 - Langarth Farm, Truro
+UKP2927 - Poulton YMCA
+UKP2928 - Southill Estate Solar
+UKP2929 - New Road
+UKP2930 - Genie Evo - Bahamas
+UKP2931 - Genie Evo - Mustique
+UKP2932 - Plains PV Farm
+UKP2934 - St. Matthias College
+UKP2935 - Leamouth North Infrastructure Upgrade
+UKP2936 - Warwick Road, Banbury
+UKP2937 - Wembley New Theatre
+UKP2938 - Altira Park, Herne Bay
+UKP2938 - Altira Park, Herne Bay - Shortcut.lnk
+UKP2939 - Tadmarton Road
+UKP2940 - Northgate House TBS
+UKP2941 - Block A, Cherrydown East
+UKP2942 - Louisburg Barracks
+UKP2943 - Gordleton Industrial Park
+UKP2945 - Goscote Lane
+UKP2946 - Hornsey Depot
+UKP2947 - Trade Central, Vanguard Way
+UKP2949 - 56 Muswell Hill
+UKP2950 - Genie Evo - Trinidad
+UKP2951 - Unit A1 & A2 New House Ind Estate
+UKP2952 - Goodacres
+UKP2954 - Falcon Hey
+UKP2955 - Ware, Hertfordshire
+UKP2956 - Louisburg Barracks
+UKP2957 - New Road, South Hornchurch
+UKP2958 - Hyde PV Farm
+UKP2960 - Gould Alloys
+UKP2961 - St Georges Hospital
+UKP2962 - Merston PV Farm
+UKP2963 - Verwood PV Farm
+UKP2966 - Warren PV Farm
+UKP2967 - Shepherds PV Farm
+UKP2968 - Sawmills PV Farm
+UKP2969 - Park PV Farm
+UKP2970 - Harlesden Primary School
+UKP2971 - North Brook Close
+UKP2972 - Wootton Fields
+UKP2973 - Ottery St Mary
+UKP2974 - Phase 5, Sprowston
+UKP2975 - Wembley High School
+UKP2976 - Pontarddulais
+UKP2977 - Shrivenham Road, Highworth
+UKP2978 - Sparrowhall Lane
+UKP2979 - Rockspring, Westcott Venture Park
+UKP2980 - Morris Feinmann Site
+UKP2981 - Halkyn Road
+UKP2982 - St. Joseph's School
+UKP2983 - Western Road
+UKP2984 - North Whiteley
+UKP2985 - The Firs
+UKP2986 - Broiler Bearing Units
+UKP2988 - Canada Square
+UKP2989 - Waterfield Place
+UKP2990 - Howcotte Green - PPS58665
+UKP2991 - Morfa Road
+UKP2993 - Kidderpore Avenue
+UKP2995 - Langley Court Extra Care
+UKP2996 - Southfield Farm
+UKP2997 - Bath Road, Beckington
+UKP2998 - 12-18 Radstock Street
+UKP2999 - Vicarage Hill
+UKP300 - Sweyn Close
+UKP3000 - Wembley South West Lands
+UKP3001 - Commerce Park, Frome
+UKP3002 - Ebury Bridge Centre
+UKP3003 - Unit 92-93 Wembley LDOC
+UKP3004 - Stickling Green Road
+UKP3005 - Utopia Village
+UKP3007 - Exhibition Centre, Liverpool
+UKP3008 - Semmington Road
+UKP3009 - Dallam Lane
+UKP3010 - St Lawrence House
+UKP3011 - Millbrook Way
+UKP3012 - 218 London Road, East Grinstead
+UKP3013 - Pilgrove Way
+UKP3014 - Beeston Park
+UKP3015 - Preston Hall
+UKP3016 - Vine Street
+UKP3017 - Banady Lane
+UKP3018 - Jubilee Sports Centre
+UKP3019 - Singletons Farm
+UKP3020 - Lake Road
+UKP3021 - Marringdean Road
+UKP3022 - Western Gazette
+UKP3023 - Acanthus Road
+UKP3024 - Exeter Road, Bournemouth
+UKP3025 - Thomas Gainsborough School
+UKP3026 - Camphill, Plots 1-27
+UKP3027 - Ransomwood Estate PV - Private
+UKP3028 - Seven Kings School
+UKP3029 - Squares Road
+UKP3030 - Malago House
+UKP3031 - Site 14 North Circular Road
+UKP3032 - Oval Gas Works
+UKP3033 - U150 Silvertown Way
+UKP3034 - Goods Way
+UKP3035 - Milestone Road
+UKP3036 - Millstone Lane
+UKP3037 - Greenhill Road
+UKP3038 - Marden Farm
+UKP3039 - Upper Huntingford
+UKP304 - Masons Way
+UKP3041 - Dormer Avenue
+UKP3042 - Grove Lane
+UKP3043 - Willow Road
+UKP3044 - Vale Street, Denbigh
+UKP3047 - NAIC Warwick University
+UKP3048 - Phase 2 Little Heath
+UKP3049 - Phase 3 Little Heath
+UKP305 - Sherwood Street
+UKP3052 - Newington Butts
+UKP3053 - Riverside Road, Lowestoft
+UKP3054 - Byfield Road, Daventry
+UKP3055 - Burton Solar Farm
+UKP3057 - Tengore Lane PV Farm
+UKP3059 - Porsche garage, Swindon
+UKP3060 - Caxton Works
+UKP3061 - Starvehall Farm
+UKP3062 - Brownsover Lane, Rugby
+UKP3063 - Clover Chase
+UKP3064 - Sturrick Lane
+UKP3065 - Bedfordwell Road
+UKP3066 - Sparken hill
+UKP3067 - Kings Newton Lane
+UKP3068 - Sutton Way, Ellesmere
+UKP3069 - Barkby Road, Leicester
+UKP3070 - Wilton Project
+UKP3071 - Norman Road - Belvadere
+UKP3073 - Arncliffe road, Halewood
+UKP3074 - Clothier Street
+UKP3075 - Project Ace, Arrowhead Quay
+UKP3076 - Willow way, London
+UKP3077 - Riverside House, Willow Lane
+UKP3078 - Christchurch road, Ferndown
+UKP3079 - Malmaynes Hall Solar Park
+UKP3080 - Compass Point, St Ives
+UKP3081 - Lyons drive, Coventry
+UKP3082 - Markham lane, Markem vale
+UKP3083 - Cornwall Energy Recovery Centre
+UKP3084 - David Lewis st, Liverpool
+UKP3085 - Frame Lane, Doseley
+UKP3086 - Victoria House, Dorset
+UKP3087 - Tower road, Belvadere
+UKP3088 - Rowles Farm PV
+UKP3089 - Ridgmont Plaza
+UKP309 - Compton Grove
+UKP3090 - Limburg ave., Litchfield
+UKP3091 - The Causeway, Petersfield
+UKP3092 - Long Meadow Solar Park
+UKP3093 - Baptist Church, Surrey
+UKP3094 - Aylesborough Close
+UKP3095 - Parc Llanilid
+UKP3096 - Northampton Road, Brackley
+UKP3097 - Frost Lane
+UKP3098 - Silvertown Substation Relocation
+UKP3099 - Mapledurham AD
+UKP3100 - Roundstone Lane
+UKP3101 - Cube Housing, Mitcham
+UKP3102 - Roundstone Lane - Upper Site
+UKP3103 - Chequers lane
+UKP3104 - Ranelagh road
+UKP3105 - Little hay lane
+UKP3106 - Stansgate Road
+UKP3107 - Manor Court PV Farm
+UKP3108 - Henley Cross, Kidbrooke
+UKP3109 - Hermitage lane
+UKP3110 - Whitechapel Development
+UKP3111 - Rudloe Manor
+UKP3112 - Llwyndu Solar Farm
+UKP3113 - Cholsey PV Farm
+UKP3114 - Drovers way
+UKP3115 -  Western Road
+UKP3116 - W11-793 Havelock Estate
+UKP3117 - Manston Business Park
+UKP3118 - Forest Lane, Andover
+UKP3119 - Farthinghoe PV Farm
+UKP312 - Moreton Cullimore
+UKP3120 - 165 Ford House Lane
+UKP3121 - Maes Bach PV Farm
+UKP3122 - Selly Oak Hospital
+UKP3123 - Saddlebow Road Ph2
+UKP3124 - South Close, Bury St Edmunds
+UKP3125 - Poringland, Norwich
+UKP3126 - Police Street
+UKP3127 - Ryarsh Park
+UKP3129 - Johns Lane Farm
+UKP313 - Priory Lane
+UKP3130 - Three Springs Road
+UKP3131 - Brighton Marina
+UKP3132 - Wharf Road, Rushden
+UKP3133 - Preston Hall&RBLV
+UKP3135 - Royal Wharf Phase 1 LV
+UKP3136 - Moorgreen Hospital
+UKP3137
+UKP3138 - Cambourne Primary School
+UKP3139 - Newcross Kingsteignton
+UKP3140 - Seabrook Orchards
+UKP3141 - The Close, Ashford
+UKP3142 - Littleport School
+UKP3143 - Egmanton PV Farm
+UKP3144 - Flit Farm PV
+UKP3145 - Gaultney Solar Park
+UKP3146 - King Alfred Way
+UKP3147 - Middle Court
+UKP3148 - Highmead House, Alton
+UKP3149 - Sandyfields Nursery
+UKP315 - Nigeria Jamboree
+UKP3150 - St John Road, Hedge End
+UKP3151 - Hamilton Lane
+UKP3152 - Havelock Lane
+UKP3153 - Land Off Forest House Lane
+UKP3154 - Costock Road
+UKP3155 - Atherstone Road
+UKP3156 - Howard Road
+UKP3157 - Larner Road - Phase 2
+UKP3158 - Bardon Road
+UKP3159 - Priors Avenue
+UKP3160 - Whitehill Road
+UKP3161 - Common PV Farm
+UKP3162 - Virgo Fidelis
+UKP3163 - Ashby De La Zouch
+UKP3165 - Mill Street
+UKP3166 - Freemantle Common Road
+UKP3167 - Domino Printing Plant
+UKP3170 - Monarch Way, Southampton
+UKP3171 - Infiniti Dev 06
+UKP3172 - Land Off Warwick Road
+UKP3173 - Woodberry Down Estate
+UKP3174 - Broad Road, Hambrook
+UKP3175 - Afan Valley Road
+UKP3176 - Carmen Street
+UKP3177 - Gower View Road
+UKP3178 - Seabrook Orchards, Phase 2
+UKP3179 - Valley Grown Nurseries
+UKP3180 - North Hylton Road, Sunderland
+UKP3181 - Lyon House Harrow
+UKP3182 - Lythalls Lane, Phase 2.01
+UKP3183 - Dittons Road
+UKP3184 - Lythalls Lane, Phase 2.02
+UKP3185 - Walnut Tree Close
+UKP3186 - Holton Heath
+UKP3187 - Westfield Lane
+UKP3188 - Place PV Farm
+UKP3189 - Pithayes PV Farm
+UKP319 - Amesbury
+UKP3190 - Upper PV Farm
+UKP3192 - Ridings PV Farm
+UKP3194 - Derwen View
+UKP3195 - Doseley Road
+UKP3196 - Smallfield Road
+UKP3197 - Hill Top Farm
+UKP3200 - Highworth Services
+UKP3201 - BCT Heathfield
+UKP3202 - Wherry Road
+UKP3203 - Heston Site A
+UKP3204 - Oakley Vale
+UKP3206 - Heathside & Lethbridge
+UKP3207 - Bedhampton Hill
+UKP3208 - Bloxham Road, Banbury
+UKP3209 - Havil Street
+UKP321 - 1 Portbury
+UKP3210 - Retirement Village, Hawking
+UKP3211 - Broadway Green
+UKP3212 - The Bridge, Dartford
+UKP3215 - The Old Vinyl Factory
+UKP3216 - The Trial Ground, Langport
+UKP3217 - West Drayton
+UKP3218 - Northbrook College
+UKP3219 - BAC Diversions
+UKP3220 - 1 Aylesford Way
+UKP3221 - Pebsham Lane
+UKP3222 - Marie Davis Court
+UKP3223 - Stablebridge Road
+UKP3224 - Hill End Road
+UKP3225 - Burnham House, Malmesbury
+UKP3226 - Tingewick Road
+UKP3227 - University Arms Hotel
+UKP3228 - Unit 6 Holborn Avenue
+UKP3229 - 145 City Road
+UKP3230 - Chandos Way
+UKP3231 - Coldharbour Lane
+UKP3232 - High Wycombe Leisure Centre
+UKP3233 - Harbour Road
+UKP3234 - Land off Snellsdale Road
+UKP3235 - Higham Road
+UKP3236 - Lowfield Road
+UKP3237 - Gotherington Lane
+UKP3238 - Copley Phase 2
+UKP3239 - Long Hassocks, Rugby
+UKP3240 - Boxted Solar Farm
+UKP3241 - Tranby Road
+UKP3242 - Blackthorn Road
+UKP3243 - College Lane
+UKP3244 - Brick Kiln Lane
+UKP3246 - Digital Village
+UKP3247 - Delta Point
+UKP3248 - St. Leonards
+UKP3249 - Kidbrooke Village Ph3
+UKP325 - Hampton Vale
+UKP3250 - Holton Heath 4MVA 11kV Supply
+UKP3251 - Church PV Farm
+UKP3252 - Barnfield Solar Park
+UKP3253 - Sugar Quay
+UKP3254 - University Arms Hotel TBS
+UKP3256 - Wingmoor Farm
+UKP3257 - Enid Wood House
+UKP3258 - Nineham Gardens
+UKP3259 - Valebridge Road
+UKP3260 - Hackwood Farm
+UKP3261 - Northampton Road
+UKP3262 - Hawden Farm
+UKP3263 - Brymbo Steel Works
+UKP3264 - Hertsmere House
+UKP3265 - Bridgewater Drive
+UKP3266 - Abbey Street, Birkenhead
+UKP3267 - De Hallivand Drive
+UKP3268 - Selly Oak School
+UKP3269 - Five Oaks Lane
+UKP327
+UKP327 - Six Acres TBS2
+UKP3270 - 100 Minories - TBS
+UKP3271 - Filands Farm
+UKP3272 - New Street, Chipping Norton
+UKP3273 - Top Farm, Kemble
+UKP3274 - Coventry Road, Hinckley
+UKP3275 - Shopwyke Lakes
+UKP3276 - Lawn Farm, Welland
+UKP3277 - Chapel PV Farm
+UKP3279 - Sipson Solar Farm
+UKP3281 - Flour Mill, Ramsgate
+UKP3282 - Rogers Lane
+UKP3283 - Bovey Tracy
+UKP3284
+UKP3285 - Seabrook Orchards, Phase 3
+UKP3286 - Cranleigh Road, Surrey
+UKP3287 - Caistor Lane
+UKP3288 - Rose Hill Community Centre
+UKP3289 - Forest Road, Sobnall
+UKP3290 - Woodgate Drive, Chellaston
+UKP3291 - Loughborough Road
+UKP3292 - Westlea, Leagrave
+UKP3293 - Johnstown Development 2.1MVA
+UKP3294 - Birmingham Road
+UKP3295 - Lionel Road
+UKP3296 - Lionel Road TBS
+UKP3297 - Bath Lane, Fareham
+UKP3298 - Skinners Farm
+UKP330 - Dartex LV
+UKP3300 - Ring O Bells PV Farm
+UKP3301 - Nailcote PV Farm
+UKP3303 - Tylers Site, Dartford
+UKP3304 - Cavendish Park
+UKP3305
+UKP3306 - Station Road, Pershore -South Site
+UKP3307 - Top Road, Kempsford
+UKP3308 - Loves Lane
+UKP3309 - Ruckholt Road
+UKP331 - Lower Buckland Wind Generation
+UKP3310 - Over Ridge PV Farm
+UKP3311 - Garth Hill College
+UKP3312 - 67 Pall Mall
+UKP3313 - Newbury Racecourse
+UKP3314 - Marrable House, Chelmsford
+UKP3315 - Griffin Park
+UKP3316 - Francis House, Walthamstow
+UKP3317 - Frome Road, Bruton
+UKP3318 - Niort Way
+UKP3319 - Kingston Road, Merton
+UKP3320 - Cherry Manor School
+UKP3321 - Langley Drive
+UKP3322 - Wellow Road
+UKP3323 - Beckside Solar Park
+UKP3324 - Gourton Hall PV Farm
+UKP3325 - Green Lane Solar Farm
+UKP3326 - Stratford Road
+UKP3327 - Green Point
+UKP3328 - Quercus Road
+UKP3329 - Greentrees Primary School
+UKP3330 - Milborne Port
+UKP3331 - Houghton Road
+UKP3332 - Sheerness Wind Farm - Connection
+UKP3333 - Dyserth Road
+UKP3335 - Kidbrooke Village Phase 3 Plot A
+UKP3336 - Rydens School
+UKP3337 - Mansfield Leisure Park
+UKP3338 - Mount Oswald
+UKP3339 - Winnersh Triangle
+UKP3340 - Lower Broadheath-Private Works
+UKP3341 - Whitehall Garden Centre-Private Works
+UKP3342 - Manchester Fire and Rescue
+UKP3343 - Bach Church Lane
+UKP3344 - Abergarw Road
+UKP3345 - Western Bowl
+UKP3346 - Low Farm AD
+UKP3347 - Land Off the Mead
+UKP3348 - Rockingham Road
+UKP3349 - Temple School, Strood
+UKP335 - Weston Road
+UKP3350 - Brently Hospital, Bristol
+UKP3351 - Cuckoo Grove Farm - Phase 2
+UKP3352 - Land at Station Road  Walmer
+UKP3353 - Salford Road
+UKP3355 - Duloe Road
+UKP3356 - Hogarth Business Park
+UKP3357 - Style Road Phase 3
+UKP3358 - 128-150 Blackfriars Road
+UKP3359 - Barncroft Care Scheme
+UKP3360 - Edinburgh Building
+UKP3361 - Clacton Factory Outlet
+UKP3362 - Biggleswade Services
+UKP3363 - Metropolitan Wharf
+UKP3364 - Largo Road, Fife
+UKP3365 -  Isleworth House, Richmond Road
+UKP3366 - Park Farm Road, Kent
+UKP3367 - Cummings Nursery
+UKP3368 - Westaway
+UKP3369 - Grange Walk, London
+UKP3370 - Royal Albert Docks Budget
+UKP3371 - AGNEW, Durham
+UKP3372 - Alfreton
+UKP3373 - The Mosseley
+UKP3374 - Plough Hill Road
+UKP3375 - Granville Road
+UKP3376 - Broadacres Extra Care
+UKP3377 - Weston Lane, Totnes
+UKP3378 - 1 Drum Park - Connection
+UKP3379 - Lower Hillmorton Road
+UKP3380 - Drift Road, Selsey
+UKP3381 - Baddesley Close
+UKP3382 - 1 Drum Park - Private Works
+UKP3383 - Axis House
+UKP3385 - Sheerness Wind Farm - Private
+UKP3386 - Wembley, Wates
+UKP3387 - CPC2 Capital Park
+UKP3388 - Old Cambridge Water Company
+UKP3389 - Royal Minoco Wharf Phase 2A
+UKP3390 - Bridgwater Hotel
+UKP3391 - St. Georges Lane
+UKP3392 - Raeburn Road
+UKP3393 - Burnside Avenue
+UKP3394 - Marshalls Court
+UKP3395 - Trelawne PV Farm
+UKP3396 - Dunmow Rd
+UKP3397 - Holbrook Club Site
+UKP3400 - RAF Newton
+UKP3401 - Eastway, Preston
+UKP3402 - Sherford New Market Town
+UKP3403 - Sherford New Market Town - Phase 1
+UKP3404 - Royal Wharf Phase 2B
+UKP3405 - Orpington Police Station
+UKP3406 - Hawley Lane, Frimley
+UKP3407 - Post and Mail Phase 2
+UKP3408 - Farm Lane, Leckhampton
+UKP3409 - Creek Road - Site Office
+UKP3410 - Rose Hill
+UKP3411 - 90-92 Blackfriars Road
+UKP3412 - Isledon Road, Islington
+UKP3413 - Todenham Road, Moreton in Marsh
+UKP3415 - Tilston Road, Malpas
+UKP3416 - Olympic Way, Wembley
+UKP3417 - Rumbush Lane, Dickens Heath
+UKP3418 - The Eshings, Welton
+UKP3419 - Lawrence Weston College
+UKP3420 - Salusbury Road
+UKP3421 - Clapham Road
+UKP3422 - Hook Moor Wind Farm
+UKP3423 - Curtis Fields
+UKP3425 - Sentry's Farm, Exminster
+UKP3426 - Collins Theatre
+UKP3427 - Watnall Road, Hucknall
+UKP3428 - Highgate Police Station
+UKP3429 - Severnside Dairy - Phase 1
+UKP3430 - Main Road
+UKP3431 - Castle Way
+UKP3432 - Avonmouth BioMass
+UKP3433 - Midland Road
+UKP3434 - War Memorial Hospital
+UKP3435 - Tiverton
+UKP3436 - Rydens School, Phase 2
+UKP3437 - Kings Reach
+UKP3438 - Princess Way
+UKP3439 - 1772 Badminton Road
+UKP3440 - Kingston Gas Works
+UKP3441 - Bhaktivedanta Manor
+UKP3442 - Runwell Hospital
+UKP3443 - Hamelin Road
+UKP3444 - New Farm PV
+UKP3445 - West Hill Golf Club
+UKP3446 - New Lane, Blidworth
+UKP3447 - Homelands
+UKP3448 - IBIS Hotel
+UKP3449 - Tamworth Street
+UKP3450 - Leytonstone School
+UKP3451 - Kings Crescent, Hackney-DZ2
+UKP3452 - Prospero House
+UKP3453 - Weldon Park
+UKP3455 - Newtown Road
+UKP3456 - Welshmill Lane
+UKP3457 - 39-40 Lowndes Square
+UKP3458 - Leamouth North Phase 1 - LV
+UKP3459 - Haywood Village
+UKP3460- The Music Box, Union Street
+UKP3461- Boreham Road
+UKP3462- Garforth Care Home
+UKP3463- Wimblington, Cambridge
+UKP3464 - Brue Farm
+UKP3465 - Overstone House
+UKP3466 - Land off Main Street
+UKP3467 - Graven Hill Village
+UKP3468 - Fiery Hill Road
+UKP3469 - 68-70 High Street, Stratford
+UKP3470 - W11 - 793 Havelock Estate Phase 1B
+UKP3471 - West Haven Care Home
+UKP3472 - CFA Fire Brigade HQ
+UKP3473 - Binhamy Farm - Phase 2
+UKP3474 - Marley Park Fire Station
+UKP3475 - Former Premier Site, Eastleigh
+UKP3477 - Wharf Road
+UKP3478 - Lowfield Lane
+UKP3479 - Train Depot
+UKP3480 - Kidbrooke Village, Disconnections
+UKP3481 - Dockside Road
+UKP3482 - St. Mary Axe, London
+UKP3483 - Coombes Green Estate
+UKP3484 - Abbey Retail Park
+UKP3485 - Charlton Academy
+UKP3486 - Neptune Wharf
+UKP3487 - Dockside Road, TBS
+UKP3488 - Ladderswood LV Blocks K, L, M, N & V
+UKP3489 - Heol Llywyn Bedw
+UKP3490 - Finway Road
+UKP3491 - Snedshill Way
+UKP3492 - Peris Hydro - Private Works
+UKP3493 - Blackgreaves Farm
+UKP3494 - Former Saxon Foods
+UKP3495 - Hole Lane
+UKP3496 - Gardenia Close
+UKP3497 - Amelia Street
+UKP3499 - Mill Lane, Derbyshire
+UKP3500 - Milton Road, Adderbury
+UKP3501 - Close Lane, Alsager
+UKP3502 - Sheerwater
+UKP3503 - Gascoigne Estate
+UKP3504 - Saxon Quater, Cheltenham
+UKP3505 - Sunshine House
+UKP3506 - King's Dock, Liverpool
+UKP3507 -Sugar Quay
+UKP3508 - Fazakerley Wastewater Plant
+UKP3509 - 166 Borough High Street
+UKP3510 - Thorney Road
+UKP3511 - Marsh Lane
+UKP3512 - Lynn Sport 3
+UKP3513 - Balance Street
+UKP3514 - Trostre Park
+UKP3515 - Mare Street
+UKP3516 - Former Novartis, Horsham
+UKP3517 - Epworth House
+UKP3520 - Woodfield House PV
+UKP3521 - Hogarth Court
+UKP3522 - Wilsom Road
+UKP3523 - Winterstoke 8MVA
+UKP3524 - Kings Crescent, Hackney DZ1 & DZ3
+UKP3525 - Loughborough Road, Thringstone
+UKP3526 - Mill Street, Tipton
+UKP3527 - Winterstoke - Phase 2 (1600 units)
+UKP3528 - Grigg Lane - Nursery
+UKP3529 - Darkhouse Lane
+UKP3530 - Higher Thorn PV Farm
+UKP3531 - Newton Down PV Farm
+UKP3532 - Moorhouse Lane
+UKP3533 - Bedford Road, Dunstable
+UKP3534 - Westinghouse, Chippenham
+UKP3535 - Abberd Lane, Calne
+UKP3536 - Cifynydd Solar Farm
+UKP3537 - Lincoln Road
+UKP3538 - Greater Fernwood
+UKP3540 - Edwalton, Nottingham
+UKP3541 - Church Lane, Weddington
+UKP3542 - Ronald McDonald House
+UKP3543 - Naylorsfield Drive
+UKP3544 - Cookes Lane, Northwich
+UKP3545 - Hall Green Road
+UKP3546 - Carlyon Bay
+UKP3547 - North Hykeham Phase 6
+UKP3548 - Land Off Marshfoot Lane
+UKP3549 - Princess Building, Halifax
+UKP355 - UC11 Cambourne
+UKP3550 - Church Wilne WTW
+UKP3551 - Kirby in Ashfield STW
+UKP3552 - Worcester STW
+UKP3553 - GMWDA - Exide Batteries
+UKP3554 - Lostock
+UKP3555 - Rivington
+UKP3556 - Altringham
+UKP3557 - Leigh
+UKP3558 - Moreton Road
+UKP3559 - Stafford Road - Site 1
+UKP3560 - Stafford Road - Site 2
+UKP3561 - Blackbird Road
+UKP3562 - Stratford Park
+UKP3564 - Mill Lane, Taplow
+UKP3565 - Albert Road
+UKP3566 - Europa Way
+UKP3567 - Shorncliffe Barracks Sandgate
+UKP3568 - Wembley NW09
+UKP3569 - Pasture Lane
+UKP3570 - Avenue Road, Kent
+UKP3571 - Waterside Development
+UKP3572
+UKP3573 - Knobsbury Lane
+UKP3576 - Heather Lane, Ravenstone
+UKP3578 - Trevassack Road
+UKP3579 - Former Compair Site
+UKP3580 - Urban Eden Project
+UKP3581 - Matrix Park
+UKP3582 - Ashdown Business Park
+UKP3584 - Seeds Lane
+UKP3585 - Reach Community Solar Farm
+UKP3586 - Grenadier House
+UKP3587 - Treharne Lane
+UKP3588 - Scott's Road, Bromley
+UKP3589 - Hillside Farm
+UKP3590 - Oaklands Road
+UKP3591 - Sandford
+UKP3592 - Mill Road, Hertfordshire
+UKP3593 - Mill Lane
+UKP3594 - Abingdon Road, Drayton
+UKP3595 - Abingdon Road, Seventon
+UKP3596 - Walsingham Road, Binham
+UKP3597 - Wood Lane, Partington
+UKP3598 - Holt Road, Edgefield
+UKP3599 - Eagle Road, Erpingham
+UKP3600 - Heart of Maylands
+UKP3601 - New Road, Teignmouth
+UKP3602 - Josselin Road
+UKP3603 - Premier Inn
+UKP3604 - Canons Close
+UKP3605 - High Street, West drayton
+UKP3607 - Parsonage Lane
+UKP3608 - Kingsway Dunstable
+UKP3609 - Steppingley Road
+UKP3610 - Genner Road
+UKP3611 - Bassett Road, Halesowen
+UKP3612 - St George's Road, Abergele
+UKP3613 - Lindle, Congleton
+UKP3614 - The Old Vinyl Factory Phase 2
+UKP3615 - Heath Farm
+UKP3616 - Queensbridge House
+UKP3617 - IKEA Doncaster
+UKP3618 - Portland Gardens
+UKP3619 - Hilderstone road
+UKP3620 -Easter Park Beam Reach
+UKP3621 - Merland Rise
+UKP3622 - Plot C, Olympic Way
+UKP3623 - Skeavington's Lane
+UKP3624 - Oakley Vale Phase 5
+UKP3625 - Ashland Road
+UKP3626 - George Street
+UKP3627 - Heston Road
+UKP3628 - The Old Vinyl Factory Phase 2, Laterals
+UKP3631 - Homeleigh Street
+UKP3632 - Bearscroft
+UKP3633 - Allen Road
+UKP3634 - Montecchio Way, Holybourne
+UKP3635 - Hepworth Brewery
+UKP3636 - Nadder Lane
+UKP3637 - Ledgers Road
+UKP3638 - The Wharves Deptford
+UKP3639 - Littlehampton
+UKP3640 - Coldeast Hospital
+UKP3641 - Cutty Sark House
+UKP3642 - London Road, Hassocks
+UKP3643 - The Collective Old Oak
+UKP3644 - Jenks Avenue
+UKP3645 - Tiverton Golf Course
+UKP3646 - Altira Park - Temps
+UKP3648 - Warwick Road
+UKP3649 - Cosby Road
+UKP3650 - Shutterton Park
+UKP3651 - Quarryfields Industrial Estate
+UKP3652 - First Point
+UKP3653 - Willow Row
+UKP3654 - York Road
+UKP3655 - Plantation Wharf
+UKP3656 - Water Tower - Delamere
+UKP3657 - Broadfield Lane
+UKP3658 - Laleston Solar Farm
+UKP3659 - Lindridge Road
+UKP3660 - Wolsey Way Phase 2
+UKP3661 - Lombard Street
+UKP3662 - Volvo House, Marlow
+UKP3663 - BLETCHINGLEY ROAD
+UKP3664 - Todenham Road
+UKP3666 - Ashford Road
+UKP3667 - Kohler Mira Redevelopment
+UKP3668 - Church Street, Langford
+UKP3669 - Quarry Wood, Aldington
+UKP3670 - New Era Square-phase1
+UKP3671 - Watling Street Road
+UKP3672 - Green Dragon & Canius House
+UKP3673 - Court Farm
+UKP3674 - Oak Park Leisure Centre
+UKP3675 - Norwich Riverside
+UKP3676 - Moor Park, Commercial
+UKP3677 - Moor Park, Residential
+UKP3678 - Embassy Gardens - A03-A05
+UKP3679 - Robey Close
+UKP368 - Rydons Way
+UKP3680 - Bassett Road
+UKP3681 - Woolavington Community Heating
+UKP3682 - BNO
+UKP3683 - Marston Moretaine
+UKP3684 - Hill House
+UKP3685 - Christchurch Road
+UKP3686 - Hathersage Road
+UKP3687 - Earl Street, Flint
+UKP3688 - Elizabeth House, London
+UKP3689 - Solar Farm, Armthorpe
+UKP3690 - Kings Hill Avenue
+UKP3691 - Chalk Lane
+UKP3692 - Vincent Court
+UKP3693 - Hawthorn Road
+UKP3694 - 17 Kings Hill Avenue - Private
+UKP3695 - Swindon Satellite Radiotherapy Centre
+UKP3696 - Chimes Residential Development
+UKP3697 - Little Health Nursery, Chobham
+UKP3698 - 150 Bishopsgate
+UKP3699 - Byron Close
+UKP3700 - Green Lane
+UKP3701 - Towcester Road
+UKP3702 - London Metropolitan University
+UKP3703 - Silvertown Way-GT
+UKP3704 - The Burgage
+UKP3705 - Hall End Road
+UKP3706 - Hounslow Civic Centre
+UKP3707 - Isopad House
+UKP3708 - Cottrell House
+UKP3709
+UKP3710 - Apex House, London
+UKP3711 - Long Lane
+UKP3712 - Exmouth Solar PV
+UKP3713 - Apex Park
+UKP3714 - Southam Road
+UKP3715 - Warmwell Quarry
+UKP3716 - Arla Dairies
+UKP3717 - Thurgaton Way
+UKP3718 - Harwich McDonald's
+UKP3719 - Ashton McDonald's
+UKP372 - Centenary Quay
+UKP3720 - Tonbridge McDonald's
+UKP3721 - Hertford Road
+UKP3722 - Hornbeam Close
+UKP3723 - Billinghurst
+UKP3724 - Lubbesthorpe
+UKP3725 - Great Easter Quay, Phase 1
+UKP3726 - Widnes McDonald's
+UKP3727 - Barr's Yard
+UKP3728 - Grafton Street
+UKP3729 - Cranford PV - Private
+UKP3731 - Clayton Road
+UKP3732 - Gwillams Farm
+UKP3733 - Bedford Road, Houghton Regis
+UKP3734 - 588 Lea Bridge Road
+UKP3735 - Hanley Road
+UKP3736 - Parsons Green
+UKP3737 - Shooters Road
+UKP3738 - Potton Road
+UKP3739 - Kew Bridge Road, Brentford
+UKP3740
+UKP3741 - St Pauls Way
+UKP3742 - Coby Road
+UKP3743 - Nelson Road
+UKP3744 - Audi Dealership
+UKP3745 - Morton Hall New School
+UKP3746 - Former Potato Farm
+UKP3747 - West Cross Lane
+UKP3748 - Opus Phase 2
+UKP3751 - Godinton Road
+UKP3752 - Broadway
+UKP3754 - Llantrisant Road
+UKP3755 - Needler Hall
+UKP3756 - Weston Lane
+UKP3757 - Wood Wharf
+UKP3758 - High Street Sutton
+UKP3759 - Brickdale House
+UKP3760 - Kingswood Road
+UKP3762 - Kent Close
+UKP3763- Shepherds Bush Market
+UKP3764 - Creswell
+UKP3765 - Martello Caravan Park
+UKP3766 - St Johns Park
+UKP3768 - Essex House
+UKP3769 - Holborough Lakes 6,7&11
+UKP377 - Earls Court Farm
+UKP3770 - Measham Road
+UKP3771 - New River Retail
+UKP3772 - 2 Cornwall Street
+UKP3773 - 33 London Road, Enfield
+UKP3774 - 79 Camden Road
+UKP3775 - Lime Street, Liverpool
+UKP3776 - St Johns Wood TBS
+UKP3777 - Chelsea Island
+UKP3778 - Royal Free Hospital
+UKP3779 - Conduit Street
+UKP378 - Weston Business Quarter
+UKP3780 - Knowle Avenue
+UKP3781 - Glasshouse Development
+UKP3782 - Union Road
+UKP3783 - Caledonian Road
+UKP3784 - Goch Way
+UKP3785 - Warsop Lane
+UKP3786 - West Cross Lane
+UKP3787 - Victoria Drive, Wandsworth
+UKP3788 - Hopkinson Way
+UKP3789 - Seabrook Orchard, Phase 1-2
+UKP3790 - Horsham McDonald's
+UKP3791 - Village Dairy
+UKP3792 - Smiths Gloucester
+UKP3793 - Ickenham - Flats
+UKP3794 - Brize Norton
+UKP3797 - Bigginswood
+UKP3798 - Bridge Nursery
+UKP3799 - Wembley NW06
+UKP3800 - Royal Wharf Phase 2A
+UKP3801 - Royal Wharf Phase 2A LV
+UKP3802 - Quebec Way
+UKP3804 - Lakeland Concrete
+UKP3805 - Hazel Close
+UKP3806 - Fodens Park
+UKP3808 - Ladderswood Phase 2 Substation
+UKP3809 - Cirencester Road
+UKP3810 - 51 College Road
+UKP3811 - Stansted Road
+UKP3812 - Vincent Court
+UKP3814 - Pershore Road
+UKP3815 - Melton Road
+UKP3816 - Brick Kiln Road
+UKP3817 - Southfields School
+UKP3818 - Moat Lane
+UKP3819 - H Tuckwell & Sons
+UKP382 - Cheney Manor
+UKP3820 - Longfields, Marcham
+UKP3821 - Park Lane, Telford
+UKP3822 - Barnham Road
+UKP3823 - Aigburth School
+UKP3824 - Mock PV Farm
+UKP3825 - Kew Bridge Road TBS
+UKP3826 - Pinewood Studios
+UKP3827 - Randlay Avenue
+UKP3828 - Celsea Place
+UKP3829 - South Road
+UKP3830 - Oundle Road, Peterborough
+UKP3831 - CQW Phase 4
+UKP3832 - Hafod Y Gest
+UKP3833 - Wardentree Lane
+UKP3835 - Rectory Court
+UKP3836 - Brookwood Road
+UKP3837 - Midsummer Avenue
+UKP3838 - Barkham Road
+UKP384 - Woodside - Hailsham
+UKP3840 - Kennel Farm
+UKP3841 - Edgeware Road, London
+UKP3842 - Laboratory Square Royal Arsenal
+UKP3843- Gorseinon, Swansea
+UKP3844 - Frome Way
+UKP3845 - Station Road,Langford
+UKP3846 - Leicester Road
+UKP3847 - Manor Close, Henfield
+UKP3848 - Coventry Road, Cawston
+UKP3849 - Don Valley Development
+UKP3850 - Old Bedford Road
+UKP3851- Glaucus Street
+UKP3852 - Grosvenor Road, Wrexham
+UKP3853 - Waterfront Huddersfield
+UKP3854 - Queens House
+UKP3855 - Hafod Y Dafal PV Farm
+UKP3856 - Spire Hospital Nottingham
+UKP3857 - 25 Harley Street
+UKP3858 - Millharbour (Boundary)
+UKP3860 - Wexham Nursery
+UKP3861 - Palace Wharf (Fulham)
+UKP3862 - London Road, Harrietsham
+UKP3863 - Long Island Exchange
+UKP3865 - Alcatel Works
+UKP3866 - The Stadium Shorncliffe Garrison, Folkestone
+UKP3867 - Hardy Farm
+UKP3869 - The Ram
+UKP3871 - Combination Club Long Down Ave
+UKP3872 - Stanton Cross
+UKP3873 - The Business Village
+UKP3874 - Walterbush Road
+UKP3875 - Chapel Drive
+UKP3876 - Mankley Road
+UKP3877 - Haslemere Industrial Estate
+UKP3878 - Snells Mead
+UKP3879 - Costessey 2
+UKP3880 - Land off Forest Road
+UKP3881 - Old Powder Mills Tonbridge
+UKP3882 - Student Accommodation, Birmingham
+UKP3883 - Sunny Bank Wind Turbine
+UKP3884 - Weston Park PV Farm
+UKP3885 - Ashby PV Farm
+UKP3886 - Eustace Crescent
+UKP3887 - Wigmore PV Farm
+UKP3888 - Marina Quay, Rhyl
+UKP3889 - RAF Marham - Disconnections
+UKP3890 - Station Road, London
+UKP3892 - Forest Road, Coalville
+UKP3893 - Latham House Boundary
+UKP3894 - Bishops Cleeve
+UKP3895 - Ely Leisure Centre
+UKP3896 - St Johns Road
+UKP3897 - Stockton Road, Southam
+UKP3898 - Fulmar Drive
+UKP3899 - Palm Gross Green
+UKP390 - Alie Street
+UKP3900 - Hersham Road
+UKP3901 - Bleddfa 2MVA
+UKP3902 - The Music Box,Union Street - TBS
+UKP3904 - Victoria Way, Melbourne
+UKP3905 - Newton Down Wind Farm
+UKP3906 - Spring Park Data Centre
+UKP3907 - Chester Road, Malpas
+UKP3908 - Ashford Designer Outlet Village
+UKP3909 - Llangyfelach Road
+UKP3910 - Mallard Walk
+UKP3911 - Hunters Hill PV Farm
+UKP3912 - Crail PV Farm
+UKP3913 - Pickletillum PV Farm
+UKP3914 - Cameron Reservoir PV
+UKP3915 - Jamesfield PV Farm
+UKP3916 - Tealing PV Farm
+UKP3917 - West Denside PV Farm
+UKP3918 - Kirriemuir PV Farm
+UKP3919 - Pressock PV Farm
+UKP3920 - Bridge PV Farm
+UKP3921 - Westerton PV Farm
+UKP3922 - Ferryden PV Farm
+UKP3923 - Rotherdale - Tx's - Midel
+UKP3925 - Sutton Road
+UKP3926 - Care Home, Land Adjacent to Fosseway
+UKP3927 - St Joseph's Primary
+UKP3928 - Our Lady's Primary School
+UKP3931 - Ellesmere Road
+UKP3932- Frame Lane, Doseley - Phase 2 & 3
+UKP3933 - Allie Street
+UKP3934 - William Jessop Way
+UKP3935 - Shooters Way
+UKP3936 - Haven Drive
+UKP3937 - Boxwood
+UKP3938 - Kane Cose, Coalville
+UKP3939 - Kings Observatory
+UKP3940 - Greencroft PV Farm
+UKP3941 - Desford Lane PV Farm
+UKP3943 - Durham Road PV Farm
+UKP3944 - Morton Wood PV Farm
+UKP3945 - Mathafarn PV Farm
+UKP3946 - Brook Farm
+UKP3947 - Shepherds Bush Market Trial Holes
+UKP3948 - Former Samas
+UKP3949 - Tyncwm PV Farm
+UKP3950 - Midland Road
+UKP3951 - The Parsonage
+UKP3952 - Biggins Wood - Phase 2
+UKP3953 - Biggins Wood - Phase 3
+UKP3954 - Norwich Road
+UKP3955 - 191 - 193 Western Road
+UKP3956 - Firbeck, Skelmersdale
+UKP3957 - Land North of Witney
+UKP3958 - Harvest Road TBS
+UKP3959 - Plot C, Wembley - TBS
+UKP396 - Knowle Lane
+UKP3960 - Station Road, Phase 1
+UKP3961 - Gainsford Ave
+UKP3962 - Squires Avenue
+UKP3963 - Canopus PV Farm
+UKP3964 - Gonerby Moor PV Farm
+UKP3965 - Pinhoe Quarry
+UKP3966 - Augusta Park
+UKP3968
+UKP3969 - Upperthong Lane
+UKP3970 - Abbey Leisure Village
+UKP3971 - Burnham Wick PV
+UKP3972 - Collins Drive
+UKP3973 - Old Springs Farm AD
+UKP3974 - 118 Eaton Square
+UKP3975 - Moira Road
+UKP3976 - Greenlands Road
+UKP3977 - Crewe Gateway
+UKP3978 - Berwick Street
+UKP3979 - Spring Road, Tyseley
+UKP398 - Croft Community School
+UKP3980 - Ladyhole PV Farm
+UKP3981 - Hewitt Street Leyland
+UKP3982 - Elton Road PV
+UKP3983 - Swallowfield Road PV
+UKP3984 - Burton Road
+UKP3985 - Spire Hospital, Manchester
+UKP3986 - Shorncliff Phase 2
+UKP3987 - Brennan Road
+UKP3988 - Wolfreton School
+UKP3989 - Fields Road
+UKP3990 - The Shand
+UKP3991 - London Crossrail Depot
+UKP3992 - Cradle Bridge
+UKP3993 - Walpole Court
+UKP3994 - Canada Water Retail Park
+UKP3995 - Buckingham Gate
+UKP3996 - Buckingham Gate TBS
+UKP3997 - Mill Lane
+UKP3998 - Woodlands Farm
+UKP3999 - Carpenders Park Farm
+UKP400 - Eltham Baths
+UKP4000 - Green Park Way
+UKP4001 - Midland Road
+UKP4002 - Ansley Warehouse
+UKP4003 - Tower Point
+UKP4004 - Redwood Site
+UKP4005 - Main Street
+UKP4006 - The Capitol Leisure Park
+UKP4008 - Cytec ACE Unit
+UKP4009 - Yardley Court
+UKP4010 - Royal Victoria Dock
+UKP4011 - Keybridge House
+UKP4012 - 128-150 Blackfriars Road TBS
+UKP4013 - Warwickshire College
+UKP4014 - Browns Lane
+UKP4015 - Tyn Pwll
+UKP4016 - Welland Road
+UKP4017 - The Sands
+UKP4018 - St Mary's Drive
+UKP4019 - Merseyside Fire & Rescue Service
+UKP4021 - Balden Road
+UKP4022 - Stanley Villa Farm
+UKP4023 - Lodgelands Ardingly
+UKP4024 - Kingsmead South Sites 3 & 4
+UKP4025 - 45 South Street
+UKP4026 - Belong Village
+UKP4027 - New Barn Farm
+UKP4028 - Millpond Road
+UKP4029 - Grove Road
+UKP403 - Marsh Lane, Solihull
+UKP4030 - Island Green McDonalds
+UKP4031 - Watnall PV Farm
+UKP4033 - Union House
+UKP4034 -
+UKP4035 - Landata House
+UKP4036 - Bartons Road
+UKP4037 - Eastern Road, Willaston
+UKP4038 - Wembley NW08
+UKP4039 - Laundry Loke
+UKP404 - Plot E Tungsten Park
+UKP4040 - C2 Extra Care Facilty
+UKP4041 - Land Off Spring Dale
+UKP4043 - Ridgeway High School
+UKP4044 - Nuffield Road
+UKP4046 - Stoke Road, Slough
+UKP4047 - Tregony Road
+UKP4048 - Ruth Gorse Academy
+UKP4049 - Abbey Road
+UKP4050 - Abbey Road - 800 kVATBS
+UKP4051 - Pocklington phase 3a
+UKP4052 - Walsall ACT Facility
+UKP4053 - Hanger Lane
+UKP4054 - Doulton Road
+UKP4056 - Chockbury Lane
+UKP4057 - Napier Road
+UKP4059 - Braemore Road
+UKP406 - The Wells, Bromyard
+UKP4060 - Old Bracknell Lane
+UKP4062 - Severn Street
+UKP4063 - A49 - Hereford
+UKP4064 - High Grange School
+UKP4065 - Salterforth
+UKP4066 - Withington
+UKP4067 - McDonalds Burntwood
+UKP4068 - Northampton Road
+UKP4069 - Humberston Avenue
+UKP407 - St Weonards
+UKP4070 - Hamble Lane
+UKP4071 - Bishop Wilson Phase 2
+UKP4073 - Burbo Bank Extension
+UKP4074 - New Era Square-phase2
+UKP4075 - High Wycombe
+UKP4076 - Mill Street, Ottery St. Mary
+UKP4077 - Yarmouth Road
+UKP4078 - Carlow House
+UKP4079 - Minerva Street
+UKP4080 - Old Guildford Road
+UKP4081 - Faibairn House
+UKP4082 - Wilderness House
+UKP4083 - Furlong Way
+UKP4084 - Dell Road
+UKP4085 - Merlin Park
+UKP4086 - Putney High Street
+UKP4087 - Browning Road
+UKP4088 - New Crofton
+UKP4089 - Beauchamp Road
+UKP4090 - Bridge Road
+UKP4091 - Adelaide Road
+UKP4092 - Kidbrooke Village - Supplies Change
+UKP4093 - 201-207 Shoreditch High Street
+UKP4094 - Phase 4-5 - Grafton Way
+UKP4095 - Michaelston Grange
+UKP4096 - Kidbrooke Village Phase 3 Standish NTR
+UKP4097 - Benbrook Farm
+UKP4098 - Main Road, Northamptonshire
+UKP4099 - Harts Lane
+UKP4100 - High Road, Whetstone
+UKP4101 - Markham Lane
+UKP4102 - Tiverton Road
+UKP4103 - Marjory Kinnon School
+UKP4104 - Victoria Road
+UKP4106 - DIRFT - Commercial
+UKP4107 - Horsehay
+UKP4108 - Land West of Mead Park
+UKP4109 - Downsview Road
+UKP411 - Beasley Place
+UKP4112 - Fflorest
+UKP4113 - Springhead Phase 3
+UKP4114 - Yapton Road
+UKP4115 - Thorpe Lane
+UKP4116 - Station Rd
+UKP4117 - Blackwall Road
+UKP4118 - Wood Burcote
+UKP4120 - Colton Mill PV Farm
+UKP4122 - A47 Storage Depot
+UKP4125 - Greenwich Retail
+UKP4126 - High Wycome Retirement Village
+UKP4127 - Willian Road
+UKP4128 - Gaul Road
+UKP4129 - 293 - 295 Old Street
+UKP413 - Egerton Road
+UKP4130 - Waterbrook Park
+UKP4131 - Orchard PV Farm
+UKP4132 - Bishops Waltham PV Farm
+UKP4133 - Melton PV Farm
+UKP4134 - Woods Beck PV Farm
+UKP4135 - Langar PV Farm
+UKP4136 - Blackmoorfoot PV Farm
+UKP4137 - Lane Head PV Farm
+UKP4138 - Whittington PV Farm
+UKP4139 - Cathedral Square
+UKP4140 - Tile Hill
+UKP4141 - Stockwell Avenue
+UKP4142 - Goresbrook Leisure Centre
+UKP4143 - Former Rat & Parrot
+UKP4144 - Navigation Park
+UKP4145 - 18 Blackfriars Road
+UKP4146 - Wembley NW06 Cable Lay
+UKP4147 - Parkstile Lane
+UKP4148 - Tangier Lane
+UKP4149 - King Ecgbert School
+UKP415 - Winters Lane
+UKP4150 - Rothwell
+UKP4151 - Nottingham Road
+UKP4152 - Stoke Poges
+UKP4153 - Woburn Drive
+UKP4154 - Rufford Lane PV Farm
+UKP4155 - Royal Mint Street Blocks B, C & D
+UKP4156 - Darenth Road
+UKP4157 - Fairacres
+UKP4158 - Whipps Cross Hospital
+UKP4159 - Temple Green
+UKP416 - Gloucester Road
+UKP4160 - St Marys Plot - Sheffield
+UKP4161 - Stapehill PV Farm
+UKP4162 - Ruby PV Farm
+UKP4163 - Unite, FGS - TBS
+UKP4164 - Hunter Street
+UKP4165 - Malting Lane
+UKP4166 - Hungerford Farm
+UKP4167 - Anfield, Phase 4
+UKP4168 - Westgate Morcambe
+UKP4169 - Unit L, Quedgeley Business Park
+UKP4170 - The Moor - Block 1 Phase 2
+UKP4171 - Randalls Road
+UKP4172 - DIRFT - Residential
+UKP4173 - Pye Green Phase 2
+UKP4174 - Dukes Meadow Drive
+UKP4175 - St Paul's Way TBS
+UKP4176 - Xerox
+UKP4177 - Grove Road
+UKP4178 - Lime Street
+UKP4180 - Abbey Road - 80 kVA TBS
+UKP4181 - Holloway University - Private Works
+UKP4182 - South Street
+UKP4183 - Helical, St John's Road Car Park
+UKP4184 - Nanscawen Road
+UKP4185 - Merrydown Factory
+UKP4186 - Langarth Farm Development
+UKP4188 - Epping Forest Shopping Park
+UKP4189 - Rugby Rd
+UKP4190 - Vickery Lane PV Farm
+UKP4191 - Battersea Gardens
+UKP4192 - Excel
+UKP4194 - Kestrel Way
+UKP4195 - Land at Bell Farm
+UKP4196 - Grange Stud Farm
+UKP4197 - St Lukes Hospital
+UKP4198 - Maylands Avenue
+UKP4199 - London Road, Wheatley
+UKP4200 - Lower Cape
+UKP4201 - Dalinlongart Biomass Plant
+UKP4202 - Achnabreck Biomass Plant
+UKP4203 - Agusta Park All Phases
+UKP4205 - Plots 1-44 Mount Crescent
+UKP4207 - Southfield Lane
+UKP4208 - Silvertown Way - LV
+UKP4209 - Devon's Road
+UKP421 - Gwynne Road
+UKP4211 - Gidding Road
+UKP4212 - Europark
+UKP4213 - St Bernards Hospital
+UKP4214 - Wharves - Plot 1,2,3
+UKP4215 - Wigan Road
+UKP4216 - Weston Street
+UKP4217 - New Leeds Academy
+UKP4218 - Factory Hill
+UKP4219 - Higher Marsh Farm
+UKP422 - Tinsley House
+UKP4220 - New Fire Station, Cliff Lane
+UKP4221 - Haywood Village
+UKP4222 - Millharbour
+UKP4223 - Unit 1 South Oxgate
+UKP4224 - Darwell Park
+UKP4225 - Plot J3, Prologis Park
+UKP4226 - Dodd Street
+UKP4227 - Keyham Lane
+UKP4228 - London Road
+UKP4229 - Fire Station - Trunk Road
+UKP423 - Brook House
+UKP4230 - West Green Road
+UKP4231 - Llanfairfechan
+UKP4232 - Gresham Road SEN School
+UKP4233 - New Fire Station, Masters Road
+UKP4235 - New Fire Station, Widness Road
+UKP4236 - Farrington Moss
+UKP4237 - Arklow Road
+UKP4238 - Thorpe Road
+UKP424 - Waterfront
+UKP4240 - Rattle Road
+UKP4242 - 20 Old Bailey Transformer
+UKP4243 - Lot M3, Off Madingley Road
+UKP4244 - Land off Centrum West
+UKP4245 - High Street, Cranfield
+UKP4246 - Mountain Road, Pembrey
+UKP4247 - Chaul Road
+UKP4248 - Dombey Street
+UKP4249 - Coniston Road
+UKP4250 - Paper Mill Development
+UKP4251 - Birmingham Road, Startford Upon Avon
+UKP4252 - Village PV Farm
+UKP4253 - Loughor Road
+UKP4254 - Cefneithin PV Farm
+UKP4255 - Hackney Town Hall, Substation
+UKP4256 - Grovehurts Avenue
+UKP4257 - Red House Mobile Home Park
+UKP4258 - Greythorn Drive
+UKP4260 - The Beacon, Hemel Hempstead
+UKP4261 - Hilton Hotel
+UKP4262 - Land at the North of Providence Hill
+UKP4263 - Monks Road
+UKP4264 - Heathrow Logistics Park
+UKP4266 - Chichele Road
+UKP4267 - St Ann Quarter
+UKP4268 - Connemara
+UKP4270 - Long Lane
+UKP4271 - Ballards Walk
+UKP4272 - Whittlesey
+UKP4273 - E.L.A.M
+UKP4274 - Havil Street, Site 1
+UKP4275 - Havil Street, Site 2
+UKP4276 - Springfield Road
+UKP4277 - Caunt Road
+UKP4279 - Daedalus Park
+UKP4280 - Red Cross Lane Student Accommodation
+UKP4281 - Main Road, Potterhanworth
+UKP4282 - Lains PV Farm
+UKP4283 - Nettleham Rd
+UKP4284 - Small Dove
+UKP4285 - Albion Street
+UKP4286 - Rayland Road
+UKP4287 - Altrincham Road, Sharston
+UKP4288 - Little London, Long Sutton
+UKP4289 - Campden Road
+UKP4290 - Gratham Road
+UKP4291 - Roach Road
+UKP4292 - Uniserve - Plateau A&B
+UKP4293 - RAF Marham - Connections
+UKP4294 - Birmingham Road, Dudley
+UKP4295 - Bardon Road
+UKP4296 - Brick Kiln Road (Res)
+UKP4297 - Westenhall Road
+UKP4298 - Norton farm
+UKP4299 - Dry Street
+UKP430 - Anslow Park
+UKP4300 - The Wharves, Deptford-Permanent Boundary and TBS
+UKP4301 - Seybourne Park
+UKP4302 - Kinmel PV Farm
+UKP4303 - Bowscar PV Farm
+UKP4304 - Denmark Street
+UKP4305 - Buslingthorpe Mills
+UKP4306 - 141 Harley Street
+UKP4307 - Bicknor Wood
+UKP4308 - Highfield Road
+UKP4309 - Northstowe Primary School
+UKP431 - Arthur Road
+UKP4311 - 22 Bishopsgate
+UKP4312 -  Burwell Road
+UKP4314 - Kingshill
+UKP4315 - Former Police Station & library
+UKP4316 - Luxborough Lane
+UKP4317 - Derwyn PV Farm
+UKP4318 - Bargoed PV Farm
+UKP4319 - Strand East
+UKP4320 - Ordsall Lane
+UKP4321 - Church Walk
+UKP4322 - Adelphi Wharf
+UKP4323 - Newlands Road
+UKP4324 - Carver Street
+UKP4325 - Derby Road, Widnes
+UKP4326 - Land Off South Road
+UKP4327 - Mountpleasant Road
+UKP4328 - Silvertown TBS (1 MVA)
+UKP4329 - 97 Lea Bridge Road
+UKP4330 - Royal Mint Street Combined
+UKP4331 - Sainsburys Ilford
+UKP4332 - Sutton Point
+UKP4333 - Long Marston Ph3
+UKP4334 - Sleaford Road
+UKP4335 - The Traingle Estate, Goswell Road
+UKP4336 - Goldfinch
+UKP4337 - Hampton Vale
+UKP4338 - McDonalds New Malden
+UKP4339 - Monger Lane
+UKP4340 -  Irving Close
+UKP4341 - Thrayle House
+UKP4342 - Sunnydale Close
+UKP4343 - Langdon Road
+UKP4344 - Gurnell Leisure Centre, Ruslip Road
+UKP4345 - Land South of Green Lane
+UKP4346 - Lewisham
+UKP4347 - Goddard's Green PV Farm
+UKP4348 - Flixborough PV Farm
+UKP4349 - Earls Barton Service
+UKP435 - 1 Chiltern Street
+UKP4350 - Front Street Aldi
+UKP4351 - London Road
+UKP4352 -  Ludgershall Garden Centre
+UKP4353 - Panfield Lane, Braintree
+UKP4354 - Halls Close
+UKP4355 - Almond Brook Road
+UKP4356 - Leeds Farm, Peterborough
+UKP4357 - Mare Street
+UKP4358 - Brisncall Mill Lane
+UKP4359 - Heath Road
+UKP436 - Tanner Street
+UKP4360 - Fairway Golf and Driving Range
+UKP4361 - Chobham Farm Services, Zone 4
+UKP4363 - Napton Road
+UKP4364 - Cavendish House
+UKP4365 - Birmingham Road 2, Stratford
+UKP4366 - Greenshoots
+UKP4367 - Coxbridge McDonalds
+UKP4368 - Seaham - Site 1
+UKP4369 - Seaham - Site 2
+UKP437 - Conway House
+UKP4370 - Seaham - Site 3
+UKP4371 - Deerbolt, Barnard Castle
+UKP4372 - Wembley E03-Canada Court
+UKP4373 - Wembley E05, Project Quebec
+UKP4374 - Albert Brown Building
+UKP4375 - Booth Rise
+UKP4376 - Marrable House
+UKP4377 - Bouygues 500kVA Temporary Substation
+UKP4378 - Leys Estate Phase 2, Wellington Drive
+UKP4379 - Brent Cross Crinklewood
+UKP4380 - Charles Street
+UKP4381 - Wellington Primary School
+UKP4383 - University of Reading
+UKP4384 - Old Park Farm
+UKP4385 - Eastmead Trading Estate
+UKP4386 - Starvehall, new barne lane
+UKP4387 - George Ward School
+UKP4388 - Hall End
+UKP4389 - Highworth Road
+UKP4390 - Swallow Business Park, Harkhurst Lane
+UKP4391 - Audley Retirement - TBS
+UKP4392 - Latton Farm Rugby Pavilion
+UKP4395 - Nailstone PV Farm
+UKP4399 - Arriva North West
+UKP4401 - Sleaford Street Relocations
+UKP4402 - Harrow View West
+UKP4403 - Kirkdale Road
+UKP4404 - East Harling, Phase 2
+UKP4405 - Warboys
+UKP4406 - Uni of Cumbria
+UKP4407 - Harrow Travelodge
+UKP4408 - Kiln Road
+UKP4409 - Kings Street
+UKP441 - Hammond Court
+UKP4410 - Central Trading Estate
+UKP4411 - Capitol House, 794 Green Lanes
+UKP4412 - Kingsbury Gardens
+UKP4413 - Headcorn Road
+UKP4414 - Langford Road
+UKP4415 - SW03
+UKP4416 - Heritage Park
+UKP4417 - Sycamore Rise
+UKP4418 - Phoenix Park
+UKP4419 - 7 Limeharbour
+UKP4420 - Stonecross Business Park, Golbuorne
+UKP4421 - Winterstoke H1-H4
+UKP4422 - Essex County Hospital
+UKP4423 - Kettering Road
+UKP4424 - Ongar Road
+UKP4425 - Former Coddon Club, Telford
+UKP4427 - Grant Road
+UKP4428 - Sleaford Street TBS
+UKP4429 - Kellogg Tower, Greenford
+UKP443 - Wolfson House
+UKP4430 - Chesham Drive-Phase 2
+UKP4431 - Norwich House
+UKP4432 - Mosse Gardens, Fishbourne
+UKP4433 - Ebdon Court, WSM
+UKP4434 - Todds Green
+UKP4435 - Steel Rise
+UKP4436 - Lenham Road, Kent
+UKP4437 - Crabtree Lane, Manch
+UKP4438 - Newchapel Road
+UKP4439 - McDonalds Norwich
+UKP4440 - Yapham Road, York
+UKP4441 - McDonalds Hull
+UKP4442 - Cromer McDonalds
+UKP4443 - McDonalds, Quality Hotel
+UKP4444 - Summit House, West Wickham
+UKP4445 - Ettingshall Road
+UKP4446 - Berwick House
+UKP4447 - Tiger Way
+UKP4448 - Dalston Kingsland
+UKP4449 - Bath Road, Corsham
+UKP4450 - Lanwades Park, Suffolk
+UKP4451 - Walmely
+UKP4452 - Capstone Road
+UKP4453 - Symmetry Park
+UKP4454 - Land at Stanley Farm
+UKP4457 - Cutacre
+UKP4458 - Newnham Manon Poultry Farm
+UKP4459 - Palace Wharf
+UKP446 - Rotherdale Farm
+UKP4460 - Avenue Works, Southchurch
+UKP4461- Abbey Farm
+UKP4463 - Stockton Road, Warwick
+UKP4464 - Land Off Tidal Reach
+UKP4465 - Beaufort House, Hightown
+UKP4467 -  Boughton Lane,
+UKP4468 - Rivulet Road
+UKP4469 - Mulberry Park
+UKP4470 - Great Moor Street
+UKP4473 - Portsmouth UTC
+UKP4474 - Eastway
+UKP4475 - Midway Park to M1 Junction
+UKP4476 - University of Essex Phase 2A
+UKP4478 - Steatite Way
+UKP4479  - Kidderpore Avenue TBS
+UKP4481 - Embassy Gardens A03-A05 LV
+UKP4482 - Royal Albert Docks, Temporary
+UKP4484 - Royal Albert Docks, Phase 1, 11kV IDNO
+UKP4485 - RAD TBS Phase 1
+UKP4486 - Royal Minoco Wharf Energy Centre
+UKP4487 - Stoney Street
+UKP4489 - Wentworth Road
+UKP4490 - Newlands Road, Luton
+UKP4491 - Haznota Farm
+UKP4492 - Brunel Park
+UKP4493 - Queensland Place
+UKP4494 - Rochester Riverside development
+UKP4495 - Newbold Road
+UKP4496 - Oundle Road
+UKP4497 - Millfield PV Farm
+UKP4499 - Willows Caravan Park
+UKP450 - Worlds End
+UKP4500 - Bethnal Green Hotel
+UKP4501 - Unit 4 Finway, Dallow Road
+UKP4502 - Norfolk Street, Liverpool
+UKP4503 - Gratrix Lane
+UKP4504 - Lady Margaret Road
+UKP4505 - Charlton Hayes, Patchway
+UKP4508 - Station Road, Langford
+UKP4509 - The Grange, Former Holy Cross Convent
+UKP4510 - St Modwen Homes
+UKP4511 - Sheffield Business Park
+UKP4512 - Ainthorpe Primary School
+UKP4513 - Kenton Lane
+UKP4514 - ECCT Stoke Gifford
+UKP4515 - Former Arla Dairy
+UKP4517 - BAE Building Bradford
+UKP4518 - Frimley Park
+UKP4519 - Pineham
+UKP4520 - Hartford Social Club
+UKP4521 - Sky Building
+UKP4522 - Elsea Park, Bourne
+UKP4524 - Land off Aberdeen Ave, Manadon
+UKP4525 - Bow Brickhill
+UKP4526 - Hall Drive
+UKP4527 - Richmond School, Twickenham
+UKP4528 - Westbrook School, Folkestone
+UKP4529 - Griffin Lane
+UKP4531 - 73 & 75 Avenue Road
+UKP4532 - PC Building Supplies
+UKP4533 - The Meadows, Skegness
+UKP4534 - Deepdale Farm
+UKP4535 - Pound Farm
+UKP4536 - Springfield Meadow
+UKP4537 - Great North Rd
+UKP4538 - Marsden Avenue
+UKP4539 - Hadnall Phase 3&4
+UKP454 - Manor Road, Burges Hill
+UKP4540 - Marylands Convert
+UKP4541 - Hogarth, Chiswick
+UKP4542 - West Hendon Block F
+UKP4543 - Bolton Road, Chorley
+UKP4544 - Anthology Foundry
+UKP4547 - Plot 74, Midpoint 18, Middlewich
+UKP4548 - Leamouth North Phase 2
+UKP4549 - Slough Sports Stadium
+UKP455 - Churchtown Farm
+UKP4551 - Leaden Hill, Coulsdon
+UKP4552 - Canterbury House, Sydenham Road
+UKP4553 - Gypsy Castle Lane, Hay-on-Wye
+UKP4555 - 5 Bedford Park
+UKP4556 - Kingsthorpe
+UKP4557 - Princess Street
+UKP4558 - Smethwick Hospital
+UKP4559 - Bank Street
+UKP4560 - Holyhead Road, Shrewsbury
+UKP4561 - Burton Road, Debden
+UKP4562 - Johns Gardens
+UKP4563 - Marstons Gate
+UKP4564 - 150 Holborn
+UKP4565 - Ensign Court
+UKP4566 - Cavendish Rd
+UKP4567 - Land Off Chesterfield Road
+UKP4568 - Project Ace Marsh Wall
+UKP4569 - Woodside Lane, King Stanley
+UKP4570 - Church Road
+UKP4571 - Island Road
+UKP4574 - Haywood Villlage School - TBS
+UKP4575 - Norwich Rd
+UKP4576 - Hollamoor PV
+UKP4577 - Water street
+UKP4578 - Thirsk Road
+UKP458 - Chapelfield Plain
+UKP4581 - Weald Junior School
+UKP4582 - GreatWern Park School
+UKP4585 - Fine Point, Kidderminster
+UKP4586 - Bincnoll Lane, Swindon
+UKP4587 - Bishops Cleeve, Phase 2 - Charles Church
+UKP4588 - Welbeck Avenue, Sketchley Park
+UKP4589 - Scotts Road
+UKP459 - Alscot Court
+UKP4590 - Peterborough Road
+UKP4591 - Moorland School
+UKP4592 - Brookside, (983)
+UKP4593 - Charles Street
+UKP4594 - Embassy Gardens Phase 3
+UKP4595 - Hobhouse Court
+UKP4596 - Tech West House
+UKP4597 - Former One Stop, Camden
+UKP4598 - Spear Hill PV
+UKP4599 - Chard PV
+UKP4600 - North Dean
+UKP4601 - Amen Corner North, Binfield
+UKP4602 - Mapledurham AD - Private
+UKP4603 - Sellindge, Phase 2
+UKP4604 - Gascoigne Road
+UKP4605 - Minories
+UKP4606 - Oxgate Centre
+UKP4607 - Marine Wharf East
+UKP4608 - Old Wokingham Road, Crowthorne
+UKP4610 - Ladderedge DSR
+UKP4611 - Station Road, North Kilworth
+UKP4612 - Technology Drive, Rugby Phase 4
+UKP4613 - Longbride East
+UKP4614 - Station Rd
+UKP4615 - Elton House
+UKP4617 - Wortley Low Mills
+UKP4618 - South Stack Road
+UKP4619 - Woodside Road
+UKP462 - Cold Nortcott
+UKP4621 - Backbridge Farm
+UKP4622 - Trevenson Park
+UKP4623 - Barngate Street
+UKP4624 - Marsham House, Gerrads Cross
+UKP4625 - Dover Main Scheme
+UKP4626 - Faircharm Estate, Lewisham
+UKP4627 - 171-173 - Kingston Road
+UKP4629 - Bethnal Green Mission Church
+UKP4630 - Panther House
+UKP4631 - Panther House TBS
+UKP4632 - New Bank Farm Winery
+UKP4633 - Westfield Road Industrial Estate
+UKP4634 - Kidbrooke Village Block D
+UKP4635 - Colliers Road
+UKP4636 - Cautley Drive
+UKP4637 - Ystrad Barwig Farm, Pontypridd
+UKP4638 - Elm Road, Wrexham
+UKP4639 - Jelson, Wharncliffe Road
+UKP464 - Crowhurst Lane
+UKP4640 - Wembley Northlands Diversions - Olympic Way
+UKP4641 - Leamouth North A&M LV
+UKP4642 - 100 -106 Church Road
+UKP4643 - Wembley SW03 Energy Centre
+UKP4645 - Devon's Rd Phase 4
+UKP4646 - Cawston Lane, Rugby
+UKP4648 - Pegasus Way
+UKP4649 - Macclesfield Road
+UKP465 - Church Road, Leytonstone
+UKP4651 - Smithurst Rd
+UKP4652 - Ely Village
+UKP4654 - St Augustines School, Oldham
+UKP4655 - Flanders Farm
+UKP4656 - Double Archers Farm
+UKP4657 - The Parsonage, Marden, Kent
+UKP4658 - Boston Road
+UKP4659 - Ipswich Garden Suburb
+UKP4661 - Nine Elms Royal Mail DO
+UKP4662 - Thrift Farm Lane
+UKP4663 - Stowmarket
+UKP4664 - Logistic North - Phase 2
+UKP4665 - Offa's Dyke Business Park, Powys
+UKP4666 - Highlands Farm, Oxfordshire
+UKP4667 - Francis Drake School
+UKP4668 - Paragon House, Ilford Hill
+UKP4669 - Southbank Place
+UKP467 - Silken Hotel
+UKP4670 - Pages Walk (TBS)
+UKP4672 - Tunbridge Lane, Bottisham
+UKP4673 - Aylesbury Estate
+UKP4674 - Ivy Mill Nursery
+UKP4675 - Mayo's Land Phase 2
+UKP468 - 65 Southwark Street
+UKP4680 - Meopham School
+UKP4681 - Lisgar Terrace
+UKP4682 - Hams Hall
+UKP4683 - Common Rd
+UKP4684 - Dover
+UKP4685 - Engine Lane
+UKP4686 - Derby Road, Hatton
+UKP4687 - Salisbury Road, Downton
+UKP4688 - Morpeth Cottage Hospital
+UKP469 - Park Farm Generation
+UKP4690 - Land off Brook Street, Aston Clinton
+UKP4693 - Land North of Gateford
+UKP4696 - City of London Police HQ
+UKP4697 - Herne Bay Golf Club
+UKP4699 - Centenary Quay, Phase 4
+UKP470 - Central Park
+UKP4700 - Southlands Hospital
+UKP4701 - Land Off Callington Road, Tavistock
+UKP4702 - Silvertown Way-GT Diversions
+UKP4703 - Silvertown Way-GT LV
+UKP4704 - Richmond, Twickenham
+UKP4705 - Wellington Hotel
+UKP4706 - South Oxhey-Central Site
+UKP4708 - Hilperton, Trowbridge
+UKP4709 - Chelsea Island
+UKP4710 - Ensign Court TBS
+UKP4711 - Lime Street
+UKP4712 - Ibis Budget Hotel, Luton
+UKP4713 - Audi Reading
+UKP4714 - Lodge Farm, Witham
+UKP4715 - Shire Hill
+UKP4717 - Bangham Pit Road
+UKP4718 - Boaler Street
+UKP4720 - Papermill South
+UKP4721 - DGV - ABC
+UKP4722 - Pennybrook Hotel
+UKP4723 - 3-5 Nightingale Hotel
+UKP4724 - Oxley Park Academy, Shenley Wood
+UKP4725 - Edward Street, Birmingham
+UKP4726 - John Dower House
+UKP4727 - Chapel Road Roughton
+UKP4729 - Thrapston House
+UKP473 - Walthamstow Arcade
+UKP4730 - Sandrich Common
+UKP4731 - Overstone
+UKP4732 - Limehurst, Oldham
+UKP4733 - Maids Moreton
+UKP4736 - Tanworth Lane, Cheswick Green
+UKP4737 - 48 Carey Street
+UKP4740 - Harrow School
+UKP4742 - Cotteswold Dairy
+UKP4743 - Walter Yard, Swansea Road
+UKP4744 - Fallowfields Hotel
+UKP4747 - Bretch Hill, Banbury
+UKP4748 - Weymouth Avenue, Part 1-4
+UKP4749 - Circus Street, Brighton
+UKP4750 - Tower Court
+UKP4751 - Tollgate House
+UKP4752 - Charlton Athletic Training Ground
+UKP4753 - Cozens Road
+UKP4754 - Brockhall Road
+UKP4755 - Forest Lane, Picket Twenty, Andover
+UKP4756 - Former Greyhound Stadium
+UKP4757 - Wills Way, Imperial Park
+UKP4758 - 183 - 205 Union Street
+UKP4760 - High Street, Watchfield
+UKP4761 - Biggleswade Road, Potton
+UKP4763 - Latchmere Close
+UKP4764 - Middlewood
+UKP4765 - Tyssen Street
+UKP4766 - UCLH 5
+UKP4767 - Russell School Richmond
+UKP4768 - Biddulph Extra Care
+UKP4769 - Winsford
+UKP4770 - Hendrefoilan
+UKP4771 - Elvian School
+UKP4772 - Spinney Hill
+UKP4773 - Witham Cell 17
+UKP4774 - Brockhill Road, Worcestershire
+UKP4775 - Chapeltown Academy
+UKP4776 - Churton Rd
+UKP4777 - Manor Farm, Farnham
+UKP4778 - Howarth Close
+UKP4779 - The Stage, Shoreditch
+UKP4780 - Rockwell Green, Wellington
+UKP4781 - Abergarw Rd
+UKP4782 - Follingsby Park
+UKP4784 - Blounts Farm, Uttoxeter
+UKP4786 - Logistics North - E1
+UKP4787 - Goldsworth Road
+UKP4788 - Chapel Hill
+UKP4789 - Scalford Road
+UKP479 - Brett Group
+UKP4790 - Hallatrow Rd
+UKP4791 - Cross Street, Chatham
+UKP4792 - Osiers Road, Wandsworth
+UKP4794 - St Elizabeths
+UKP4795 - Eccleshall Road
+UKP4796 - Gnosall Services
+UKP4797 - Lancer Square
+UKP4799 - Pollards Hill Estate
+UKP480 - Galliford Try
+UKP4800 - New Mersey Retail Park
+UKP4801 - Edgemead Trade Centre
+UKP4802 - Badby Road
+UKP4803 - Kenilworth Rd
+UKP4804 - Cincinatti Services
+UKP4805 - Cambridge Road, Fenstanton
+UKP4806 - Dale Field Way, Gravesend
+UKP4808 - Ealing Road, Alperton
+UKP4809 - Farringdon Road TBS
+UKP4810 - Lakeside
+UKP4811 - Dyson 3&4
+UKP4812 - West Acres
+UKP4813 - Pointer's East
+UKP4815 - Bridgefield Street, Stockport
+UKP4816 - Repton Court, Redbridge
+UKP4817 - Bow River Village, Hancock Road
+UKP4818 - Kirkfield House
+UKP482 - Waverley School
+UKP4820 - Saflord Priors, Warwickshire
+UKP4824 - Suffolk Mushrooms
+UKP4826 - Woodberry Down Estate TBS
+UKP4827 - Landens Farm
+UKP4828 - Hill House, Archway
+UKP4830 - Pennybrook Hotel TBS
+UKP4831 - London Road, Buntingford
+UKP4832 - Horton Rd
+UKP4833 - Nerrol's Farm
+UKP4835 - West End Lane
+UKP4838 - Bramshall Road, Uttoxeter
+UKP4840 - Royal Minoco Wharf P3 Boundary
+UKP4842 - Spur House
+UKP4844 - Bulbourne Yard
+UKP4845 - 27 Commercial Road
+UKP4846 - Willesden Metroline
+UKP4850 - Burnham School
+UKP4851 - Birch House
+UKP4852 - Pool Hall Rd
+UKP4853 - Penland Farm, Haywards Heath
+UKP4854 - Milton Road
+UKP4855 - Blackwall Reach TBS
+UKP4856 -
+UKP4857 - New England Quarry
+UKP4858 - Weeping Cross
+UKP4859 - Lane at Green Lane
+UKP486 - Stevens Street
+UKP4861 - UCLH 5 Relocation
+UKP4863 - Britannia Music Site
+UKP4864 - Latham House
+UKP4867 - Tollgate House Relocation & TBS
+UKP4868 - Deptford Wharves Plot 2
+UKP4869 - East Works, Gypsy Patch Lane
+UKP487 - Abbey Street
+UKP4872 - Hook Lane
+UKP4873 - Wheatpieces, Tewkesbury
+UKP4874 - Oaktree Garden Centre
+UKP4875 - Lidl, Great Yarmouth
+UKP4876 - Lidl, Woodgrange Drive
+UKP4877 - Lidl, Netherton
+UKP4878 - Leamouth North Blocks N&I
+UKP4880 - Hanger Lane
+UKP4882 - Former HRC
+UKP4883 - Covent Garden Village, Stockport
+UKP4884 - Abbey Road, Barking
+UKP4886 - Springfield Hospital
+UKP4888 - Jacksons Meadow
+UKP4890 - City Road, Birmingham
+UKP4895 - Asda Clacton
+UKP4896 - Farringdon Road
+UKP4897 - Southway Campus
+UKP4898 - Fishergate Shopping Centre
+UKP490 - Thistley Hough School
+UKP4900 - Red Lane
+UKP4901 - Long Marston Ph3B
+UKP4902 - South Oxhey-Maylands
+UKP4903 - South Oxhey-Hallowes Crescent
+UKP4904 - South Oxhey-Hayling
+UKP4906 - Wellingborough Road
+UKP4907 - Alconbury Weald
+UKP4908 - New Hotel, Market Street, Edinburgh
+UKP4909 - Dalston Kingsland - TBS
+UKP491 - Tudor Grange
+UKP4910 - Hall Lane Kettering
+UKP4911 - Kingsway Cardiff
+UKP4915 - Cross Farm, Wedmore
+UKP4916 - Boughton Golf Club
+UKP4917 - Brampton Hut Services
+UKP4918 - 114-120 West Heath RD
+UKP4919 - Webb Road, Essex
+UKP492 - HSL Buxton
+UKP4920 - Peterhead Court
+UKP4921 - Phase 2 Dittons Road, Commercial District & Ph2
+UKP4923 - Terrington St Clement
+UKP4925 - Bush Heath Lane, Harbury
+UKP4926 - Strand East NEQ
+UKP4927 - Strand East Full Site
+UKP4928 - Curzon Street
+UKP493 - Oakwood Grange
+UKP4930 - Berkswell Composting Site
+UKP4931 - Tewkesbury Care Centre
+UKP4932 - Rolston Close, Plymouth
+UKP4934 - Crown Closures
+UKP4937 - East Tame Business Park
+UKP4938 - Greenhill Road
+UKP4940 - Trepassey Care Home
+UKP4941- Phase 1, Picts Lane
+UKP4942 - McGrath Road
+UKP4943 - Cwm Calon - Phase 4
+UKP4944 - Church View, Leicester
+UKP4946 - Embassy A05 Relocation
+UKP4947 - Newington Butts
+UKP4948 - Rugby Dirft III, Primary Substation
+UKP4949 - Banbury Road, Deddington
+UKP4950 - Verum House, New Street, Basingstoke
+UKP4951 - Dallington, Northampton NN5 6NU
+UKP4952 - Chichester Food Park
+UKP4953 - Loughborough Road, Thringstone
+UKP4956 - Haywood Village
+UKP4958 - Fradley Park, Lichfield
+UKP4959 - Former MOD site, Corsham
+UKP4960 - Lower Hoddern Farm, East Sussex
+UKP4961 - The Broadway, Crawley
+UKP4962 - London Road, Fairford
+UKP4964 - Crown Chicken Farm
+UKP4965 - Lollard Street
+UKP4973 - British Library
+UKP4978 - Leigh Road, Slough
+UKP4980 - The Stage, Shoreditch Commercial
+UKP4984 - Laburnum Crescent, Kettering
+UKP4985 - Little Tixall Lane, Great Haywood
+UKP4986 - Mount Pleasant, Aylesbury
+UKP4989 - Erskine Lodge
+UKP499 - Dean Hall Farm
+UKP4990 - Wooddenet
+UKP4991 - City of London Freemans School
+UKP4992 - Cassio House, Stratford Road
+UKP4999 - Daisy Bank Drive, Telford
+UKP500 - Converteam 2
+UKP5000 - Bridge View, Cornwall
+UKP5001 - Brighton Road, Shoreman-By-Sea
+UKP5002 - New Church Hall
+UKP5003- Lancer Square TBS
+UKP5004 - Royal Wharf Phase 2B LV
+UKP5005 - Wembley NW07-08 TBS
+UKP5006 - North Wharf Gardens Phase 2
+UKP5009 - Royal Wharf Ph3
+UKP501 - Point North
+UKP5012 - Forest Road
+UKP5013 - Warminster Road, Beckington
+UKP5017 - Bearscroft - Civils
+UKP5018 - Lyne Hill Lane
+UKP5019 - Emersons Green, Gateway
+UKP5020 - Pen Y Bryn House, Wrexham
+UKP5021 - Millbay Docks
+UKP5024 - Silvermere Park, Shropshire
+UKP5027 - Grove Airfield Wantage
+UKP5029 - Bream Street Temporary Works
+UKP503 - The Evergreens
+UKP5030 - Kidderpore Avenue
+UKP5031 - Phase 2, Former Lloyds Building
+UKP5032 - Eltham Cinema
+UKP5033 - Mersery Wharf - Culvery
+UKP5033 - Mersey Wharf - Culvery
+UKP5034 - Cae Glas off Lon Town Chapel
+UKP5035 - Saltwells Lane, Dudley
+UKP5036 - North Quay Retail Park
+UKP5038 - Arrowe Park Road, Upton
+UKP5039 - Monkton Heathfield, Taunton
+UKP504 - Lysaghts Newport
+UKP5040 - Blackfriars Close, Portsmouths
+UKP5041 - Wembley W03
+UKP5042 - Land at Cupar, Fife
+UKP5044 - Highdown Way, Swindon
+UKP5046 - Bream Street Main Supplies
+UKP5048 - Nethermayne, Basildon
+UKP505 - East Leighton Linslade
+UKP5050 - SE Bicester
+UKP5051 - Fulstone Mews, Stockport
+UKP5053 - Overstone LV
+UKP5054 - Kellingly Solar Farm
+UKP5055 - Aztec 1640 + 1680
+UKP5056 - Speke Police Headquarters
+UKP5057 - Fruit and Veg, Liverpool
+UKP5062 - Christ the King School
+UKP5063 - Berecroft, Harlow
+UKP5066 - Impact House, Croydon
+UKP5067 - Lambeth MS, Civic Office
+UKP507 - Prince Albert Street
+UKP5070 - Old Cumberland Hotel Site, Harlow
+UKP5071 - Northolt Road, Harrow
+UKP5072 - East Wick & Sweetwater
+UKP5073 - Penkridge, Sttaford
+UKP5074 - Industrial Unit in Witney, Oxon
+UKP5075 - The Gaer, Drinkwater Gardens, Gwent
+UKP5077 - Emerson Green Phase 2
+UKP5079 - Jawbone Lane, Derby
+UKP5080 - Broughton Park
+UKP5081 - St Nicholas
+UKP5083 - Harperdean Farm
+UKP5084 - Dobson Park Way
+UKP5089 - Former Churchill School
+UKP5093 - Cowick Road, Snaith
+UKP5094 - Shopwykes Lakes, Chichester
+UKP5095 - Boughton Road, Moulton
+UKP5096 - Akeman Park, Bicester
+UKP5097 - Kettering
+UKP510 - Browns Waste
+UKP5100 - Dearsey Farm, Haverhill
+UKP5101 - Tewkesbury Development
+UKP5103 - Salhouse Road, Rackheath
+UKP5104 - Lowsly Farm, Liphook
+UKP5105 - Former Lloyds Building TBS
+UKP5106 - Wembley E03
+UKP5108 - Hilltop Farm, Castle Donnington
+UKP511 - Tyddyn Pandy
+UKP5112 - Lands at Fleets Industrial Estate
+UKP5113 - Land at Kilbagie Mills
+UKP5115 - Royal Sovereign House
+UKP5116 - Land North of Bath Road, Corsham
+UKP5117 - Cott Beverages
+UKP5118 - Grange Road, Booth Lane
+UKP5120 - Wilford Crescent East
+UKP5123 - Xerox, Bessemer Road
+UKP5124 - Wheatstone House, Chiswick High Road
+UKP5125 - Lambeth MS, Civic Office TBS
+UKP5127 - North Wharf Gardens Phase 2 TBS
+UKP5128 -86-100 Brighton Road
+UKP5129 - Frimely Business Park
+UKP5130 - Strand East HV
+UKP5132 - Gainsborough Road, Corby
+UKP5133 - Kensington Close
+UKP5138 - Pages Walk LV
+UKP514 - Headstone Drive
+UKP5142 - Beacon Hill STOR
+UKP5143 - Stanway, Colchester
+UKP5144 - New Site Chauncey School
+UKP5145 - Colne View, Colchester
+UKP5147 - Haslucks Green Road, Shirley
+UKP5148 - Stonegallows, Bishops Hull, Taunton
+UKP5152 - Cornwood Road, Devon
+UKP5154 - Diamond Way, Phase 2, Shopshire
+UKP5155 - Wotton Road, Charfield
+UKP5156 - Bristol Road, Birmingham
+UKP5157 - Station Road, Stetchford
+UKP5158 - Gwyther Mead, Taunton
+UKP5160 - Erith High Street Relocation
+UKP5162 - Station Road, Baldock, Herts
+UKP5165 - Willow Green, Truro
+UKP5167 - Chesterfield House
+UKP5169 - Gadoline House, Godstone Road
+UKP5174 - Alfriston Road, Devon
+UKP5176 - Royal Wharf Private Transformers
+UKP5177 - UCL Torrington Place
+UKP5178 - Tall Trees, Cirencester
+UKP5179 - Ware Road, Hertford
+UKP5181 - Roman Road, Mountnessing
+UKP5182 - Valley House
+UKP5189 - 1 Tealgate, Hungerford
+UKP519 - QK School
+UKP5191 - Alcatel Works TBS
+UKP5196 - Moberly Sports & Education Centre
+UKP5197 - Victory House-Haagen Daz
+UKP5198 - Woodlands, Townhouse Road
+UKP5202 - Saunderton, High Wycombe
+UKP5203 - Genwen Farm, Llanelli
+UKP5205 - Prestamax House, Brighton
+UKP5207 - Station Road, Narberth
+UKP5208 - Dell Road, Former Treetops
+UKP5209 - 308-310 Elvenden Road
+UKP5210 - Hauxton Meadows, Cambridge
+UKP5211 - The Ridgeway, Newark
+UKP5213 - AG2R Land, Bicester
+UKP5214 - Lomond Quarry
+UKP5216 - Winterstoke, Business Quarter2
+UKP5221 - High Street, Scarborough
+UKP5222 - Croesnewydd Road, Wrexham
+UKP5223 - Fishpond Hill, Skegby Lane
+UKP5224 - Wembley SW03 LV
+UKP5225 - Strand East Diversions
+UKP5227 - Blanche Lane, Hertz
+UKP5230 - Station Road, Kirton in Lindsey
+UKP5233 - Orchard Brook, Long Melford
+UKP5235 - Hempsted, Phase 2
+UKP5238 - Hampton Gardens
+UKP5239 - Portsmouth Prison
+UKP5243 - St Andrews Road, Warminster
+UKP5244 - Tenterden
+UKP5246 - Denham Media Park
+UKP5248 - Dutton Road, Coventry
+UKP5249 - Pennwood Lodgead, Kingswood
+UKP5250 - Saddlebow Road, Phase 3
+UKP5252 - Wembley NW01 Diversion
+UKP526 - Archived Newington Butts
+UKP5260 - Bedford Road, Barford
+UKP5261 - West of Buckleigh Road
+UKP5263 - Hull Call Centre, Hull
+UKP5265 - 30 Lodge Road
+UKP5270 - YHA Stratford
+UKP5275 - Holly Farm, Copthorne Way
+UKP5276 - Deluxe Studios, Denham
+UKP5279 - Strand East MU5 TBS
+UKP5281 - The Quadrant (Q1), Boston
+UKP5282 - Westgate, Abergavenney
+UKP5284- Tews Lane, Barnstaple
+UKP5287 - 407 New Cross Road
+UKP529 - Waterloo House
+UKP5290 - Potley Lane, Corsham
+UKP5291 - Guinevere Avenue, Stretton
+UKP5292 - SEN School, Attleborough
+UKP5294 - Apex House
+UKP5295 - Beaufort House
+UKP5299 - Shillings Yard
+UKP530 - Fromes Hill
+UKP5300 - Lakeside, Thurrock
+UKP5301 - Erith High Street
+UKP5302 - Mill Road, Little Melton
+UKP5304 - Kempsford House
+UKP5305 - Brook Lane North
+UKP5306 - 12-22 Pinner Road
+UKP5308 - 1A Highgate Road
+UKP531 - Lower Bellamore Farm
+UKP5310 - Pontoon Dock
+UKP5313 - Durrants Lane
+UKP5316 - Land at Mickleton
+UKP5318 - West Ham Football Stadium
+UKP5321 - 51 Moorgate
+UKP5323 - Tatworth Road, Chard
+UKP533 - Brenley Playing Fields
+UKP5330 - Student Accommodation, Iffley Road
+UKP5331 - Bishops Cleeve Phase 4 & 5
+UKP5332 - Kent Fire & Rescue
+UKP5333 - Whittington Road, Worcester
+UKP5334 - Stonebridge Site 27
+UKP5341 - West End Nursery
+UKP5342- High Street Slough
+UKP5343 - Strand East TBS R1
+UKP5345 - Tedsmore Grange, West Felton
+UKP5349 - Wembley E02
+UKP5350 - Peckham Level
+UKP5351 - Land off Normanton Road
+UKP5353 - Offa's Dyke Business Park
+UKP5356 - 18-22 Grove Vale, East Dulwich
+UKP5359 - Crow Nest Road
+UKP5360 -Tolworth Girls School
+UKP5361- Tolworth Girls School Residential
+UKP5362 - Manor Park Campus Phase 2
+UKP5363 - SSE HV
+UKP5365 - Swans Nest, Phase 2, Brandon Road, Swaffham
+UKP5368 - Gladman Services, Langford
+UKP5369 - Cottrell House TBS
+UKP537 - Wembley Way London
+UKP5371 - Brocklesby - Connection
+UKP5372 - Sandy Lane, Southampton
+UKP5375 - Bellman Walk(1055)
+UKP5378 - Brocklesby - Private
+UKP5380 - Wembley Parade
+UKP5381 - Walworth Road
+UKP5382 - Grimescar Valley
+UKP5386 - Havelock Road, Ealing
+UKP5388 - The Drive, Ilford
+UKP539 - Aldwych Hotel
+UKP5390 - Sweets Way
+UKP5391 - Adventure Island
+UKP5394 - Reading Gateway Development
+UKP5395 - North Chippenham
+UKP5397 - Denny End Road
+UKP5398 - Horsham Gates
+UKP5403 - Bell Farm, Wokingham
+UKP5404 - Newick Hill, Lewes
+UKP5406 - 103 Pears Road, Hounslow
+UKP5408 - Ponds Farm Industrial
+UKP541 - Windmill Lane
+UKP5412 - Canterbury Street, Gillingham
+UKP5416 - Axe View PV Farm
+UKP5418 - Cadley Park, Swadlincote
+UKP5422 - Holmer West Hereford
+UKP5423 - Bank Top Industrial Estate
+UKP5429 - Phase 4A Sleaford Street
+UKP543 - 2-6 Moreton Street
+UKP5431 - Peri Brentwood
+UKP5432 - Sunningdale Park Area
+UKP5433 - Ringwood house, Aylesbury
+UKP5435 - Westway Place
+UKP5436 - King Square Ph 2
+UKP5437 - East Wick and Sweet Water All Phases (Budget)
+UKP5438 - QE2 Hospital, Welwyn Garden City
+UKP544 - Broad Street, Trowbrige
+UKP5441 - Dog Lane, Bentham Green
+UKP5443 - Salford Road, Bidford on Avon
+UKP5444 - Hale Wharf
+UKP5446 - Aston 41, Aylesbury
+UKP5447 - Orchard Lodge
+UKP545 - Hillside
+UKP5450 - Shepherds Bush Garage
+UKP5451 - St Johns Hill Estate Phase 2
+UKP5452 - 100 White Chapel Road
+UKP5457 - Manor Farm, Leicester Road
+UKP546 - Paxcroft
+UKP5460 - Press House
+UKP5461 - Napier Court
+UKP5463 - Manor Farm, Humberside
+UKP5470 - The Wheatland's, Baschurch
+UKP5471 - West Northampton Development
+UKP5472 - Wembley E05 - TBS
+UKP5477 - Units 12 - 17, Central Square Maghull
+UKP5478 - Tullygarth Farm
+UKP5479 - Wembley E03 Energy Centre
+UKP548 - Victoria Road
+UKP5481 - Amlets Lane, Cranleigh
+UKP5489 - Burgess Hill
+UKP549 - Westbury Leigh
+UKP5490 - Goodinge
+UKP5494 - The Haven
+UKP5497 - Former Lambeth Colege Relocation
+UKP5499 - Canada Water LV
+UKP550 - York Buildings
+UKP5500 - Alexandra Hospital
+UKP5501 - Carbon 207
+UKP5503 - Clennon Rise
+UKP5506 - Norton College
+UKP5507 - West Horsley Place
+UKP5511 - Leamouth North Block B&C
+UKP5512 - Strand East R1 LV
+UKP5518 - Caistor Lane, Phase 2
+UKP5519 - Bradridge AD Plant
+UKP552 - Post and Mail Building
+UKP5520 - Oak Road, Billingshurst
+UKP5523 - West Hendon Block G
+UKP5525 - Milverton Road 1CA & 1C2
+UKP5526 - Lady Edith's Scarborough
+UKP5527 - Anthology Foundary Diversions
+UKP5529 - Upper House Farm, Hereford
+UKP5531 - Bodmin Road, Passivhaus Devon
+UKP5537 - Old Station Yard
+UKP5540 - Great Queen Street
+UKP5541 - York Court, Battersea
+UKP5542 - Lister House
+UKP5545 - The Hyde, Hendon
+UKP5546 - Paulton Phase 3 B
+UKP5548 - Leys estate TBS
+UKP5549 - One Nine Elms
+UKP5550 - Winterstoke Plot A4
+UKP5552 - Lassington Lane, Highnam
+UKP5554 - Rowhedge Wharf
+UKP5557 - Southlea and Thornbury
+UKP5559 - Pentavia Retail Park, Mill Hill
+UKP5561 - Wheatlands Farm - AD
+UKP5562 - Land NE of Frog Hall Bungalow
+UKP5566 - Wedgwood Way Stevenage
+UKP5568 - Clarendons Gas Works North
+UKP5572 - Skerries Road, Plymouth
+UKP5576 - Keynesham Leisure Centre
+UKP5577 - Sutcliffe Sports Centre
+UKP5578 - St George
+UKP5579 - Luton Ibis Hotel
+UKP5580 - Borough Green, Sevenoaks
+UKP5581 - Knockhall Road, Greenhithe
+UKP5582 - Wembley W06
+UKP5585 - Deepcut Barracks
+UKP5587 - Exchange Square, Birmingham
+UKP5589 - Hale Wharf Phase 1
+UKP5593 - Hoover Building
+UKP5594 - Locking, Weston-Super-Mare
+UKP5597 - 245 Cranbrook Road, Ilford
+UKP560 - R15 Westbury Leigh
+UKP5601 - Slough Leisure Centre, Farnham Road
+UKP5603 - Hotel Supply for Middlesex Street
+UKP5604 - Southlea and Thornbury
+UKP5605 - Charter Square Staines
+UKP5609 - Brown and Tawse
+UKP5610 - Hilcrest Court, Amersham
+UKP5611 - Pentrebane Phase 1A
+UKP5614 - NW Cambridge Lot M3
+UKP5617 - Manhattan Lofts-Ealing Film Studio
+UKP5623 - Former PLA Sportsground, Ilford
+UKP5624 - Arnaouti Pitta Bread Factory
+UKP5627 - Bridgend Works, Stonehouse
+UKP5633 - Sloane Street
+UKP5634 - Acton Square
+UKP5636 - Lidl HQ TBS
+UKP5637 - Telford 54 Development
+UKP5639 - Fosseway, Phase 2
+UKP5640 - King Edward Street, Phase 3
+UKP5642 - Spellowgate
+UKP5643 - Shakespeare Road, Finchley
+UKP5648 - Lawford Road, Rugby
+UKP5651 - Kelham Island, Sheffield
+UKP5652 - Riverside, Woolwich Diversions
+UKP5656 - Hollymoor Lane
+UKP5658 - Wadswick Green (Royal Arthur Phase 2A)
+UKP5659 - Oakley Vale, Corby
+UKP5661 - Sarisbury Green
+UKP5666 - Jubilee House, Stanmore
+UKP5671 - Haddenham, Stanbridge Road
+UKP5672 - Crowne Plaza Liverpool
+UKP5673 - Falmouth School
+UKP568 - London Road Hinckley
+UKP5680 - Haig Estate, Morden
+UKP5681 - Greenhill Road
+UKP5682 - Happy Days Nursery
+UKP5683 - The old cement kiln, Thaxted Road, Walden
+UKP5692 - Dads Hill
+UKP5695 - West Gorton Hub
+UKP5697 - Thames industrial Estate
+UKP5707 - Wembley K4
+UKP5708 - Coppetts Wood Hospital
+UKP5710 - Beech Lodge School
+UKP5714 - Mildenhall Hub,
+UKP5716 - Leamouth North D&E
+UKP5717 - 13 St Johns Road
+UKP5728 - Land Off Field Close, Southmoor
+UKP5731 - 2-6 High Street, Colliers Wood
+UKP5732 - Vicarage Road, Bedfordshire
+UKP5734 - Land off Bradford Road, Sherborne, Dorset
+UKP5735 - Heath Road
+UKP5739 - Enviroparks
+UKP5743 - Knowle Lane, Cranleigh
+UKP5744 - Kelham Island TBS
+UKP5745 - Allington Lane, Eastleigh
+UKP5746 - Restrod Road, Purton
+UKP5748 - Watford Gap Services
+UKP5749 - Greenacres, Duxford
+UKP5755 - 6-12 Kennington Lane
+UKP5759 - Harlow Science Park
+UKP576 - Sandridge Common
+UKP5761 - Pixham Ferry Lane, Kempsey
+UKP5762 - Charlton Road, Keynsham
+UKP577 - 7-15 Vanston Place
+UKP5771 - Studley Park,Wiltshire
+UKP5775 - Bridge House Phase 2
+UKP5776 - 51 Bromham Road
+UKP5777 - Cranbrook Energy Centre
+UKP5778 - Langport Road
+UKP578 - Railway Road
+UKP5781 - NIMR, The Ridgeway
+UKP5782 - Kings Point, Reading
+UKP5785 - Anker Valley
+UKP5791 - Heriot Watt Hotel, Edinburgh
+UKP5794 - Binsey Walk
+UKP5796 - Travelodge, Fieldhouse Lane, Marlow
+UKP5797 - Orion Boulevard, Warrington
+UKP5799 - 30 Grosvenor Square
+UKP5800 - Stompond Lane
+UKP5801 - 82-84 Cleeve Road, Leatherhead
+UKP5803 - Savoy Circus
+UKP5805 - Little Health existing services over proposed
+UKP5806 - Hartland Park, Farnborough
+UKP5808 - Cropston Road, Anstey
+UKP5809 - Henley Road Industrial Park
+UKP581 - Jolles House
+UKP5812 - The Brow, Watford
+UKP5816 - Former Kingsway Hotel, Manchester
+UKP5817 - Tenbury Road
+UKP582 - Hortonwood 30-50
+UKP5823 - 3-19 Caroline Street
+UKP5824 - Royal Wharf Phase 3
+UKP5825 - Ladderswood P,Q&R
+UKP5827 - Hermitage Lane, Mansfield
+UKP5829 - Grundys Farm
+UKP5830 - Engine Yard, Edinburgh
+UKP5831 - Bretch Hill, Care Home
+UKP5832 - Fford Y Mileniwm
+UKP5835 - Christmas Lodge
+UKP5838 - Millbrook
+UKP5840 - Ibstock Land, Emersons Green
+UKP5841 - Wallingford Road, Cholsey, Oxfordshire
+UKP5843 - Barnfield Road, Swindon
+UKP5847 - Clydebank Glasgow
+UKP5848 - Hathern Road, Shepshed
+UKP585 - Welwyn Garden City
+UKP5850 - Berkerly Site, Stroud
+UKP5852 - Newton Lane, Wigston
+UKP5856 - Dartford Plot 16A
+UKP5858 - High street, Felixstowe
+UKP5859 - Curious Brewery, Victoria Road
+UKP586 - Oaklands Hospital
+UKP5860 - De Burgh Gardens
+UKP5861
+UKP5862 - Bream Street LV
+UKP5864 - Merthyr Road, Abergavenny
+UKP5866 - Wembley NW07-08 LV Installation
+UKP5871 - Princess Elizabeth House
+UKP5872 - Land at Butterfield
+UKP5872 - Land at Butterfield - Shortcut (2).lnk
+UKP5872 - Land at Butterfield - Shortcut.lnk
+UKP5876 - Tews Lane, Phase 2 and 3
+UKP5878 - Bitham Park, Westbury
+UKP588 - The Outer Friary
+UKP5881 - Ridge Hill Hospital, Stoubridge
+UKP5882 - Long Marston, Phase 4B
+UKP5883 - Louth Road, Horncastle
+UKP5887 - Bidford on Avon
+UKP5888 - Wellparks
+UKP589 - Huntley Quarry
+UKP5894 - Mansfield Road, Hasland, Winsick
+UKP5895 - The Oaks, Wrexham
+UKP5896 - Redwither Road
+UKP5896 - Thrufield School, Cleeve Road
+UKP5897 - Old Vinyl Factory TBS
+UKP5899 - Chain Lane
+UKP5900 - Brook Road, Bristol
+UKP5901 - Croxley Green
+UKP5902 - Frith Park Strurts, Lane Walton
+UKP5905 - Land off Oxford Road, Calne
+UKP5906 - Northfield Lane, Barnstaple
+UKP5907 - Rose Meadow, Kings Road
+UKP5911 - Broiler House
+UKP5913 - Birmingham Road, Ansley, Nuneaton
+UKP5914 - Whittlesey Phase 2 & 2a
+UKP5919 - London Road, Attleborough
+UKP5922 - Deepdale Lane
+UKP5927 - Royal Mint Gardens
+UKP5930 - Carterton
+UKP5936 - Sidings Road, Kirkby
+UKP5937 - The Hyde, Hendon LV
+UKP594 - Bristol Hospital
+UKP5941 - Southwark Park, Pavilion Cafe
+UKP5948 - N06 East Village Temporary
+UKP595 - Resiform 5
+UKP5950 - Jubilee House TBS
+UKP5952 - Jubilee House Perm NTR
+UKP5955 - Summerfields
+UKP596 - 14-17 Wells Mews
+UKP5960 - The Billiards Factory
+UKP5961 - Nugent Close, Dunsfold
+UKP5974 - 150 Bishopsgate TBS
+UKP598 - Beech Tree Farm
+UKP5981 - Bolton Woods, Shipley, Bradford
+UKP5986 - Oak House, Fleet
+UKP5989 - New Road, Rainham
+UKP599 - Briars Hill Farm
+UKP5990 - SW03 TBS
+UKP5999 - 114 Canterbury Road
+UKP600 - Castlefields Retail Park
+UKP6003 - Woodlands Drive, Colsterworth
+UKP601 - Monkton Heathfield
+UKP6013 - New Qioptiq Offices, St Asaph, HV
+UKP6014 - Brownfield Site, Wingerworth
+UKP6015 - Llangollen
+UKP6016 - Station Square, South Oxley
+UKP6018 - Land Adj Grange Villas
+UKP6019 - Project Sofia
+UKP602 - Saffron Walden County
+UKP6022 - Gibbs Hill Farm, Headcorn
+UKP6023 - London Road, Retford Phase 2
+UKP6024 - Highworth Road, Shrivenham
+UKP6025 - Shireoak Common
+UKP6026 - Bretch Hill, Phase 2
+UKP6028 - Granville Road
+UKP6030 - St Johns Sential House
+UKP6031 - Richmond Campus TBS
+UKP6038 - Land north of Ledbury Viaduct
+UKP6039 - Tring Road
+UKP6041 - The Wharf, Bull Ring
+UKP6048 - Mansfield Road, Oakwood
+UKP6049 - Halden Lane, Rolvenden
+UKP6051 - Anthology Foundry LV
+UKP6054 - Cross Common Road, South Glamorgan
+UKP6059 - Wembley SW03 LV
+UKP6060 - 3 Burnt Oak Broadway
+UKP6068 - Burt Harbour, Phase 2
+UKP6069 - Coton Lane, Tamworth
+UKP6072 - Block D City Gardens, Manchester
+UKP6075 - South Grove, Walthamstow
+UKP6077 - Kensington Forum
+UKP608 - Holywell Way
+UKP6085 - The Essex Brewery Site
+UKP6086 - Manhattan Lofts LV 650kVA
+UKP609 - Stepney Green School
+UKP6093 - Sandridge Common
+UKP6095 - Kencot Hill - LV Supply
+UKP6096 - Kirkfield House Phase 3
+UKP6097 - Hunters Moon
+UKP6099 - Bishops Lane, Ringmer
+UKP610 - Marine Wharf
+UKP6104 - Douglas Road, Kingswood
+UKP6109 - Meriden Estate, Watford (Phase 1)
+UKP611 - Romney Wier
+UKP6110 - Land Rear of Walton Hall, Felixstowe
+UKP6112 - Padeswood Road, Buckley
+UKP6117 - Compton & Sarum, Calmore
+UKP6118 - Premier Inn, Maes Y Clawdd, Shropshire
+UKP6119 - St Ann Quarter G3 & G4
+UKP613 - New River House
+UKP6131 - Higham Lane, Nuneaton
+UKP6133 - Kenavon Drive Reading
+UKP6135 - Malgavita, Merrick Road
+UKP614 - Romill Close
+UKP6141 - Lombard House, Croyden
+UKP6145 - Chapel Lane, Bingham
+UKP6146 - North Yate
+UKP6153 - Coxwell Road, Faringdon, Oxfordshire
+UKP6156 - Royal Wharf Phase 3 LV Plot 24
+UKP6157 - Brent Cross Phase 1
+UKP6159 - The Old Vinyl Factory Phase 2
+UKP6160 - The Old Vinyl Factory, Phase 3
+UKP6172 - Castleworks, Stafford
+UKP6175 - Sandra and Radnor House
+UKP6179 - Butchers Ground, New Yatt Road, North Leigh
+UKP6187 - Maylands Avenue, Hemel Hempstead (Phase 1)
+UKP619 - 7&8 St James's Square
+UKP6190 - Cherry Park
+UKP6194 - Post Hill Park Tiverton
+UKP6194 - Post Hill Park Tiverton - Shortcut.lnk
+UKP6197 - Coleridge Road, Dartford
+UKP6201 - Strand East Gas Phase 1
+UKP6205 - Kings Manor
+UKP6207 - 50-54 Union Street
+UKP6208 - Howe Barracks, Canterbury, Kent
+UKP6213 - Close Lane, Alsager, Cheshire
+UKP622 - Brook Meadow
+UKP6225 - Royal Wharf P3 Plot 20
+UKP6226 - Perfume Factory, Wales Farm Road
+UKP623 - Orwell Retail Park
+UKP6232 - Napier Park Phases 1B, 2&3
+UKP6234 - N06 East Village TBS
+UKP624 - Moreton-in-Marsh
+UKP6243 - Cine City
+UKP6244 - St Anns Chapel
+UKP6247 - Greenford Green
+UKP6253 - Rolfe Lane, New Romney
+UKP6254 - Meard Street
+UKP626 - Raines Foundation School
+UKP6261 - Thomas Road
+UKP6262 - Wembley W03 LV Installations
+UKP6264 - Gosport Retail Park
+UKP6270 - Victoria Road, Chelmsford
+UKP6275 - Common Road, Sissinghurst
+UKP6278 - Strand East R2 LV
+UKP6279 - Strand East R3 LV
+UKP6280 - Strand East R4 LV
+UKP6281 - Wembley Box Park
+UKP629 - Croes Atti
+UKP6292 - South West Exeter
+UKP6292 - South West Exeter - Shortcut.lnk
+UKP6305 - 204 Great Portland Street
+UKP6310 - St. Osyth Priory
+UKP6316 - Dorset County Hospital
+UKP6318 - Southborough Hub
+UKP632 - Langdon Park School
+UKP6329 - Beachcroft House, Westminster
+UKP633 - Padeswood Road
+UKP6332 - Tithecote Manor
+UKP6339 - Hartland Village Phase 1
+UKP6339 - Hartland Village Phase 1 - Shortcut.lnk
+UKP6344 - Land West of Dartsmoor Road, Westbury
+UKP6345 - Leicester Lane, Enderby
+UKP6350 - 74 Rivington Street
+UKP6360 - Moxon Street
+UKP6365 - Jawbone Lane, Melbourne
+UKP6369 - Lidl, Motherwell
+UKP6374 - Coombe Park
+UKP6376 - Meriden Way Phase 2
+UKP6377 - Brighton Road
+UKP638 - Grosvenor House
+UKP6381 - Didsbury Centre
+UKP6383 - Queens Park Station area
+UKP6384 - Lion Green Road, Coulsdon
+UKP6385 - Abbey Wood and South Thamesmead
+UKP6386 - Montrose Crescent
+UKP6391 - Laleham School, Kent
+UKP6397 - Station Road, Langford
+UKP6404 - Wembley E03 LV Install
+UKP6409 - Halden Lane
+UKP6411 - Hallsville Quarter Phase 3 - Main Supply
+UKP642 - Moor Road
+UKP6441 - Fletton Quays, Peterborough
+UKP6442 - Royal Wharf Phase 3 Plot 13, 17&18
+UKP6446 - Park Road
+UKP6448 - Aberdeen Avenue
+UKP6451 - Scarrowscant Lane
+UKP6452 - Innsworth, Gloucester
+UKP6457 - Stowford Mill, Ivybridge
+UKP6468 - New Business Park, Chippenham Gateway
+UKP647 - Commensus House
+UKP6474 - Winnycroft Lane, Gloucester
+UKP6478 - Long Hanborough
+UKP648 - Creek Fen
+UKP6482 - Griffin Street, Amersham Vale
+UKP6488 - Kingsway Garage, Hove
+UKP649 - Stoke Quay
+UKP6497 - Wembley SE01 - Car Park Diversion
+UKP6498 - Woodyard Grid Connection
+UKP6500 - Royal Clarence Marina, Gosport
+UKP6507 - 100 Marylebone High Street
+UKP6508 - Garth Hill, Bracknell
+UKP651 - Haredon House
+UKP6510 - Vallance Road, London
+UKP6514 - Hambleton Avenue, Devizes
+UKP6517 - 142-146 Harley Street
+UKP6518 - Essex County Hospital
+UKP6519 - Jemmett Road, Ashford
+UKP652 - 17-23 Bentinck Street
+UKP6531 - Alexandra House, Cheshire
+UKP6533 - Land north of Low Lane, Calne
+UKP6536 - Wembley W06 TBS
+UKP6537 - Mascall Court Road
+UKP6551 - Atlas Street
+UKP6554 - Sherborne Phase 2
+UKP6555 - Reems Cross Lane
+UKP6556 - Cwm Cynon North
+UKP656 - Woodcock Farm
+UKP6562 - 104 The Broadway, Ealing
+UKP6566 - Nexus 25 Development, Taunton
+UKP6572 - Blue Mountain Golf Club
+UKP6575 - Filton Airfield - Phase 1
+UKP6578 - Solby Wood Farm
+UKP6579 - Daedalus (Phase 1)
+UKP6583 - Harpers Road, Warrington
+UKP659 - Thurston Road Industrial Estate
+UKP6591 - Harpenden Leisure and Arts
+UKP6596 - The Brickyard, Barking
+UKP6598 - Tim Hortons
+UKP6603 - Harrow View Former Kodak TBS
+UKP6605 - Holloway Road, Essex
+UKP6607 - Coggeshall Road Care Home
+UKP6608 - Cherry Orchard Way
+UKP661 - Vale Green, Norwich
+UKP6611 - Hawthorn Park
+UKP6618 - Stonegallows, Bishop Hull Phase 3
+UKP6620 - Arthur Street, London
+UKP6622 - MGH Wembley
+UKP6630 - Fentenoy Street, Liverpool
+UKP6633 - Sandy Fields, Colden Common
+UKP6639 - Llantrisant Road, Cardiff
+UKP6642 - Whitsbury Road, Fordingbridge
+UKP6643 - Anmore Road, Denmead
+UKP6647 - Orchard Wharf
+UKP6654 - Plot 4, Fletton Quays Development
+UKP666 - Hitchin Road
+UKP6667 - Springhead Phase 2B
+UKP6669 - Wembley E01.E02 TBS
+UKP667 - Kempsey FRMS
+UKP6670 - Dock Street
+UKP6675 - Plevna Crescent
+UKP6676 - Chapel Hill Relocation
+UKP668 - Bluehills D3
+UKP669 - Long Marston
+UKP6695 - Clarendons Gas Works South
+UKP6698 - Hallsville Quarter P3 Diversions
+UKP670 - Long Marston Phase 2
+UKP6702 - Centenary Quay, Phase 4B
+UKP6703 - Centenary Quay, Phase 5
+UKP671 - Lufton
+UKP6712 - St. Cuthbert's Close, Hexham
+UKP6719 - Land West of Copthorne, Crawley
+UKP6719 - Land West of Copthorne, Crawley - Shortcut.lnk
+UKP6721 - 260-266 - Balham High Street
+UKP6731 - Linden Farm, Coxheath
+UKP6732 - Colonial House
+UKP6736 - ALDI, Dumfries
+UKP6738 - Nyton Nurseries
+UKP6742 - Grosvenor Road, St Albans
+UKP6746 - Xerox Blocks X2-X5
+UKP675 - Edison Road
+UKP6752 - Land off Greenbank Road, Bristol
+UKP6754 - Ivy House Lane, Hastings
+UKP6759 - Ottery St. Mary Site, Care Home
+UKP676 - Lower Hillgate
+UKP6762 - Moulsham Lane, Yately
+UKP6763 - Bearscroft - 5 x Commercial supplies
+UKP6765 - Liberty Park, Widnes
+UKP6767 - Longford Mead, Taunton
+UKP677 - Oxylane Village, Nottingham
+UKP6771 - Sodbury Road, Wickwar
+UKP6774 - Tottenham Hale (Main Site)
+UKP6776 - Maybury Road, Woking
+UKP6777 - 47 Shirley Road, Croydon
+UKP678 - Decathlon Glasgow
+UKP6786 - Fenwick Estate
+UKP6788 - Food Works, Weston Business Quarter
+UKP679 - Oxylane Village, St Albans
+UKP6795 - Trent Park Campus, Enfield
+UKP6796 - Killingsworth
+UKP6797 - Dalefield Way, Gravesend
+UKP6799 - Beccles Road, Gorleston-on-sea
+UKP6801 - Broxbourne School
+UKP6807 - High Street, Colliers Wood
+UKP6808 - Loxwood Road, Alford
+UKP6809 - Royal Albert Docks (RAD) Gas
+UKP6810 - Cross Hands, Lydney, Gloucestershire
+UKP6816 - Grigg Lane P2, Headcorn
+UKP6824 - Bream Street Temporary relocation
+UKP6828 - Advantage Biogas - Maintenance Contract
+UKP684 - Colne View Marina
+UKP6844 - Travelodge, Stanhope Road, Portsmouth
+UKP6846 - Devonshire Park, Goodrington
+UKP685 - Audi Maidstone
+UKP6851 - Stanmore Crescent, Carterton
+UKP6865 - Parcel 2B - Deepcut, Mindenhurst
+UKP6871 - Artillery Place, London
+UKP6876 - Vita - Pebble Mill, Birmingham
+UKP6880 - Bishops Lydeard, Taunton
+UKP6890 - Deptford Wharves Plot 4
+UKP6894 - Unit 4B1 Riverside, Bedford
+UKP6896 - Houghton Regis North 1
+UKP6896-5MV - Houghton Regis, 7MVA connection
+UKP6896DV - Phase 4 Diversion, Houghton Regis
+UKP6896LC - Houghton Regis, Local Centre
+UKP6896P15 - Phase 1 Parcel 5, Houghton Regis
+UKP6896P2 - Houghton Regis - Phase 2
+UKP6896P21 - Houghton Regis, Phase 2, Parcel 1&2
+UKP6896P31 - Houghton Regis Phase 3A, Phase 1&2
+UKP6896P3A - Hougton Regis - Phase 3A
+UKP6896S4A - Houghton Regis P3B Spine Main
+UKP6896SS3 - Hougton Regis - Substation 3
+UKP691 - Sundorn Trade Park
+UKP6917 - Lakesite TBS
+UKP6918 - Cricklewood Broadway
+UKP6920 - West Yelland, Barnstable
+UKP6922 - Broughton Manor Frm, Broughton, MK
+UKP693 - Avon Court
+UKP6934 - Chicken Farm, Upavon
+UKP6935 - Leamouth South JKL, LV
+UKP6936 - South Oxhey, Phase 2
+UKP6937 - Kingsway, Hove - GAS
+UKP6940 - Islington Academy
+UKP695 - Woodlea Avenue, Chester
+UKP6951 - Atlantic Way, Bideford
+UKP6952 - Marston Lane, Stafford
+UKP6956 - Fair Oak, Mortimers Lane
+UKP6958 - The Mather Building
+UKP696 - Green Point
+UKP6961 - Nugent Close
+UKP6962 - Louviers Road
+UKP6962 - Louviers Road - Shortcut.lnk
+UKP6966 - Long Marston - Phase 3B
+UKP6969 - Olive Morris House
+UKP697 - Abbey Road, Barking
+UKP6979 - Rowlands Castle, Redhill Road
+UKP6982 - 100 Bollo Lane Acton
+UKP6989 - Townsend Road, Shrivenham
+UKP6990 - Wembley E01-02 LV install
+UKP6991 - Greenford Green TBS
+UKP6996 - Wembley SW03B 4 & 5 - LV
+UKP7000 - Olympic Way
+UKP7001 - Malgavita Gas
+UKP7003 - Portal West
+UKP7008 - New Barn Lane, Bognor Regis
+UKP701 - Norton St Philip
+UKP7014 - Caledonian House, Watford
+UKP7015 - Fanuc House, Ruislip
+UKP7018 - Rudloe, Corsham
+UKP7021 - Wembley W06 LV
+UKP7022 - London Road, Hassocks
+UKP703 - Ruthin Road
+UKP7030 - Lower Graylingwell, Chichester
+UKP7036 - Aldi-Printers Place, Paisley
+UKP7040 - Allern Road, Tamerton Foliot, Plymouth
+UKP7049 - Toplocks, Southall
+UKP705 - Gyhll Road
+UKP7051 - Bridport Place
+UKP7052 - Shepcote Lane, Sheffield (Phase A)
+UKP7055 - Former Dunmail School, Bristol
+UKP7056 - Cowbridge Road, Llantwit Major
+UKP7058 - Britannia Site
+UKP706 - Worthing College
+UKP7061 - Bastable Avenue, Barking
+UKP7062 - Laindon Blocks A-H
+UKP7064 - Shrivenham Road, Highworth
+UKP7068 - Riverside North, Horne Lane, Bedford
+UKP7078 - De-Burgh Gardens
+UKP7079 - Matrons College Farm, Salisbury
+UKP708 - St Margaret Ward School
+UKP7081 - Fairfield Road, Rowley Regis
+UKP7086 - Alpha Square
+UKP7087 - Oaklands College, St Albans
+UKP709 - Stanwell Extra Care
+UKP7090 - Abbey Wood & Southmere P2
+UKP7094 - Royston
+UKP7095 - Harrow View Former Kodak Relocation
+UKP7099 - Chalk Farm, Sawbridgeworth
+UKP7100 - Wembley SE01 Car park Supply
+UKP7101- Walsh Manor Farm, Crowborough
+UKP711 - Lake Farm
+UKP7110 - Bath Road, Keynsham
+UKP7112 - Wembley NW09 & 10
+UKP7116 - Wembley NW09 & 10 LV design
+UKP712 - Kingston Farm
+UKP7123 - Milliner Court
+UKP7126 - St John’s Church, Newton Tracey
+UKP7130 - Monckton Avenue, Lowestoft
+UKP715 - Clensmore Street
+UKP7152 - Oakdale Golf Club, Gwent
+UKP7156 - Lakeview Quarries, Somerton
+UKP7157 - Tower Hamlets Civic Centre NTR
+UKP716 - Bransford Road
+UKP7166 - Leamouth South TBS
+UKP7171 - Former Witney FC, Downs Road
+UKP7178 - Wolfson Centre Phase 3
+UKP7179 - Fulham FC Riverside Stand
+UKP7180 - 117 Mount Street, Mayfair
+UKP7184 - Three Mills Trading estate - ES0180767
+UKP7197 - Noss Dart Marina
+UKP7197 - Noss Dart Marina - Shortcut (2).lnk
+UKP7197 - Noss Dart Marina - Shortcut.lnk
+UKP720 - Solihull Retail Park
+UKP7207 - Moda Living 218 Broad Street - ES0184326
+UKP721 - South Stack Road
+UKP7217 - Springfield Road
+UKP7218 - Greenbridge Road, Swindon
+UKP722 - London Sustainable Industries Park
+UKP7223 - British Museum Archive, Reading
+UKP7233 - 1-57 Durham Road - ES0174589
+UKP7235 - SOABE, Springfield Campus, UoW
+UKP724 - Royal Arsenal Hotel
+UKP7243 - Boomtown Festival Uk Ltd - ES0185114
+UKP725 - M8 Hotel Stratford
+UKP7263 - Marsworth & Vicarage Road, Pitstone
+UKP7266 - Bakersfield, Rainham
+UKP7273 - Winterhay Lane, Ilminster,Somerset
+UKP7276 - Oakcroft Lane, Stubbington, Fareham
+UKP7277 - Winterstoke (Haywood Village) - H19
+UKP7279 - Longcross Park, P2 and Discovery
+UKP7283 - Bishops Stortford Goods Yard
+UKP7295 - Moravian Athelstan Museum - ES0185812
+UKP7298 - Euroauction site, Roall Lane, Leeds
+UKP7299 - Harrow View Former Kodak D7
+UKP7302 - Wilson Investment Holdings Ltd - ES0184042
+UKP7303 - Long Wyre Street
+UKP7305 - Unit 1, 2 Pintle Place
+UKP7312 - Derby Street, Ormskirk, Liverpool
+UKP7316 - Whittlesey, Care Home
+UKP732 - 268 Waterloo Road
+UKP7321 - Akeman Park, Bicester - Phase 2
+UKP7323 - 75 North Street
+UKP733 - Point North Data Centre
+UKP7330 - Northfield Park, Charlton Hayes
+UKP7332 - Queen Margarets Road, Coventry
+UKP734 - Caskinlow Farm
+UKP7341 - Catherington Park, Waterlooville
+UKP7344 - Wembley E05 LV Installation
+UKP735 - Kings Farm
+UKP7351 - Forest Dene, Crowborough
+UKP7366 - Buckland Mill, Dover
+UKP7369 - Wembley Olympic Way Feeders Pillars
+UKP7370 - Deeley Construction Ltd - ES0184542
+UKP7374 - Dukes Lodge
+UKP7376 - East Ham Market, Myrtle Road
+UKP7396 - Wilson Investment Holding Ltd- ES0188676
+UKP7398 - Wembley, K7 Feeder Pillar
+UKP7399 - Tewin Road, Welwyn Garden City
+UKP7401 - Westbury Estate, Building E
+UKP7405 - Wembley Spanish Steps, London
+UKP7406 - 6-10 Market Road
+UKP741 - Newent Phase 3
+UKP7414 - Tower Hamlets Civic Centre TBS
+UKP7416 - 7-21 Hungerford Road, Bristol- ES0178146
+UKP742 - Dunwoody Way
+UKP7425 - 327-329 Morville Street
+UKP743 - St Clements
+UKP7433 - Llanilid, Phase 1, Pencoed, Bridgend
+UKP7438 - Barnes Avenue, Cefn Glas, Bridgend
+UKP744 - Wornington Green P1
+UKP7444 - Honiton Inn, Paris Street
+UKP7455 - 156 Warstone Lane - ES0187655
+UKP7456 - Trayne Farm, Roborough Road, Barnstaple
+UKP7462 - Skelly & Couch  Oxford Uni - ES0187963
+UKP7463 - The Causeway, Bassingbourn
+UKP7464 - West Street, Erith
+UKP7465 - Lydbrook Close, Sittingbourne
+UKP747 - Underwood Road
+UKP748 - Portland Drive
+UKP7482 - Edgwick Industrial Park, Coventry
+UKP7491 - The Astoria, Brighton
+UKP7492 - Pandy Road, Bedwas, Caerphilly
+UKP7500 - Maylands Avenue - GAS
+UKP7501 - South Grove TBS
+UKP7502 - Steventon Road, East Hanney, Wantage
+UKP7506 - Bream Street Gas
+UKP7507 - Park View, Whitchurch Lane, Bristol
+UKP751 - Newton Marsh
+UKP7518 - Staplegrove, Taunton
+UKP7518 - Staplegrove, Taunton - Shortcut.lnk
+UKP7519 - Blueprint Commercial, Watford
+UKP752 - Paulton Phase 1B
+UKP7522 - Grange Road, Tuffley
+UKP753 - Riverside Retail Park
+UKP754 - Kingsmead Retail Park
+UKP7552 - Trevor Taylor Properties - ES0187748
+UKP7553 - Silvertown Way-GT LV Laterals
+UKP7555 - Leigh Academy
+UKP756 - Centenary Quay Phase 3
+UKP7560 - Deepdale Lane, Nettleham
+UKP7565 - Bramcote, Thorpe Road
+UKP7568 - Knowles House
+UKP7574 - Cherry Orchard House, Marlborough
+UKP7579 - Britannia H1&H2
+UKP758 - Ambleside Avenue
+UKP7584 - Dovedale Avenue, Preston
+UKP7585 - Scout Drive, Wythenshawe
+UKP7586 - Great Wilsey Park, Haverhill
+UKP7587 - Winscombe, Somerset
+UKP759 - Bank Top Industrial Estate
+UKP7603 - Deanston
+UKP7605 - Brook Close, Newhaven
+UKP761 - Crossbrook Street
+UKP7617 -  Former Ambulance Station, Chippenham
+UKP762 - Pear Tree Street
+UKP7620 - Peckham Rye
+UKP7625 - Feltham Construction Ltd - ES0190116
+UKP763 - Mulberry Avenue
+UKP7637 - Abbey Walk, Herts
+UKP764 - Park Road
+UKP7644 - MACC Living Ltd - ES0190201
+UKP765 - Uffnells Farm
+UKP7650 - Wolsey Road, Phase 3
+UKP7653 - Churchgate Ferndown Ltd - ES0190557
+UKP7657 - Hartcliffe Campus, Bristol
+UKP7658 - Luton Street
+UKP766 - Blackfriar Street
+UKP7660 - Westfield Farm, Earl Shilton
+UKP7662 - Valley Park, Didcot
+UKP7662NC - Valley Park, Didcot - Non-Contestables
+UKP7666 - Harry Stokes, Great Stokes Way, Hambrook
+UKP7669 - Admirals Walk, Sheerness
+UKP767 - Midwinters
+UKP7673 - Saddlebow Road - Phase 3B
+UKP7678 - Harrison House Farm, Lea
+UKP7680 - Corelli, Sherborne (Phase 3)
+UKP7686 - Retford Road, Phase 3
+UKP7687 - Dawes Farm, Stockmore, Bridgewater
+UKP769 - Churchill Business Park
+UKP7690 - R7b, Commonhead, Swindon
+UKP7691 - Tower Hamlets Civic Centre
+UKP7692 - Taberner House TBS
+UKP7698 - BYRNE COMMERCIAL PROPERTYLtd - ES0184519
+UKP770 - Whitecross School
+UKP7705 - Luton Street TBS
+UKP7708 - Bow River Village, Hancock Road
+UKP771 - The Oaks
+UKP7712 - Wembley SW01, 02 & 07
+UKP7714 - Ty'n Coed, Llangefni, Anglesey
+UKP7725 - Wembley Link
+UKP773 - Messier Dowty
+UKP7730 - Burford Road, Minster Lovell (Resi)
+UKP7748 - Tottenham Lane
+UKP7749 - William Muge & Snelgrove
+UKP775 - South Kilburn Phase2
+UKP776 - South Kilburn Phase3
+UKP7760 - Lowbrook Farm, Solihull, Tidbury Green
+UKP777 - Alie Street 14- 20
+UKP7775 - Aylesham Shopping Centre
+UKP778 - Balcombe Estate Sawmill
+UKP7785 - Banbury Road, Chipping Norton
+UKP7790 - Oxted Gas Works
+UKP7798 - Inter-Diocesan Fuel Ltd - ES0192212
+UKP7805 - South Normanton, Alfreton
+UKP781 - Guernsey Lane
+UKP7812 - Sudhera Developments Ltd - ES0192824
+UKP7815 - Faringdon, Park Road, Oxfordshire
+UKP782 - Honda AEE Rove Farm
+UKP7822 - Croydon Youth Centre
+UKP7823 - Essex School, Bishops Stortford
+UKP783 - Midsomer Norton
+UKP7835 - Sandgate Pavilions, Kent
+UKP7836 - Brentford, Waterside
+UKP7841 - Colonial Leisure Limited - ES0193129
+UKP7858 - G F Cross & Sons Ltd - ES0193657
+UKP786 - Barpo Site, Sherwood Road
+UKP7860 - Tottenham Hale, Ashley Road East
+UKP7861 - Portal West Gas
+UKP787 - Evesham Trade Estate
+UKP7873 - Roughwood Lane, Cheshire
+UKP7876 - Harry Stoke, South Infrastructure
+UKP7877 - Devonhurst Place, Chiswick
+UKP788 - Belmont View
+UKP7882 - Ashton Park Trowbridge
+UKP7887 - Campion Way, Bridgwater, Somerset
+UKP789 - Cottesmore Close
+UKP7897 - Aubries, Stevenage
+UKP790 - Craylands Estate
+UKP7901 - Enfield Sites
+UKP7902 - 383 Cockfosters Road
+UKP7903 - Park View, Bristol TBS
+UKP791 - Rivulet Road
+UKP7913 - Osbourne Gate, Bracknell
+UKP7914 - High Street, Codicote
+UKP792 - East Street Farnham
+UKP7925 - Glenfield Hospital, Leicester
+UKP7929 - Silver End, Braintree
+UKP7932 - Greens, Cheapside, Waltham
+UKP7936 - Locksley A Site TBS
+UKP7947 - High View, Hatfield
+UKP795 - Ashchurch, Tewksbury
+UKP7959 - Ashton Rise, Bristol
+UKP796 - Elm Hurst Care Home
+UKP7962 - Abbey Wood and Southmere GAS
+UKP7966 - Borras Construction Ltd ES0195109
+UKP7969 - Akeman Park, Bicester (Phase 3)
+UKP797 - St Asaph Business Park
+UKP7973 - Colliers Wood GAS
+UKP7978 - Britannia GAS
+UKP798 - Little London Chichester
+UKP7980 - Minster Chalet Park, Sheerness, Kent
+UKP7983 - Royal Brompton Hospital
+UKP7984 - Henlow Lakes
+UKP7989 - Chapel Arches, Crown Lane
+UKP799 - Stonecross Business Center
+UKP7995 - Highbrook Park, Westfield Lane, Filton
+UKP7996 - Williton War Memorial ES0195809
+UKP7997 - Grace & Lauren Williams ES0193383
+UKP7998 - Royal Brompton Hospital NTR
+UKP800 - Langford Locks
+UKP8002 - Poppy Place, Crosby Road, North Waterloo
+UKP8006 - Kelton Grange, Liverpool
+UKP8011 - Britannia TBS
+UKP802 - Drummond Farm
+UKP8020 - Horam Road, Sussex
+UKP8032 - Deptford Plot 4 TBS
+UKP8036 - Burlington Road, New Malden
+UKP8037 - Broadway, Bexley Heath
+UKP8040 - New Romney Phase 2
+UKP8041 - Xerox Block X6
+UKP805 - Woodberry Grove
+UKP8051- Pantheon park, Wolverhampton
+UKP806 - Plymouth Avenue
+UKP8067 - Brentford Waterside Block G Car Park
+UKP8068 - Brentford Waterside Diversions
+UKP8070 - Steeple Claydon
+UKP8073 - Heritage Farm Phase 2
+UKP8076 - Nash House
+UKP8080 - Western Circus, Acton
+UKP8084 - Adanac Park, Southampton
+UKP8088 - Manydown, Basingstoke
+UKP809 - Taylors Road Hitchin
+UKP8090 - Springfield Campus, Phase 2
+UKP8098 - Great Ecclestone, Preston
+UKP8099 - Weeton, Preston
+UKP810 - Church Road
+UKP811 - Stockport Road
+UKP8111 - Cafe Field, Hertfordshire
+UKP8119 - Yarnton Nurseries ES0198060
+UKP8120 - Legge Lane, Birmingham
+UKP8123 - Leicester Lane, Melton Mowbray
+UKP8124 - Whittlesey, Phase 3
+UKP813 - Clay Mills
+UKP8136 - Olive Morris House Relocation
+UKP8137- Land Off Old Vicarage Lane, South Marston, Swindon, Wiltshire
+UKP814 - Western Road
+UKP8146 - Abbey Road, Sandbach
+UKP8147 - Yew Tree Farm, Phase 1, Burscough
+UKP815 - May Farm
+UKP8150 - 47-57 Marylebone Lane
+UKP8151 - Brentford Block G Marketing Suite
+UKP8157 - 94-98 Chiswick Road
+UKP8159 - Good Luck Hope, North LV
+UKP8179 - Brooke-Kingston Avenue
+UKP818 - Stoke Road
+UKP8183 - Craicard Ltd ES0198435
+UKP8189 - Winterstoke (H14,H15,H16,H18) - Phase 2
+UKP8190 - Hounsome Fields, Basingstoke
+UKP8193 - East Huntspill, Highbridge, Somerset
+UKP8199 - Quedgeley East
+UKP820 - Dock Street
+UKP8200 - Barton Farm, Sherborne, Dorset
+UKP8208 - Bradley Barton Farm, Devon
+UKP821 - London Road, Retford
+UKP8210 - QE2 Phase 2, Welwyn Garden City
+UKP822 - HTC Grange Mill Lane
+UKP8221 - Taberner House
+UKP8224 - Kuoni and Deepdene
+UKP8225 - Thomas Homes Ltd - ES0199443
+UKP8231 - Aldi Store, Marina Quay, Rhyl
+UKP8239 - St Johns Hill Phase 2
+UKP8241 - Guardian Industrial (UK) Limited - ES0199692
+UKP8246 - Sea Road, Thanet
+UKP8247 - Cherwell District Council - ES0200002
+UKP8249 - Howe Barracks Phase 2
+UKP8250 - Packington Hall Farm
+UKP8251
+UKP8251 - Renishaw HV Installation
+UKP8252 - Pirton Fields, Churchdown
+UKP8261 - Millfields, CAM
+UKP8267 - Greenford Green Block B3
+UKP8269 - Hendredenny, CAERPHILLY
+UKP8273 - Cardiff & Vale NHS Trust - ES0198732
+UKP8276 - 38-42 High Street, Godstone
+UKP8278 - The Gospel Hall - ES0200811
+UKP828 - Kings Mills Estate
+UKP8280 - Winnington Urban Village, Cheshire
+UKP8281 - 227-228 Strand
+UKP829 - Bury Hospice
+UKP830 - Foolow Court
+UKP8301 - Mascall's Farm, Paddock Wood
+UKP831 - Cressy Fields
+UKP8311 - White Lane, Ash Green
+UKP8315 - Anthology Hale
+UKP8316 - Snelsmoor Lane, Boulton Moor
+UKP8317 - Crimchard, Chard, Somerset
+UKP8318 - Bargates, Christchurch, Dorset
+UKP8318 - Bargates, Christchurch, Dorset - Shortcut (2).lnk
+UKP8318 - Bargates, Christchurch, Dorset - Shortcut.lnk
+UKP8319 - White Lane, Ash green, Aldershot
+UKP832 - Clay Cross
+UKP8326 - Woodyard Lane, Wollaton
+UKP8327 - Woodcroft Lane, Waterlooville
+UKP833 - Bridges Hall
+UKP8333 - Wembley Olympic Steps
+UKP834 - Aerodrome Way
+UKP8342 - Churchers College - ES0208846
+UKP835 - Tanyard Lane
+UKP8350 - Hallsville Quarter Gas
+UKP8351 - Ascot Road, Watford
+UKP836 - Great Sankey Primary School
+UKP8370 - Guildford Station
+UKP839 - Cranswick, Malton
+UKP840 - Brunswick Road, Ashford
+UKP8401 - Station Road, Lakenheath
+UKP8402 - Cresta House
+UKP8406 - Island Site, Beggarwood Lane
+UKP8408 - 3&4 Station Square CB1
+UKP841 - Bridge Street
+UKP841 -TBS - Bridge Street
+UKP8417 - Wembley NW09-NW10 TBS
+UKP842 - Travelodge Ipswich
+UKP8420 - Chester Road, Great Sutton
+UKP8422 - Callington Road, Tavistock, Devon
+UKP8422 - Callington Road, Tavistock, Devon - Shortcut.lnk
+UKP8427 -  Lantern Lane, East Leake
+UKP8429 - Bengry Motors (Leominster) LTD ES0199359
+UKP843 - Hanksey Farm
+UKP8431 - Mr Michael Norton ES0203856
+UKP8433 - Seaford Grange
+UKP8434 - Mascall's Farm, Paddock Farm
+UKP8439 - Turnden, Cranbrook Phase 1
+UKP8440 - Seagrave Road, Sileby
+UKP8444 - Volvo Canterbury, Kent
+UKP8446 - Eastern Green
+UKP8446TPS - Eastern Green - Temp 33kV connection
+UKP8449 - Redlands Farm, Wanborough, Swindon
+UKP845 - Hirwaun Industrial Estate
+UKP8452 - Ladden Brook, North Yate (Phase 2)
+UKP846 - Waunarlwydd
+UKP8460 - Park Avenue
+UKP8466 - Hempshaw Lane, Offerton
+UKP847 - Briton Ferry
+UKP8472 - Old Coventry Hospital, Coventry
+UKP8473 - Xerox - X7
+UKP8475 - Tudor Nurseries, Goffs Oak
+UKP8477 - Phase 2, Allington Lane
+UKP8477P3 - Allington Lane, Phase 3
+UKP8479 - Chapel Gate, Launceston, Cornwall
+UKP8481 - Rennie Estate, Southwark
+UKP8489 - Britannia Gate, Bedford
+UKP849 - Borough Market
+UKP8492 - Warfield, Brcknell, Phase 6&7
+UKP8493 - Entech House, Woolmer Green
+UKP8496 -  Headlam, Ipswich
+UKP8498 - Phase2, Fair Oak, Mortimers
+UKP8499 - River Mill Primary School
+UKP8502 - Blackhorse Road TBS
+UKP8509 - Wembley NW09-10 LV install
+UKP8510 - Brentford Car Park Secondary
+UKP852 - Foxmoor Nursieries
+UKP8523 - Fulham Gas Works TBS2
+UKP8528 - Watkin Road, Wembley
+UKP853 - Harris Holdings
+UKP8531 - The Harrow Bishopstone
+UKP8548 - Courteenhall Farm
+UKP8549 - Lark Grange - Phase 3-5
+UKP855 - Shipston on Stour
+UKP8557 - The Green, Woking
+UKP8569 - Didcot Road, Harwell
+UKP857 - Right Up Lane
+UKP858 - 5 Office Units, Whatton
+UKP8582 - ABSOLUTE CARE HOMES (CENTRAL) -ES0206521
+UKP8586 - Waterloo Road, Bidford
+UKP8587 - Warminster Folly Farm
+UKP8589 - Siren Craft Brew Ltd - ES0205915
+UKP8593 - Southmere Boat Club
+UKP8594 - Yew Tree Farm, Phase 2, Burscough
+UKP8596 -Land of Tunnel Road, Ansley
+UKP8599 - CCOSS, St Albans
+UKP860 - Trevase Farm
+UKP8608 - Fenwick Estate GAS
+UKP8612 - Steventons Road, East Hanney
+UKP8614 - Brickfield Stud, Newmarket
+UKP862 - Grafton Way Development
+UKP8629 - Queensmead
+UKP8630 - Garden Village, Swansea
+UKP8631 - Islington Academy Permanent
+UKP8639 - Hatchside School, Redbridge
+UKP8640 - Welford Road East, Wigston
+UKP8644 - Nerrols Farm - Phase 2
+UKP865 - Upper Green Road
+UKP8651 -The Glenroy Hotel - ES0205615
+UKP8652 - Forward in Faith Ministries - ES0207588
+UKP8653 - Penns Mount, Keingsteighton
+UKP8662 - Priory House, Southend
+UKP8669 - Land off Hill Cottage, Blundson Hill
+UKP867 - Bristol Road, WSM
+UKP8672 - Chesterfield Waterside
+UKP8674 - Forest Road, Burton-On Trent
+UKP8675 - Friary Park, Acton
+UKP8682 - Moulescoomb Way, Brighton
+UKP8685 - Shorncliffe Officers Mess
+UKP8687 - Filton Airfield - Boundary Substation
+UKP869 - E2V Chelmsford
+UKP8696 - Oakleigh Road North
+UKP8706 - West Road, Sawbridgeworth
+UKP8714 - Marlborough Road, Wroughton
+UKP8715 - Yatton Keynell
+UKP8716 - Lidl, Coleford
+UKP875 - Clearwell Farm
+UKP8750 - Bishops Stortford Block B
+UKP8751 - Bishops Stortford Block A LV
+UKP8755 - Wadswick Green Phase 2B
+UKP877 - Hafod Elfyn
+UKP8772 - East Villages, Swindon
+UKP8775 - A5 Aquatics, Nuneaton
+UKP878 - Kilkhampton
+UKP8780 - Land at Kingsland Laines
+UKP8782 - Phase 3, Commonhead, Swindon
+UKP8785 - Weaver Leisure Ltd - ES0208723
+UKP8788 - Audi Canterbury
+UKP8789 - Anthology Hale LV
+UKP879 - King Edwards Street
+UKP8794 - Techbuild (Refurbishments) - ES0208910
+UKP880 -
+UKP8804 - Buxton Road
+UKP8806 - Chudleigh Road, Exeter
+UKP881 - Lower Road, Harmer Hill
+UKP882 - Ways Green
+UKP8820 - West Road, Quintrell Downs
+UKP8821 - Quarryside Business Park
+UKP8822 - Former Bramingham Centre
+UKP8831 - Porsche Centre Leeds
+UKP8835 - Clarendon Gas South TBS
+UKP8837 - Leon House 2, Croydon
+UKP884 - Fishponds Road
+UKP8841 - Bryncastell, Bridgend
+UKP8843 - Centenary Quay, Retail Units
+UKP8850 - Callendar Farm, Nuneaton
+UKP8850-E1095-241028-PO178938.pdf
+UKP8851 - Respryn Road, Bodmin
+UKP8855 - Newbottle Investments - ES0210137
+UKP8858 - Bishops Stortford TBS
+UKP886 - Townsend Industrial Estate
+UKP8869 - Land Adj Brighton Road
+UKP887 - Droylsden Marina
+UKP888 - Hirwaun Industrial - Private
+UKP8881 - Lumenisity, Romsey
+UKP8885 - Gloucester Road, Thornbury
+UKP8887 - Waterloo Road
+UKP889 - Deptford High Street
+UKP8893 - 23 Queen Anne Street
+UKP8904 - NHS Wales Shared Services - ES0211301
+UKP8910 - Wandle Terrace, Wimbledon
+UKP8913 - Royal Wharf Phase 2B School
+UKP8918 - Former West Herts College
+UKP892 - Catbrain Hill, Bristol
+UKP8923 - Superior Care Properties - ES0209151
+UKP8926 - Lindsworth School - ES0211435
+UKP893 - Waterloo Road
+UKP8936 - Beaconsfield
+UKP8937 - Hill Hay Close, Fowey
+UKP8938 - North Town, Aldershot
+UKP8941 - Capitol House, WInchmore Hill
+UKP8942 - Aston Grove, Bampton
+UKP895 - TW Metals
+UKP8950 - Hammersmith Town Hall
+UKP8951 - Alpha Square TBS
+UKP8952 - Alpha Square Secondary Supply
+UKP8954 - Kenilworth School
+UKP8955 - Freeland Care Home
+UKP8957 - Berol Yard
+UKP896 - Sidmouth Street
+UKP8960 - Mast Quay Diversion
+UKP8961 - Mast Quay
+UKP897 - Blakeney Way
+UKP8972 - Cottam Brickworks, Preston
+UKP8974 - West Ferry West India Dock Road
+UKP8979 - Coggeshall Road, Kelvedon
+UKP898 - Woodlands Walk Phase2
+UKP8986 - Soldier Orange Theatre, RAD
+UKP8990 - Parsonage Way
+UKP9016 - Land at North End, Yatton
+UKP9017 - Burgess Sports Centre
+UKP9019 - Renishaw New Mills - Switchgear Replacement
+UKP9024 - Crown House, Barking
+UKP9026 - Lawrence Weston Bristol
+UKP9032 - 300 Manor Road, Canning Town
+UKP9034 - Gallions Quarter
+UKP9038 - Notley Farm
+UKP9049 - Vertu Motors PLC - ES0213903
+UKP905 - Northfield Road, Netherton
+UKP9055 - Unit B, Akeman Park
+UKP906 - Valley Road, Cinderford
+UKP9063 - Tottenham Hale Plot Con - Welbourne
+UKP9064 - Tottenham Hale Plot Con - Ashley Road West
+UKP9069 - The Old Mill, Worcester Park
+UKP907 - Ramsgate Leisure Centre
+UKP9072 - Plasdwr Cardiff Development
+UKP9073 - Weldale Street, Reading
+UKP9074 - Southmere P1B TBS
+UKP9076 - Dora House TBS
+UKP9077 - Horlicks Site
+UKP9078 - North Audley Street
+UKP9089 - 2 Teddington High Street
+UKP909 - Springhill Farm AD
+UKP9090 - The Broadway, Crawley
+UKP9092 - Hujjatt School, Harrow
+UKP9097 - Ordsall, Salford
+UKP9099 - Valley House LV
+UKP910 - Cottam Hall Brickworks
+UKP9106 - North Petherton - East, Taunton Road
+UKP9107 - Vehicle Maintenance Unit, Amesbury
+UKP9109 - Sytner Group Limited - ES0210441
+UKP9119 - Cog Road, Sully
+UKP9120 - Romney House, Bristol
+UKP9126 - Lingfield Lodge, London Road
+UKP9127 - Knights Walk
+UKP9131 - Kingsland Laines Diversions
+UKP9138 - Shepcote Lane - Unit 2
+UKP9148 - Brentford Waterside - Blocks A, B, C & K
+UKP915 - Winchelsea Road - TBS
+UKP9154 - SMHLR Phase 2 Hv and Mosshayne
+UKP9155 - Battenhall Avenue, Worcester
+UKP9157 - Wimbledon Chase
+UKP9159 - Matford Home Farm, off A379, Exeter
+UKP9176 - Salhouse Road Phase 3
+UKP9177 - Rooksmoor Mills, Woodchester
+UKP9185 - Patterdown, Chippenham
+UKP9195 - College Gardens, Aberdare
+UKP9198 - Mill Ponds Block F
+UKP920 - Churchdale Road
+UKP9207 - Catsbrain Farm, Swindon
+UKP921 - Carlton Road
+UKP9214 - Spelthorne Leisure Centre
+UKP9221 - Box Road, Cam, Gloucestershire
+UKP9224 - Acorn Truck Sales, London Road
+UKP9227 - Kings Weston Lane, Lawrence Weston
+UKP9228 - Filton Airfield, Primary Substation
+UKP923 - Henllan Centre
+UKP9230 - Silvertown School, Fort Street
+UKP9232 - DWG301 - Rev8 - Site Layout and Cable Routes - iDNO - Phase 2.pdf
+UKP9232 - Victoria Road, Warminster - Phase 2
+UKP9234 - Billinghurst Business Park
+UKP924 - Bretton Hall
+UKP9240 - Westbrook Mills, Godalming
+UKP9241 - Building 4, Chalfont Park
+UKP9246 - Corelli, Sherborne (Phase 4)
+UKP925 - Barking Hotel
+UKP9251 - 100 Kensington High Street
+UKP9252 - Unit 4a Hoe Street, Walthamstow
+UKP9253 - Wembley W03 Unit 4
+UKP9257 - Bedford Passage TBS
+UKP926 - Hooe Lake
+UKP9263 - Land at Pound Farm
+UKP9263P2 - Phase 2, Pound Farm, Lyneham
+UKP9264 - Cross Lane, London
+UKP9265 - Grange Farm, Harrow
+UKP9268 - Gallows Hill, Warwick
+UKP9269 - Rempstone Road, East Leake
+UKP9274 - Quay Court (Care Centre) - ES0218154
+UKP9278 - Deanston Wharf Relocation
+UKP9279 - Baring Road, Grove Park
+UKP9282 - Bath Road, Keynsham - Curo
+UKP9289 - New Garden Square
+UKP9291 - Dora House, Central & Cecil
+UKP9294 - Waverley, Kingston Upon Thames
+UKP9298 - Carclaze Garden Village
+UKP9301 - Crediton Road, Okehampton
+UKP9301 - Crediton Road, Okehampton - Shortcut.lnk
+UKP9302 - Llangyfelach Road
+UKP9308 - Salmons Brook
+UKP931 - 7-9 Vanguard Way
+UKP9318 - Dunkerton Properties LLP - ES0218153
+UKP9321 - Coombe Hill, Cheltenham
+UKP9332 - Waun-Y-Pound Road, Ebbw Vale
+UKP9335 - Berwick House Block D
+UKP9336 - Lower Haysden Lane, Tonbridge
+UKP934 - Cedars Park
+UKP9340 - Rodley Manor Way, Lydney
+UKP9344 - Gallions Quarter TBS
+UKP935 - Penmark House
+UKP9352 - Land off Maesteg Road, Bridgend
+UKP936 - Neat Court, Isle of Sheppy
+UKP9361 - Hunters Moon Phase 3
+UKP9363 - Cuffley Hill, Goffs Oak
+UKP937 - 33-35 Lewisham Way
+UKP9370 - 60 St. Johns Wood Road, Dora House
+UKP9373 - Anchor Field, Ringmer, East Essex
+UKP938 - Hall Road, Aylesford
+UKP939 - Hollyhedge Road
+UKP9390 - Quail Gardens, Croydon
+UKP9391 - Pentrebane Phase 1F
+UKP9396 - Land West of Copthorne - Commercial
+UKP9396 - Land West of Copthorne - Commercial - Shortcut.lnk
+UKP9401 - Alperton House, Wembley
+UKP9422 - Abbey Wall Works, Colliers Wood
+UKP9429 - Little Thetford, Cambridgeshire
+UKP943 - Simonswood School
+UKP9431 - Bilton Road, Perivale
+UKP944 - Winterstoke Village
+UKP9446 - Tottenham Hale, Ashley Road West TBS
+UKP945 - Red Bank
+UKP9451 - Ashley Gardens Building 1 & 1A
+UKP9458 - The Oaks, Kedleston Road, Allstree
+UKP946 - Canning town
+UKP9461 - Maldon Road, Burnham on Crouch
+UKP9469 - Glasswater Lock
+UKP9469TBS - Glasswater Locks - TBS
+UKP947 - Apsley Farm
+UKP9470 - Land off Tetbury Hill, Malmesbury
+UKP9470P2 - Land off Tetbury Hill, Phase 2
+UKP9479 - Saxon Drive, Biggleswade
+UKP948 - Plymstock Quarry
+UKP9481 - Shepcote Lane - Unit 1
+UKP9482 - Conduit Lane, Hoddesdon
+UKP9486 - Howe Barracks Phase 3
+UKP949 - Clay Lane
+UKP9496 - Old Coleham, Shrewsbury
+UKP9497 - Lutterworth School
+UKP9501 - Longley House
+UKP9507 - Phases 3-5, Highbrook Park, Filton
+UKP9510 - 62 Avenue Road, London
+UKP9517 - Beechgrove, Church Lane, Ascot
+UKP952 - King Street
+UKP9523 - Webb Rise, Stevenage
+UKP9524 - Land at The Grange, Devizes Road, Hilperton
+UKP9527 - Edward Street, Brighton TBS
+UKP9529 - Wimbledon Chase
+UKP953 - Hampton Community School
+UKP9530 - Cleveland Road, Wolverhampton
+UKP9532 - Tenbury Road
+UKP9533 - Manford Way, Hainault
+UKP9534 - Gilbert Inglefield School
+UKP954 - Brancaster
+UKP9545 - Van Dyke School, Leighton Buzzard
+UKP9546 - Viriginia Park, Caerphilly
+UKP9549 - Land North of Crediton Road, Okehampton
+UKP955 - Vincent Lane
+UKP9554 - Birch House Rd, Crackley Bank, Stoke
+UKP9555 - Yatton Phase 3
+UKP9557 - Aylesbury Plot 18 TBS
+UKP9559 - North Devon Leisure, Barnstaple
+UKP956 - Central Chelmsford
+UKP9568 - Dace Road, London
+UKP9569 - Old Print Works, Frome
+UKP957 - Brighton Road Care Home
+UKP9572 - St. Johns Hill P2 LV
+UKP9573 - Northfield SEN School
+UKP9585 - Block A - West Way Place
+UKP9587 - Welwyn Garden City, Waterbeach
+UKP959 - Violet Road
+UKP9591 - Baron's Cross, Leominster
+UKP9591 - Baron's Cross, Leominster - Shortcut.lnk
+UKP9597 - Akeman Park - Unit 1, Phase 2
+UKP960 - Beechwood Park
+UKP9603 - North West Berkeley
+UKP961 - Neat Court
+UKP9613 - Old Afan Lido Site
+UKP962 - Lance Way
+UKP9629 - 24 Duke Street, Chelmsford
+UKP963 - Government House
+UKP9635 - Grange Farm, Cannington
+UKP9637
+UKP964 - Buckshaw Avenue
+UKP9642 - Southborough Hub - TBS
+UKP965 - Bell Farm Road
+UKP9654 - Horsham Fire Station
+UKP9655 - Locking Parklands, NSCC Spine
+UKP9657 - Long Marston - Phase 4E
+UKP9659 - Carrington Street, Mayfair
+UKP9666 - Pix Farm Lane, Hemel Hempstead
+UKP9669 - Hempsted Lane, Gloucester
+UKP9674 - Blackhorse Tower, Cockfosters
+UKP9677 - High View, Hatfield - TBS
+UKP9678 - Sailmakers, Commercial Road, London
+UKP9679 - Toyota Kings Lynn
+UKP968 - KHF AD Plant
+UKP969 - Notcutts Garden Centre
+UKP9692 - Central Parade, Western Avenue, Perivale
+UKP9693 - Barton Park Phase 3, Oxfordshire
+UKP9695 - Melton Road, Edwalton
+UKP970 - Woodlands Yard
+UKP9701 - Wandsworth B&Q
+UKP9702 - 87 Preston Road,  Brighton
+UKP9705 - Sydney Road, Watford
+UKP9707 - Former Kodak, Block A1&A2
+UKP9708 - Phase 2-8, Llanilid, Pencoed, Bridgend
+UKP971 - Showell Chippenham
+UKP9711 - Tithecote Manor - Commercial
+UKP9712 - Milton Ham, Northampton
+UKP9719 - Tredegar Court, Newport
+UKP972 - Mid Hill Wind Farm
+UKP9722 - Ironbridge Power Station, Telford
+UKP9725 - Hilton Garden Hotel
+UKP973 - Springfield Farm
+UKP9733 - Southborough Hub Pavilion
+UKP9734 - Boars Head Events
+UKP9743 - Avon Street, Bristol
+UKP9747 - Assembly B & C, Bristol
+UKP9749 - Broadwindsor Road, Beaminster
+UKP9752 - Bakewell Road, Matlock
+UKP9755 - Iron Acton Way, Yate
+UKP9759 - Friary Park, Acton - GAS
+UKP976 - Bronte Avenue
+UKP9760 - Rom Valley
+UKP9764 - Whitecotes Lane, Chesterfield
+UKP9765 - Oakfield Campus, Swindon
+UKP9766 - North Road, Holsworthy
+UKP9770 - 95 Foxley Lane, Purley
+UKP9771 - Newport Lane, Stoke on trent
+UKP978 - Secmaton Lane
+UKP9788 - Quadrangle, Cheltenham
+UKP980 - Branch Place, Hackney
+UKP9800 - Locking Parklands  - NSSR - NSCD Services
+UKP9805 - Kings Heath Boys School
+UKP9807 - East Quay, Barry Waterfront
+UKP9809 - Butterfield Gas
+UKP9810 - Castle Street, Marsh Gibbon
+UKP9813 - Wandsworth Homebase
+UKP9815 - Lower Farm Academy, Nuneaton
+UKP9818 - Crowborough Phase 3
+UKP9819 - Richmond House, The Hamptons
+UKP9821 - Owlthorpe, Sheffield
+UKP9826 - The Food Hall, Milton Keynes
+UKP983 - Birch Lane
+UKP9834 - St. Pancras Commercial Centre
+UKP9835 - Varcoe Road, Bermondsey
+UKP9837 - Bellfield Road, High Wycombe
+UKP984 - Mays Avenue
+UKP9842 - High Road Ilford
+UKP9849 - Phases 6-7, Highbrook Park, Filton
+UKP985 - Gallagher Retail Park
+UKP9850 - Glenthorne Road, Exeter
+UKP9853 - Manor Road, Canning Town TBS
+UKP9854 - North Road, Stevenage
+UKP9856 - Windsor Street
+UKP9858 - Phase 1A Parc Mawr, Swansea
+UKP9859 - Hanborough Manor School
+UKP986 - Dallow Street
+UKP9865 - Old Southwark Town Hall
+UKP9866 - Fitzherbert Road, Portsmouth
+UKP9867 - 13-14 Hanover Street, London
+UKP9869 - 104-106 Broadway, Stratford
+UKP987 - Petherton Road
+UKP9870 - Strand East Gas MU2
+UKP9871 - 77 St. Pauls Avenue
+UKP9872 - 32 Peascod Street, Windsor
+UKP9874 - Phase 1 - Bodmin Road, Taunton
+UKP9878 - Langdon, Exeter Road,Dawlish
+UKP988 - Buccleuch House
+UKP9884 - Brentford Waterside TBS
+UKP9889 - Aspect House, Peterborough
+UKP989 - Borona SFA
+UKP9891 - Lucan place, Chelsea
+UKP9892 - DWG380 - Rev7 - Site Layout and Water Main Routes.pdf
+UKP9892 - West of London Road, Essex
+UKP9893 - Innovation Park Medway, Chatham
+UKP9896 - Innovation Park Medway Diversions
+UKP990 - Middlemore, Daventry
+UKP9900 - Quayside House, Gloucester
+UKP9905 - Land off Markfield Road, Ratby
+UKP991 - Cashes Green Hospital
+UKP9910 - 60 High Street, Watford
+UKP9911 - North Petherton - East, Taunton Road
+UKP9912 - Siddington Park - Phase 1
+UKP9916 - East Leake, Rempstone Road - Phase 2
+UKP9917 - Victoria Road, Romford
+UKP9918 - Former Bus Depot, High Street, Herne Bay
+UKP992 - Derby Sports Arena
+UKP9920 - Good Luck Hope H&I
+UKP9923 - 44-46 Balaam Street
+UKP9926 - 204 Hoxton Street
+UKP9929 - Tolworth Phase 2
+UKP9932 - Bath Road, Bristol
+UKP9939 - Catherington Park P2
+UKP994 - North Popely
+UKP9942 - Mountain Road, Pembrey
+UKP9946 - Care Home, Frogmore Lane
+UKP9947 - 21-27 Sheldon St, Croydon
+UKP9949 - Newhurst Quarry - TBS
+UKP995 - South Cerney
+UKP9952 - Land off High Lanes, Hayle, Cornwall
+UKP9954 - Sandy's Hill Lane, Frome
+UKP9956 - Sydenham Police Station
+UKP9958 - Fisherton Street, London
+UKP996 - Whitehouse Estate
+UKP9960 - 66 Monkton Road
+UKP9963 - Land off Colchester Avenue, Cardiff
+UKP9965 -Former Clariant factory, Church Village
+UKP9973 - Strand East MU2 TBS
+UKP998 - Blackwall Lane
+UKP9982 - Javelin Way
+UKP9985 - 315 Railton Road, London
+UKP9987 - West Green Road, London
+UKP9988 - Hunter Moon, Chippenham
+UKP999 - Belong Carehome
+UKP9997 - Whyteleafe
+UKP9998 - Dappers Lane
+UKP9999 -  Arundel Road, Angmering
+UKPS - Electrical Design Support Manual Version 1.0 DRAFT.docx
+Wembley.msg
+ZZZ9999.zip
+~$10267.docx
+~$F452 - UKP6339 Hartland Village - Right hand side.docx

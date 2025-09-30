@@ -1,4 +1,4 @@
-version = "v0.1.13"
+version = "v0.1.15"
 # Python modules
 import time
 import subprocess
@@ -32,6 +32,13 @@ project_2 = ctk.StringVar()
 project_2.set("Project 2: ")
 live_projects_dir = []
 edb_projects_dir = []
+local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
+dirname = os.path.abspath(os.path.dirname(__file__))
+references_dir = os.path.join(dirname, "references")
+with open(references_dir + "\\Live Projects Directory.txt", 'r', encoding='utf-8') as f:
+    live_projects_dir = f.readlines()
+with open(references_dir + "\\EDB Projects Directory.txt", 'r', encoding='utf-8') as f:
+    edb_projects_dir = f.readlines()
 
 def existing_files_check():
     # Checks if the Outputs folder already has report files with the same name
@@ -95,12 +102,21 @@ def read_project_dir():
     global live_projects_dir
     global edb_projects_dir
     global local_gw_dir
-    live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
-    edb_projects_dir = os.listdir("S:\\Projects\\EDB Projects")
-    local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
-    if len(live_projects_dir) > 0:
-        read_dir_button.configure(text="Refresh")
-        project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
+    try:
+        live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
+        edb_projects_dir = os.listdir("S:\\Projects\\EDB Projects")
+        local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
+    except Exception as e:
+        tk.messagebox.showerror(title="Error", message="Could not read project directories. Please check your network connection and try again.")
+        return
+    with open(references_dir + "\\Live Projects Directory.txt", "w", encoding='utf-8') as f:
+            for i in live_projects_dir:
+                f.write("%s\n" % i)
+    with open(references_dir + "\\EDB Projects Directory.txt", "w", encoding='utf-8') as f:
+            for i in edb_projects_dir:
+                f.write("%s\n" % i)
+    read_dir_button.configure(text="Refresh")
+    project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
 
 def project_folder_paths(project_code):
     # Function that returns the 3 project folder paths based on project code
@@ -113,6 +129,8 @@ def project_folder_paths(project_code):
             project_code = project_code.split("-")[0]
         for i in live_projects_dir:
             if i.split( )[0] == project_code and len(i.split(".")) < 2:
+                if i[-1:] == "\n":
+                    i = i[:-1]
                 path_project = "S:\\Projects\\Live Projects\\" + i
                 project_dir = os.listdir(path_project)
                 break
@@ -129,6 +147,8 @@ def project_folder_paths(project_code):
         project_code = project_code.split("-")[1]
         for i in edb_projects_dir:
             if i.split( )[0] == parent_code and len(i.split(".")) < 2:
+                if i[-1:] == "\n":
+                    i = i[:-1]
                 parent_dir = os.listdir("S:\\Projects\\EDB Projects\\" + i)
                 for j in parent_dir:
                     if j.split( )[0] == project_code and len(j.split(".")) < 2:
@@ -143,7 +163,6 @@ def project_folder_paths(project_code):
     for i in local_gw_dir:
             if i.split( )[0] == project_code and len(i.split(".")) < 2:
                 path_gw = "C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS\\" + i
-                print(path_gw)
                 break
             else:
                 path_gw = None
@@ -175,7 +194,6 @@ def project_tabs():
     # Assigned to the "Open Project in Tabs" button
     code = code_var.get()
     path_project, path_drawings, path_packs, path_gw = project_folder_paths(code)
-    print(path_gw)
     if None in (path_project, path_drawings, path_packs):
         # If project folder paths are not valid, return
         return
@@ -216,7 +234,6 @@ def project_gw_folder():
         if i.split( )[0] == code and len(i.split(".")) < 2:
             # If project code matches a folder in the local GASWorkS folder, open it
             gw_folder = gw_folder_path + "\\" + i + "\\"
-            print(gw_folder)
             subprocess.Popen(r'explorer ' + gw_folder)
             time.sleep(2)
             return
@@ -254,7 +271,11 @@ code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 code_entry = ctk.CTkEntry(root, textvariable=code_var)
 code_entry.insert(0,"UKP")
 code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, fg_color="#949a9f", state="disable")
+# Check if project directories have been read
+if len(live_projects_dir) > 0 and len(edb_projects_dir) > 0:
+    project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, command=project_tabs, fg_color="#1f6aa5", hover_color="#144870")
+else:
+    project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, fg_color="#949a9f", state="disable")
 project_tabs_button.grid(row=0,column=3,columnspan=2,padx=(0,10),pady=(10,0),sticky='w')
 read_dir_button = ctk.CTkButton(root, text="Refresh", width=80, command=read_project_dir)
 read_dir_button.grid(row=0,column=5,padx=(0,0),pady=(10,0),sticky='w')
