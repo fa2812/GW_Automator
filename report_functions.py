@@ -20,10 +20,20 @@ types = ["Pipe", "Node", "Customer"]
 # Background Tracing Based on CAD (legacy)
     # was placed here, RIP
 
-def progress(dur):
-    # moves cursor from left to right end of screen to show wait time (legacy)
-    pygui.moveTo(0,45,duration=0)
-    pygui.moveTo(1915,45,duration=dur)
+def existing_files_check(draw_report):
+    # Checks if the Outputs folder already has report files with the same name
+    # Returns True if files exist, False if not
+    global code
+    global rev
+    existing_files = os.listdir(outputs_folder)
+    for file in existing_files:
+        if file == code + " - " + rev + " - Pipe Data Report.pdf" or \
+           file == code + " - " + rev + " - Node Data Report.pdf" or \
+           file == code + " - " + rev + " - Customer Data Report.pdf" or \
+           file == code + " - " + rev + " - Summary Report.pdf" or \
+           (draw_report == 1 and file == code + " - " + rev + " - Noded Drawing.pdf"):
+            return True
+    return False
 
 def capture_change(x,y):
     # Checks if the cololur of a pixel at x,y has changed, then returns

@@ -1,4 +1,4 @@
-version = "v0.1.15"
+version = "v0.1.16"
 # Python modules
 import time
 import subprocess
@@ -24,12 +24,7 @@ rev = ""
 draw_report = ""
 code_var = ctk.StringVar()  # project code
 rev_var = ctk.StringVar()   # GASWorkS file revision
-replace_var = ctk.IntVar()  # overwrite existing documents if == 1
 drawing_var = ctk.IntVar()  # prints noded drawing if == 1 
-project_1 = ctk.StringVar()
-project_1.set("Project 1: ")
-project_2 = ctk.StringVar()
-project_2.set("Project 2: ")
 live_projects_dir = []
 edb_projects_dir = []
 local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
@@ -39,21 +34,6 @@ with open(references_dir + "\\Live Projects Directory.txt", 'r', encoding='utf-8
     live_projects_dir = f.readlines()
 with open(references_dir + "\\EDB Projects Directory.txt", 'r', encoding='utf-8') as f:
     edb_projects_dir = f.readlines()
-
-def existing_files_check():
-    # Checks if the Outputs folder already has report files with the same name
-    # Returns True if files exist, False if not
-    global code
-    global rev
-    existing_files = os.listdir(rf.outputs_folder)
-    for file in existing_files:
-        if file == code + " - " + rev + " - Pipe Data Report.pdf" or \
-           file == code + " - " + rev + " - Node Data Report.pdf" or \
-           file == code + " - " + rev + " - Customer Data Report.pdf" or \
-           file == code + " - " + rev + " - Summary Report.pdf" or \
-           (drawing_var.get() == 1 and file == code + " - " + rev + " - Noded Drawing.pdf"):
-            return True
-    return False
 
 def publish():
     # Main function for publishing reports
@@ -70,7 +50,7 @@ def publish():
         code = code.split("-")[1]
     rev = rev_var.get()
     draw_report = drawing_var.get()
-    if existing_files_check() == True:
+    if rf.existing_files_check(draw_report) == True:
         # If files with the report files already exist, change replace variable to True
         tk.messagebox.showwarning(title="Existing Reports Found", message="Existing reports for " + code + " - " + rev + " found in Outputs folder.\nPress OK to overwrite existing reports...")
         replace_files = True
@@ -96,9 +76,8 @@ def open_outputs():
     # Assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
-def read_project_dir():
+def read_project_dir(refresh=False):
     # Reads the Live Project directory in the S: drive
-    # Assigned to the "Read Project Directories" button
     global live_projects_dir
     global edb_projects_dir
     global local_gw_dir
@@ -108,15 +87,22 @@ def read_project_dir():
         local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
     except Exception as e:
         tk.messagebox.showerror(title="Error", message="Could not read project directories. Please check your network connection and try again.")
-        return
-    with open(references_dir + "\\Live Projects Directory.txt", "w", encoding='utf-8') as f:
+        return False
+    if refresh:
+        # If refresh is True, overwrite the existing text files with the updated directory lists
+        with open(references_dir + "\\Live Projects Directory.txt", "w", encoding='utf-8') as f:
             for i in live_projects_dir:
                 f.write("%s\n" % i)
-    with open(references_dir + "\\EDB Projects Directory.txt", "w", encoding='utf-8') as f:
+        with open(references_dir + "\\EDB Projects Directory.txt", "w", encoding='utf-8') as f:
             for i in edb_projects_dir:
                 f.write("%s\n" % i)
-    read_dir_button.configure(text="Refresh")
-    project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
+        refresh_dir_button.configure(text="Refresh")
+        project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
+
+def refresh_project_dir():
+    # Refreshes the project directories and updates the text files
+    # Assigned to the "Refresh" button
+    read_project_dir(refresh=True)
 
 def project_folder_paths(project_code):
     # Function that returns the 3 project folder paths based on project code
@@ -277,8 +263,8 @@ if len(live_projects_dir) > 0 and len(edb_projects_dir) > 0:
 else:
     project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, fg_color="#949a9f", state="disable")
 project_tabs_button.grid(row=0,column=3,columnspan=2,padx=(0,10),pady=(10,0),sticky='w')
-read_dir_button = ctk.CTkButton(root, text="Refresh", width=80, command=read_project_dir)
-read_dir_button.grid(row=0,column=5,padx=(0,0),pady=(10,0),sticky='w')
+refresh_dir_button = ctk.CTkButton(root, text="Refresh", width=80, command=refresh_project_dir)
+refresh_dir_button.grid(row=0,column=5,padx=(0,0),pady=(10,0),sticky='w')
 # row 1
 rev_label = ctk.CTkLabel(root, text="Revision Number   ")
 rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
