@@ -6,8 +6,9 @@ a = Analysis(
     pathex=[],
     binaries=[],
     datas=[
-	('C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\images', 'images'),
-	('C:\\Users\\Fawwaz.Azwar\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\Outputs', 'outputs')
+	('C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\images', 'images'),
+	('C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\outputs', 'outputs'),
+    ('C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\Python Scripts\\GW_Automator\\references', 'references')
 	],
     hiddenimports=[],
     hookspath=[],

@@ -20,13 +20,23 @@ types = ["Pipe", "Node", "Customer"]
 # Background Tracing Based on CAD (legacy)
     # was placed here, RIP
 
-def progress(dur):
-    # moves cursor from left to right end of screen to show wait time (legacy)
-    pygui.moveTo(0,45,duration=0)
-    pygui.moveTo(1915,45,duration=dur)
+def existing_files_check(draw_report):
+    # Checks if the Outputs folder already has report files with the same name
+    # Returns True if files exist, False if not
+    global code
+    global rev
+    existing_files = os.listdir(outputs_folder)
+    for file in existing_files:
+        if file == code + " - " + rev + " - Pipe Data Report.pdf" or \
+           file == code + " - " + rev + " - Node Data Report.pdf" or \
+           file == code + " - " + rev + " - Customer Data Report.pdf" or \
+           file == code + " - " + rev + " - Summary Report.pdf" or \
+           (draw_report == 1 and file == code + " - " + rev + " - Noded Drawing.pdf"):
+            return True
+    return False
 
 def capture_change(x,y):
-    # checks if the cololur of a pixel at x,y has changed, then returns
+    # Checks if the cololur of a pixel at x,y has changed, then returns
     check = True
     while check:
         im1 = pygui.screenshot()
@@ -38,7 +48,7 @@ def capture_change(x,y):
     return
 
 def locate_click(image):
-    ## locate and click based on given image, in while loop
+    ## Locate and click based on given image
     check = True
     while check:
         print_location = pygui.locateCenterOnScreen(image) # delay 1-2 sec
@@ -47,7 +57,7 @@ def locate_click(image):
     pygui.click(print_location[0],print_location[1])
 
 def data_report(ver,replace,code,rev):
-    ## prints pipe/node/customer data report
+    ## Prints pipe/node/customer data report
     pygui.moveTo(154,50,duration=0.2)   # to GW window
     pygui.click()
     pygui.hotkey("alt","r")             # Report tab
@@ -67,17 +77,17 @@ def data_report(ver,replace,code,rev):
     pygui.hotkey("alt","p") # prints report
     time.sleep(0.75)    # wait time for file explorer window to come up
     capture_change(screen_cx,screen_cy)
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
+    pygui.write(outputs_folder + "\\" + code + " - " + rev + " - " + types[ver] + " Data Report.pdf") # inputs name for report
     pygui.hotkey("alt","s") # saves report
     if replace == True:
-        pygui.press("y")
-    time.sleep(1.5)     # wait time for file explorer window to close
-    pygui.press("y")    # redundancy for "Replace file" selection
+        time.sleep(0.5)         # wait time for replace file message box to come up
+        pygui.hotkey("alt","y") # presses "Yes" to replace file
+    time.sleep(1.5)         # wait time for file explorer window to close
     capture_change(screen_cx,screen_cy) # checks centre pixel change
     pygui.hotkey("alt","c") # closes report window
 
 def summary(replace,code,rev):
-    ## prints system summary report
+    ## Prints system summary report
     pygui.moveTo(154,50,duration=0.2)   # to GW window
     pygui.click()
     pygui.hotkey("alt","r")             # Report tab
@@ -88,16 +98,17 @@ def summary(replace,code,rev):
     capture_change(screen_cx,screen_cy)
     pygui.hotkey("alt","p")     # prints report
     capture_change(screen_cx,screen_cy)
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
+    pygui.write(outputs_folder + "\\" + code + " - " + rev + " - System Summary Report.pdf")
     pygui.hotkey("alt","s")     # saves report
     if replace == True:
-        pygui.press("tab")
-        pygui.press("enter")
-    time.sleep(1)               # waiting time for PDF to be fully published
+        time.sleep(0.5)         # wait time for replace file message box to come up
+        pygui.hotkey("alt","y") # presses "Yes" to replace file
+    time.sleep(1.5)             # wait time for file explorer window to close
+    pygui.hotkey("alt","c")     # redundancy for closing report window
     pygui.hotkey("alt","c")     # closes report window
 
 def drawing(replace,code,rev):
-    ## prints noded drawing
+    ## Prints noded drawing
     locate_click(images_folder + "\\GW_button_side.png")
     locate_click(images_folder + "\\GW_print_button.png")
     pygui.press("enter")
@@ -111,7 +122,7 @@ def drawing(replace,code,rev):
     time.sleep(0.3)
     capture_change(screen_cx,screen_cy)
     pygui.hotkey("alt","c") # presses second "Continue"
-    pygui.typewrite(outputs_folder + "\\" + code + " - " + rev + " - Noded Drawing.pdf")
+    pygui.write(outputs_folder + "\\" + code + " - " + rev + " - Noded Drawing.pdf")
     pygui.hotkey("alt","s") # saves report
     if replace == True:
         pygui.press("tab")

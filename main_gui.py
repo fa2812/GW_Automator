@@ -1,6 +1,9 @@
+version = "v0.1.16"
 # Python modules
 import time
 import subprocess
+import os
+import tkinter as tk
 
 # Extra modules
 import pyautogui as pygui
@@ -11,8 +14,8 @@ import report_functions as rf
 
 ## Main Window ##
 root = ctk.CTk()
-root.geometry("540x170")
-root.title("GASWorkS Automator & Folder Macros")
+root.geometry("575x160")
+root.title("GASWorkS Automator & Folder Macros (" + version + ")")
 root.resizable(width=False,height=False)
 
 ## Main Variables ##
@@ -21,28 +24,45 @@ rev = ""
 draw_report = ""
 code_var = ctk.StringVar()  # project code
 rev_var = ctk.StringVar()   # GASWorkS file revision
-replace_var = ctk.IntVar()  # overwrite existing documents if == 1
-drawing_var = ctk.IntVar()  # prints noded drawing if == 1
-new_project = ctk.IntVar()  # new project folder 
-project_1 = ctk.StringVar()
-project_1.set("Project 1: ")    
-project_2 = ctk.StringVar()
-project_2.set("Project 2: ")
+drawing_var = ctk.IntVar()  # prints noded drawing if == 1 
+live_projects_dir = []
+edb_projects_dir = []
+local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
+dirname = os.path.abspath(os.path.dirname(__file__))
+references_dir = os.path.join(dirname, "references")
+with open(references_dir + "\\Live Projects Directory.txt", 'r', encoding='utf-8') as f:
+    live_projects_dir = f.readlines()
+with open(references_dir + "\\EDB Projects Directory.txt", 'r', encoding='utf-8') as f:
+    edb_projects_dir = f.readlines()
 
 def publish():
-    # main function for publishing reports
-    # assigned to the "Publish" button
+    # Main function for publishing reports
+    # Assigned to the "Publish" button
     global code
     global rev
     global draw_report
     code = code_var.get()
-    rev = "Rev" + rev_var.get()
+    if len(code.split("-")) > 1:
+        # If project code has a variation number, split it
+        code = code.split("-")[0]
+    elif code[0:3] == "PAR" and len(code.split("-")) > 1:
+        # If project code starts with "PAR", split it to get the project code
+        code = code.split("-")[1]
+    rev = rev_var.get()
     draw_report = drawing_var.get()
-    full(False,draw_report)
+    if rf.existing_files_check(draw_report) == True:
+        # If files with the report files already exist, change replace variable to True
+        tk.messagebox.showwarning(title="Existing Reports Found", message="Existing reports for " + code + " - " + rev + " found in Outputs folder.\nPress OK to overwrite existing reports...")
+        replace_files = True
+    else:
+        # If no existing files found, change replace variable to False
+        replace_files = False
+    tk.messagebox.showinfo(title="Publishing Reports...", message="Ensure that GASWorkS is open on the Main Display!\nPress OK to continue publishing reports for " + code + "...")
+    full(replace_files,draw_report)
 
 def full(replace,draw):
-    # function that calls report functions to publish all reports
-    # called in publish()
+    # Function that calls report functions to publish all reports
+    # Called in publish()
     for i in range(3):
         rf.data_report(i,replace,code,rev)
         time.sleep(0.2)
@@ -52,173 +72,224 @@ def full(replace,draw):
         rf.drawing(replace,code,rev)
 
 def open_outputs():
-    # opens the Outputs folder
-    # assigned to the "Open Outputs" button
+    # Opens the Outputs folder
+    # Assigned to the "Open Outputs" button
     subprocess.Popen(r'explorer ' + rf.outputs_folder)
 
-def project_folder_format(project_code):
-    if new_project.get() == 1:
-        # append to new format list
-        #new_format_list.write(project_code + f"\n")
-        return True
-    else:
-        # append to old format list
-        #old_format_list.write(project_code + f"\n")
+def read_project_dir(refresh=False):
+    # Reads the Live Project directory in the S: drive
+    global live_projects_dir
+    global edb_projects_dir
+    global local_gw_dir
+    try:
+        live_projects_dir = os.listdir("S:\\Projects\\Live Projects")
+        edb_projects_dir = os.listdir("S:\\Projects\\EDB Projects")
+        local_gw_dir = os.listdir("C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS")
+    except Exception as e:
+        tk.messagebox.showerror(title="Error", message="Could not read project directories. Please check your network connection and try again.")
         return False
+    if refresh:
+        # If refresh is True, overwrite the existing text files with the updated directory lists
+        with open(references_dir + "\\Live Projects Directory.txt", "w", encoding='utf-8') as f:
+            for i in live_projects_dir:
+                f.write("%s\n" % i)
+        with open(references_dir + "\\EDB Projects Directory.txt", "w", encoding='utf-8') as f:
+            for i in edb_projects_dir:
+                f.write("%s\n" % i)
+        refresh_dir_button.configure(text="Refresh")
+        project_tabs_button.configure(command=project_tabs, state="normal", fg_color="#1f6aa5", hover_color="#144870")
 
-def note_folder_format(project_code,folder_format):
-    # opens warning dialog for overwriting folder format classification
-    main_x = root.winfo_x()
-    main_y = root.winfo_y()
-    overwrite_ff = ctk.CTkToplevel()
-    overwrite_ff.geometry(f"+{main_x+80}+{main_y+40}")
-    overwrite_ff.title("Overwrite existing folder format...")
-    overwrite_ff.resizable(width=False,height=False)
-    overwrite_ff_text = "The project " + project_code + " has been logged as having a " + folder_format + " folder format. \n Would you like to overwrite it to "
-    overwrite_ff_label = ctk.CTkLabel(overwrite_ff, text=overwrite_ff_text)
-    overwrite_ff_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
-    
-    def overwrite_format():
-        overwrite_ff.destroy()
-        return True
-    
-    overwrite_ff_button = ctk.CTkButton(overwrite_ff, text="Confirm", command=overwrite_format)
-    overwrite_ff_button.grid(row=1,column=0,padx=(0,0),pady=(10,20))
-    overwrite_ff.grab_set()
-    overwrite_ff.focus()
-    # check if window is closed, then return False if true
+def refresh_project_dir():
+    # Refreshes the project directories and updates the text files
+    # Assigned to the "Refresh" button
+    read_project_dir(refresh=True)
+
+def project_folder_paths(project_code):
+    # Function that returns the 3 project folder paths based on project code
+    # Called in project_tabs()
+    if project_code[0:3] == "UKP":
+        # If project code starts with "UKP", set path to Live Projects
+        # UKP project code should be in the format "UKPxxxx-Vxx"
+        if len(project_code.split("-")) > 1:
+            variation_no = project_code.split("-")[1]
+            project_code = project_code.split("-")[0]
+        for i in live_projects_dir:
+            if i.split( )[0] == project_code and len(i.split(".")) < 2:
+                if i[-1:] == "\n":
+                    i = i[:-1]
+                path_project = "S:\\Projects\\Live Projects\\" + i
+                project_dir = os.listdir(path_project)
+                break
+        if not ("path_project" in locals()):
+            # If project code does not match any folder in Live Projects, show error message
+            tk.messagebox.showerror(title="Error", message="Project does not exist. Please enter a valid UKP project code.")
+            return None, None, None, None
+    elif project_code[0:3] == "PAR" and project_code.split("-")[1][0] == "E":
+        # If project code contains a "PAR" number and an "E" project code, set path accordingly
+        # EDB project code should be in the format "PARxxxx-Exxxx-Vxx"
+        if len(project_code.split("-")) > 2:
+            variation_no = project_code.split("-")[2]
+        parent_code = project_code.split("-")[0]
+        project_code = project_code.split("-")[1]
+        for i in edb_projects_dir:
+            if i.split( )[0] == parent_code and len(i.split(".")) < 2:
+                if i[-1:] == "\n":
+                    i = i[:-1]
+                parent_dir = os.listdir("S:\\Projects\\EDB Projects\\" + i)
+                for j in parent_dir:
+                    if j.split( )[0] == project_code and len(j.split(".")) < 2:
+                        path_project = "S:\\Projects\\EDB Projects\\" + i + "\\" + j
+                        project_dir = os.listdir(path_project)
+                        if "5, Design" in project_dir or "6, Drawings" in project_dir or "3. Design" in project_dir:
+                            break
+    else:
+        # If project code does not start with "UKP" or "PAR" followed by "E" project code, show error message
+        tk.messagebox.showerror(title="Error", message="Invalid Project Code. Please enter a valid UKP or EDB (PARxxxx-Exxxx) project code.")
+        return None, None, None, None
+    for i in local_gw_dir:
+            if i.split( )[0] == project_code and len(i.split(".")) < 2:
+                path_gw = "C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS\\" + i
+                break
+            else:
+                path_gw = None
+    if "5, Design" in project_dir:
+        # If project directory contains "5, Design", set paths accordingly
+        path_drawings = path_project + "\\5, Design\\Drawings"
+        path_packs = path_project + "\\5, Design\\Gas Design"
+    if "6, Drawings" in project_dir:
+        # If project directory contains "6, Drawings", set paths accordingly
+        path_drawings = path_project + "\\6, Drawings"
+    if "3. Design" in project_dir:
+        # If project directory contains "3. Design", set paths accordingly
+        path_drawings = path_project + "\\3. Design\\2. Gas\\1. Drawings"
+        path_packs = path_project + "\\3. Design\\2. Gas\\2. Gas Design"
+    if "variation_no" in locals():
+        # If variation number exists, check for the specific Variation Pack in the Gas Design folder
+        path_packs_og = path_packs
+        gas_design_folder = os.listdir(path_packs)
+        for j in gas_design_folder:
+            if j.split(" ")[0] == variation_no:
+                path_packs = path_packs + "\\" + j
+        if path_packs == path_packs_og:
+            # If variation pack does not exist, show warning message
+            tk.messagebox.showwarning(title="Variation Not Found", message=variation_no + " Pack not found. Opening Gas Design folder instead...")
+    return path_project, path_drawings, path_packs, path_gw
 
 def project_tabs():
-    project_path = root.clipboard_get()
-    project_name = project_path.split("\\")
-    if len(project_name) > 1 and (project_name[-1] != ""):
-        if project_name[2] == "Live Projects":
-            project_code = project_name[3].split()[0]
-        elif project_name[2] == "EDB Projects":
-            project_code = project_name[4].split()[0]
-        subprocess.Popen(r'explorer ')
-    else:
+    # Function to open a project folder, the drawings folder, and the gas design folder in tabs within one File Explorer window
+    # Assigned to the "Open Project in Tabs" button
+    code = code_var.get()
+    path_project, path_drawings, path_packs, path_gw = project_folder_paths(code)
+    if None in (path_project, path_drawings, path_packs):
+        # If project folder paths are not valid, return
         return
+    subprocess.Popen(r'explorer ')
     time.sleep(2)
-    for i in range(2):
-        pygui.hotkey("ctrl","t")
+    if path_gw == None:
+        number_of_tabs = 2
+        path_list = [path_project, path_drawings, path_packs]
+    else:
+        number_of_tabs = 3
+        path_list = [path_project, path_drawings, path_packs, path_gw]
+    for i in range(number_of_tabs):
+        pygui.hotkey("ctrl","t") # opens new tab
         time.sleep(0.5)
+    time.sleep(1.5)
     tab_number = 1
-    while tab_number < 4:
+    for i in path_list:
         pygui.hotkey("ctrl",str(tab_number))
-        time.sleep(0.5)
-        pygui.press("tab")
-        time.sleep(0.5)
         pygui.hotkey("ctrl","l")
-        pygui.hotkey("ctrl","v")
-        if tab_number == 2: # Window 2: Drawings folder
-            if project_folder_format(project_code):
-                pygui.write("\\3. Design\\2. Gas\\1. Drawings")
-            elif project_code[0:3] == "UKP" and (int(project_code[3:] <= 4617)):
-                pygui.write("\\6, Drawings")
-            else:
-                pygui.write("\\5, Design\\Drawings")
-            # for new projects: pygui.write("\\3. Design\\2. Gas\\1. Drawings")
-        if tab_number == 3:
-            # Window 3: Gas Design folder
-            if project_folder_format(project_code):
-                pygui.write("\\3. Design\\2. Gas\\2. Gas Design")
-            else:
-                pygui.write("\\5, Design\\Gas Design")
+        pygui.write(i)
         pygui.press("enter")
         pygui.press("esc")
-        time.sleep(2)
+        time.sleep(1.5)
         tab_number += 1
 
-def open_merge_auto():
-    # opens Merge Automator window (n/a)
-    ma_window = ctk.CTkToplevel()
-    ma_window.geometry("560x170")
-    ma_window.title("Merge Automator")
-    ma_window.resizable(width=False,height=False)
+def project_gw_folder():
+    # Opens the local GASWorkS folder for the project
+    # Assigned to the "Open Project GW Folder" button
+    code = code_var.get()
+    gw_folder_path = "C:\\Users\\Fawwaz.Azwar.UPSL\\OneDrive - Last Mile\\Documents - OneDrive\\- GASWorkS"
+    if len(code.split("-")) > 1:
+        # If project code has a variation number, split it
+        code = code.split("-")[0]
+    elif code[0:3] == "PAR" and len(code.split("-")) > 1:
+        # If project code starts with "PAR", split it to get the project code
+        code = code.split("-")[1]
+    for i in os.listdir(gw_folder_path):
+        if i.split( )[0] == code and len(i.split(".")) < 2:
+            # If project code matches a folder in the local GASWorkS folder, open it
+            gw_folder = gw_folder_path + "\\" + i + "\\"
+            subprocess.Popen(r'explorer ' + gw_folder)
+            time.sleep(2)
+            return
+    # If project code does not match any folder in the local GASWorkS folder, show error message
+    tk.messagebox.showerror(title="Error", message="Project does not exist in local GASWorkS folder. Please enter a valid project code.")
+
+def settings_window():
+    # Opens Settings window
+    settings_window = ctk.CTkToplevel()
+    settings_window.geometry("500x250")
+    settings_window.title("Settings")
+    settings_window.resizable(width=False,height=False)
 
 def open_help():
-    # opens Help window
+    # Opens Help window (n/a)
     help_window = ctk.CTkToplevel()
     help_window.geometry("500x250")
     help_window.title("Help Guide")
     help_window.resizable(width=False,height=False)
 
-def note_fe_windows():
-    # opens warning dialog for before open_fe_windows()
-    main_x = root.winfo_x()
-    main_y = root.winfo_y()
-    fe_note_window = ctk.CTkToplevel()
-    fe_note_window.geometry(f"+{main_x+80}+{main_y+40}")
-    fe_note_window.title("Create File Explorer Windows...")
-    fe_note_window.resizable(width=False,height=False)
-    note_fe_text = "Are you sure you want to create (8) new File Explorer windows?"
-    note_fe_label = ctk.CTkLabel(fe_note_window, text=note_fe_text)
-    note_fe_label.grid(row=0,column=0,padx=(20,20),pady=(10,0))
-
-    def open_fe_windows():
-        # opens 8x File Explorer windows
-        for i in range(8):
-            subprocess.Popen(r'explorer ')
-        fe_note_window.destroy()
-
-    note_fe_button = ctk.CTkButton(fe_note_window, text="Confirm", command=open_fe_windows)
-    note_fe_button.grid(row=1,column=0,padx=(0,0),pady=(10,20))
-    fe_note_window.grab_set()
-    fe_note_window.focus()
-
 def green():
-    # loops cursor movement and click on top left corner of screen
-    # assigned to the "Green" button
+    # Loops cursor movement and click on top left corner of screen
+    # Assigned to the "Green" button
     while True:
         pygui.moveTo(5,5,duration=0)
         pygui.moveTo(10,10,duration=1)
         pygui.click()
 
-## Widgets ##
+## Widgets & Grid Placements ##
 
 ## Main Window
 # row 0
 code_label = ctk.CTkLabel(root, text="Project Code")
+code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 code_entry = ctk.CTkEntry(root, textvariable=code_var)
 code_entry.insert(0,"UKP")
-drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing (Saved View)",
-                                   variable=drawing_var, onvalue=1, offvalue=0)
+code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
+# Check if project directories have been read
+if len(live_projects_dir) > 0 and len(edb_projects_dir) > 0:
+    project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, command=project_tabs, fg_color="#1f6aa5", hover_color="#144870")
+else:
+    project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", width=170, fg_color="#949a9f", state="disable")
+project_tabs_button.grid(row=0,column=3,columnspan=2,padx=(0,10),pady=(10,0),sticky='w')
+refresh_dir_button = ctk.CTkButton(root, text="Refresh", width=80, command=refresh_project_dir)
+refresh_dir_button.grid(row=0,column=5,padx=(0,0),pady=(10,0),sticky='w')
 # row 1
-rev_label = ctk.CTkLabel(root, text="Revision Number             ")
+rev_label = ctk.CTkLabel(root, text="Revision Number   ")
+rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
 rev_entry = ctk.CTkEntry(root, textvariable=rev_var)
-rev_entry.insert(0,"0")
+rev_entry.insert(0,"Rev0")
+rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
+gw_folder_button = ctk.CTkButton(root, text="Open Project GW Folder", width=170, command=project_gw_folder)
+gw_folder_button.grid(row=1,column=3,columnspan=2,padx=(0,10),pady=(10,0),sticky='w')
+outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs, width=80)
+outputs_button.grid(row=1,column=5,padx=(0,0),pady=(10,0),sticky='sw')
 # row 2
 run_button = ctk.CTkButton(root, text="Publish", command=publish, fg_color="#d31f2a", hover_color="#84100b")
-outputs_button = ctk.CTkButton(root, text="Outputs", command=open_outputs,width=80)
-green_button = ctk.CTkButton(root, text="Green", command=green,width=80, fg_color="#1c9b18", hover_color="#186f17")
-#help_button = ctk.CTkButton(root, text="Help", command=open_help,width=80)
-# row 3 (wip)
-merge_button = ctk.CTkButton(root, text="Merge Automator", command=open_merge_auto) 
-# row 4
-new_checkbox = ctk.CTkCheckBox(root, text = "New Folder Format",
-                                   variable=new_project, onvalue=1, offvalue=0)
-project_tabs_button = ctk.CTkButton(root, text="Open Project in Tabs", command=project_tabs)
-
-## Grid Placements ##
-
-## Main Window
-# row 0
-code_label.grid(row=0,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-code_entry.grid(row=0,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-drawing_checkbox.grid(row=0,column=3,columnspan=2,padx=(0,0),pady=(10,0),sticky='sw')
-# row 1
-rev_label.grid(row=1,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-rev_entry.grid(row=1,column=1,columnspan=2,padx=(20,0),pady=(10,0),sticky='sw')
-# row 2
 run_button.grid(row=2,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
-outputs_button.grid(row=2,column=3,padx=(0,0),pady=(10,0),sticky='sw')
-green_button.grid(row=2,column=4,padx=(0,0),pady=(10,0),sticky='sw')
-# row 3 (wip)
-#merge_button.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
-# row 4
-new_checkbox.grid(row=4,column=0,columnspan=2,padx=(10,0),pady=(10,0),sticky='sw')
-project_tabs_button.grid(row=4,column=1,columnspan=2,padx=(20,20),pady=(10,0),sticky='sw')
+settings_button = ctk.CTkButton(root, text="Settings", width=80, command=settings_window)
+settings_button.grid(row=2,column=3,padx=(0,5),pady=(10,0),sticky='sw')
+help_button = ctk.CTkButton(root, text="Help", command=open_help, width=80)
+help_button.grid(row=2,column=4,padx=(5,10),pady=(10,0),sticky='sw')
+green_button = ctk.CTkButton(root, text="Green", command=green, width=80, fg_color="#1c9b18", hover_color="#186f17")
+green_button.grid(row=2,column=5,padx=(0,0),pady=(10,0),sticky='sw')
+# # row 3
+options_label = ctk.CTkLabel(root, text="Publish Options:")
+options_label.grid(row=3,column=0,padx=(10,0),pady=(10,0),sticky='sw')
+drawing_checkbox = ctk.CTkCheckBox(root, text = "Noded Drawing",
+                                   variable=drawing_var, onvalue=1, offvalue=0)
+drawing_checkbox.grid(row=3,column=1,padx=(20,0),pady=(10,0),sticky='w')
 
 root.eval('tk::PlaceWindow . center')
 
